@@ -1,0 +1,3 @@
+changeset 0bfdbbe657eb2c7f7d332c7c686dd20d7c5173ce
+manifest 371698e93fee3c7136f4e48cbab2c78a78dc285e
+files src/HOL/Tools/typedef_codegen.ML

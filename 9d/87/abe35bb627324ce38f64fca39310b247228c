@@ -1,0 +1,3 @@
+changeset 38b68972721bbe0abe5f8cf127a170a9fe6515da
+manifest 239ba32cb1368c8bd955755f51b7f961d46121d4
+files src/HOL/Import/import_syntax.ML

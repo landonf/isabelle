@@ -1,0 +1,3 @@
+changeset bcd14373ec30edced2604ce3e8f9416d16eaed92
+manifest 3bdd1fa7442298018793add6ae2f40a73ffc101d
+files src/HOL/Auth/KerberosIV.thy

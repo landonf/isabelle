@@ -1,0 +1,3 @@
+changeset 86ca651da03e7fcd8118722c1290eeaf77f424d2
+manifest 77c93acc91e98feda3652c7aa640e7b047da18be
+files src/HOL/Tools/int_factor_simprocs.ML

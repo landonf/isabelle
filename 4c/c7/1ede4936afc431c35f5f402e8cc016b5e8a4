@@ -1,0 +1,3 @@
+changeset 87a8ab465b29612066222ac398ffe3d808629823
+manifest 703a12baebb6e0f772de462ec33106dad06cc52c
+files src/HOL/Hoare/SchorrWaite.thy

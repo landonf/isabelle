@@ -1,0 +1,3 @@
+changeset d603c567170b40d67f1955f00ca6d7963aafa330
+manifest 12adccaa832c93be77bed3c0d1e0b2e541baaaae
+files src/HOL/Tools/Datatype/datatype_rep_proofs.ML

@@ -1,0 +1,3 @@
+changeset c05f7e1dd6023d8396832d5c1893071049a88318
+manifest 5c13aef349fc0b0a4ceb54b1e281c884da22c9af
+files src/Pure/Concurrent/future.ML

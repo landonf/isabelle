@@ -1,0 +1,3 @@
+changeset 1d9edd48647942a6fc3d3bb07d66d0976014bb9a
+manifest ff3c307bc5d8de8e25b982ed8acecb2341889f2b
+files src/HOL/Tools/Sledgehammer/sledgehammer_isar_proof.ML

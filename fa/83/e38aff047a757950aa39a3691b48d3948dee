@@ -1,0 +1,3 @@
+changeset ec580491c5d27f0f72b48873902514f1bd0ea773
+manifest 91c53111a26734e656de4a3d51e6f486a8cf6f25
+files src/HOL/Probability/Nonnegative_Lebesgue_Integration.thy

@@ -1,0 +1,3 @@
+changeset 575bf39e078b90682424d828e172d53ffdb4dfbf
+manifest ee9881357af402c1e3aa47044be0e57089a96a88
+files src/HOL/Tools/Quickcheck/narrowing_generators.ML

@@ -1,0 +1,4 @@
+changeset aceaca232177a66b1fa370eb8134bed0d8cfa9a5
+manifest ce9d649513c47361827a7808a3c72931133aff87
+extra amend_source:6e1062171485088e9a593fcf50f596a1373ae6a6
+files src/Pure/Tools/simplifier_trace.ML

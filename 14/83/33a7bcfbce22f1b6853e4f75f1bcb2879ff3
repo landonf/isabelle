@@ -1,0 +1,3 @@
+changeset fe6eac03b81635843060032f24af7f0a03231fd8
+manifest 75ac27d92befa5eea0fa513d1d3d31e5ec3cac7e
+files src/HOL/Nominal/nominal_thmdecls.ML

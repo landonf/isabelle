@@ -1,0 +1,4 @@
+changeset d86023e76d3f786d27a9f884fcb7fc1a537bc324
+manifest c17f4778345e392a04e29c6831d2fd9bc8f0e21f
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/TheoryView.scala

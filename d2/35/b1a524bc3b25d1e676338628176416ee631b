@@ -1,0 +1,3 @@
+changeset f319054e8dffd908d220e7058a82900b08d89c70
+manifest 7fecc259be2256b907625a88b38a5e9d3ffdd668
+files src/HOL/Tools/SMT/z3_isar.ML

@@ -1,0 +1,3 @@
+changeset 93ac73160d7826ce9a505f01914c8865635a56c0
+manifest 8c11e75553e410ba4a2bf3713a81de34ceec6960
+files src/HOL/Tools/SMT/z3_proof_methods.ML

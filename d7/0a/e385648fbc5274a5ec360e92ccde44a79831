@@ -1,0 +1,3 @@
+changeset 1f017e6a0395361c821cdce868bdaeebc7c830dc
+manifest 4e51fb909ed1b6a56c2837878094711b4678a163
+files src/HOL/Tools/function_package/inductive_wrap.ML

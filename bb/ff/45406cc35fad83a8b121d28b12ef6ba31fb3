@@ -1,0 +1,3 @@
+changeset 3274571e45c1619b89547bd383338ba53dc77c46
+manifest 6bea5beaf6d650288e14da1f7543db549758e608
+files src/Pure/Concurrent/future.scala

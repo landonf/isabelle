@@ -1,0 +1,3 @@
+changeset bd80d84b904d7c839aa5921cc620a75241950d9a
+manifest a31fc7baa8215cbe58364fcb2e508fa1f6aa2d7f
+files src/HOL/Nitpick_Examples/Typedef_Nits.thy

@@ -1,0 +1,4 @@
+changeset 305f9f3edf059ed6b41b5b5d70f9e143d63cbb1a
+manifest e2823a7f99a01af6f375af56211e807c3d34d756
+extra rebase_source:8da435e75768a6ddec58e33a5abcb5af447cda42
+files src/HOL/Tools/string_syntax.ML

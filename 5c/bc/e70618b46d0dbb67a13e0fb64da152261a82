@@ -1,0 +1,3 @@
+changeset 7ec405405dd7063b3569f4650399321aeb18c3a0
+manifest 72b1b9ce2f727b7301fab28d2f419f838513f415
+files src/Provers/Arith/assoc_fold.ML

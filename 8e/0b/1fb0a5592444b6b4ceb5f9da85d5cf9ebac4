@@ -1,0 +1,3 @@
+changeset 48dadf69c44d77f03a7107419468fdfa2d823ed2
+manifest 6c764b89ee0c6daabd86ea452e5caf3bf8c0c876
+files src/HOL/Tools/Nitpick/kodkod_sat.ML

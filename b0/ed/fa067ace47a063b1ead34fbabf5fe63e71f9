@@ -1,0 +1,4 @@
+changeset bb2f7488a0f110c0daece6339d7100d94f8eab5e
+manifest eb03050980d03a928e2be764445fb879baf26717
+extra rebase_source:6fc7a7680a74eeca1858d9007acfdfb9aff426b6
+files src/HOL/Predicate.thy

@@ -1,0 +1,4 @@
+changeset a10fc2bd31826bae829f501e75e4e9385d4a12a0
+manifest adbf233041ad503f51982d9ce9b925282c2dc36e
+extra rebase_source:bcb18bd458627dd0fff0ae4d02f21b917d21b419
+files src/Doc/Tutorial/Documents/Documents.thy

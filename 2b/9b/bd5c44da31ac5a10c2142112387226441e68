@@ -1,0 +1,3 @@
+changeset 80a1931267ce2b85b25594a80c256125158024b5
+manifest 830be9009da97e5b9ad5e7ca86d2efdd72ba679d
+files src/HOL/BNF/Tools/bnf_gfp_rec_sugar.ML

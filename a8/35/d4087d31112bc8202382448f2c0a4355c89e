@@ -1,0 +1,3 @@
+changeset 4374005e02f9067758850cf4b2dd4bbaef2219ec
+manifest 97784ba1f5111584eada7eaba1de012f19f7aaa1
+files src/HOL/Tools/Nitpick/nitpick_kodkod.ML

@@ -1,0 +1,3 @@
+changeset 43c7912aac8d825b26a699f86b5c204637565c34
+manifest 1ad282f87e5cc72e192ee2685a478cc88745f7b8
+files src/Pure/Thy/thm_database.ML

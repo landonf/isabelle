@@ -1,0 +1,4 @@
+changeset ff37dc246b1012cf5970849e065a2c3b94c42f64
+manifest fabf3cfdf9777f26d008ecdce2c58ed81df9b624
+extra source:eeff8139b3d82421b939fe520c031823fb34d20c
+files src/HOL/Library/Monad_Syntax.thy

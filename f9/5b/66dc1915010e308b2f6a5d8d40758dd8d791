@@ -1,0 +1,4 @@
+changeset 4dcd05a26795d949a747abab046bc7fb86c1b42b
+manifest ddcbc44cc23609a17f0401edd062d9e28d97098f
+extra rebase_source:a78d8c17a4b65ea23124ce005fd9a2eeeacd89fc
+files src/Doc/System/Sessions.thy

@@ -1,0 +1,4 @@
+changeset 92680537201f7ed2db8b79a263674a85563a4bae
+manifest 6dc171c5348ba9b82b073073d12343be15b8a2b3
+extra rebase_source:d31f2569a9c4fe6840d8020d84630dfd542c38aa
+files src/HOL/GCD.thy

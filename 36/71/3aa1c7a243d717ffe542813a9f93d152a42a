@@ -1,0 +1,4 @@
+changeset 8a9639888639b20fd15bbdd22161907dd233eea2
+manifest 6d6b6cc69d81712d63a432bfc63c69821aa4a62f
+extra rebase_source:2713d4e7f814b8e36be15eb7424aaf09e3ca7f7e
+files src/Doc/Implementation/Syntax.thy

@@ -1,0 +1,4 @@
+changeset acc4bd79e2e97d880bf6a9448c1398dfa747d21a
+manifest 6194f1a5066a3d7da1f63e83fc7093cd55a8c411
+extra rebase_source:38e7bc282b3791b53f2b4d2aa81da720a1f6cf53
+files src/HOL/IMP/Fold.thy

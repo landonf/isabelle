@@ -1,0 +1,4 @@
+changeset 248e1678ce556c3b7878d6d2bd5cb1aed454655f
+manifest cfa34339ffe8f4b47a3bdda2e4447d0d988cc18e
+extra rebase_source:859e01eaf29c6359be1a0f8617744451f7f1ed5c
+files src/HOL/Factorial.thy

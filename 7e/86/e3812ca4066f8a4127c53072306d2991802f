@@ -1,0 +1,4 @@
+changeset ba94aeb02fbc96139786b242b391cf5fd16fe65d
+manifest 6645814b4bc7f3c473808b4ab05babc109e775b1
+extra rebase_source:3833b05922f61705dd2c58bb2f4bb32adec6cbc1
+files src/HOL/Algebra/Multiplicative_Group.thy

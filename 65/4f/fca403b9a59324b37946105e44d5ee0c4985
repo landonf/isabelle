@@ -1,0 +1,3 @@
+changeset 159c18bbc879e74df7c529564693b944b7f74224
+manifest 7df79d3946419900f53a1db09c469022a5ca26d1
+files src/HOL/Tools/Sledgehammer/sledgehammer_prover_waldmeister.ML

@@ -1,0 +1,3 @@
+changeset 20b5558a54198480203c9944e645f6002c6f8ae4
+manifest 391a3407df8b6815a2dc823ca3e73d8dfdf294ba
+files src/HOL/Tools/function_package/fundef_common.ML

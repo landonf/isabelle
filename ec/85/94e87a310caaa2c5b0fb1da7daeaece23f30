@@ -1,0 +1,3 @@
+changeset e1af1cd50c1e4f1cb550870ac506a9401c8be2e3
+manifest 389aee4965eefc6d892651473ea6c202bc200a91
+files src/Provers/Arith/inverse_fold.ML

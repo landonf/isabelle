@@ -1,0 +1,4 @@
+changeset 4a35e3945cab1008f435e92e945bba51790fca0d
+manifest 35d375b119d00496fa549eb19c513f5522bfa2f8
+extra rebase_source:08b5e9bd51d9d1264959f14db6c730a7997df880
+files src/HOL/Library/Countable_Set.thy

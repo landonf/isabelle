@@ -1,0 +1,4 @@
+changeset d6393137b161e9dc3173dee432a63cf54b43a22f
+manifest f5e9bec73943478a9dd05fb993342167aae1728a
+extra rebase_source:cc85a8672d9732d3b375a131d5c82cc5358ede7a
+files src/Doc/Implementation/Integration.thy

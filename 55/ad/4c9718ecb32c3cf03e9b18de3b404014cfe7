@@ -1,0 +1,3 @@
+changeset e6edd47f14831af58d0f801c18d791f8563a0155
+manifest f6d9909660b98bd56ea4b4091e0afb690dfe1819
+files src/HOL/Tools/Lifting/lifting_def.ML

@@ -1,0 +1,4 @@
+changeset 6c4c37a3ebec0d763eb8317952e95f5c097a9ae7
+manifest 0997ab0bb62ce49e34db412a5c66e9c13915f3e6
+extra rebase_source:f87e741591102a41711e046ca49abe2f28705f83
+files src/HOL/Lattices_Big.thy

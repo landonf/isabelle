@@ -1,0 +1,3 @@
+changeset 3e910e98dd67096a68e52ebf7dfcce3d961833e9
+manifest ee9e356b290e7880c3830fb8bbf522630d2f4b75
+files src/HOL/Tools/quickcheck_record.ML

@@ -1,0 +1,3 @@
+changeset fe5b796d6b2a9e5be9546bc28a794fb230a735e0
+manifest 367a28771ef44dcd6f4ce38ed43fcda29f170adb
+files src/HOL/Probability/Giry_Monad.thy

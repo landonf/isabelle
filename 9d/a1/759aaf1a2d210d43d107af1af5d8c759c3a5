@@ -1,0 +1,3 @@
+changeset cfc5fef85d38e21a7710cdec8e42d9f1a8ae5f5a
+manifest 6a72d90eef91c14207e9efe99fe6a942afa1b7d9
+files src/HOL/Hoare/Arith2.ML

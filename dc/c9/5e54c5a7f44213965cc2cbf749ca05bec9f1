@@ -1,0 +1,3 @@
+changeset a297ae4ff188dc67366cf62fe354d20b1cb7b5bd
+manifest 39699a7dfd0cfe88784cfd3a5645ef9d91e92f39
+files src/HOL/Hoare/hoare_tac.ML

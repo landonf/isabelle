@@ -1,0 +1,4 @@
+changeset c7ac6d4f3914c75a2ac82337c7e2dbc3808d67e9
+manifest 94b02328bfe82d243318784a8d095593d6a372f2
+extra rebase_source:32b591ed2b9fb82405cffc0363ad86685d896929
+files src/HOL/Word/Word.thy

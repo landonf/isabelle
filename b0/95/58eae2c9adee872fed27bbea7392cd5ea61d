@@ -1,0 +1,3 @@
+changeset 235d65be79c938720144d277a5d65aa3cb204f36
+manifest 55aa241c71eeddbaee67798c41cf0356e82243cb
+files src/HOL/Library/simps_case_conv.ML

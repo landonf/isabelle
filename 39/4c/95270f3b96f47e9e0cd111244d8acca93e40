@@ -1,0 +1,3 @@
+changeset dde3cc2804cc5b6ef2f9c0039e80d5a6b751e88b
+manifest 3241b982969d597c0fafe9156fe7bb5c9e4cfa51
+files src/HOL/Tools/Function/fun_cases.ML

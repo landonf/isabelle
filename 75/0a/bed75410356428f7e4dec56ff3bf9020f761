@@ -1,0 +1,3 @@
+changeset ddf7cc923d192eb923a9ace8dfefb79b581f4005
+manifest f4c1771643fffac0e1beba61ed638f2c8858cbf3
+files src/HOL/Matrix/Compute_Oracle/am_ghc.ML

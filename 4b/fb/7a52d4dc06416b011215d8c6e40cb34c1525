@@ -1,0 +1,4 @@
+changeset da35747597bdfa1d578db5e9938532069577c124
+manifest 55801bb51cdac759b29536d4efe712b3aec8f381
+extra rebase_source:8455fca8523707b38e3fd83d04b2802e25e8b5e8
+files src/HOL/IMP/Sem_Equiv.thy

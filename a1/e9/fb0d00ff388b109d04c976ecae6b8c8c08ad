@@ -1,0 +1,4 @@
+changeset 1edd0db7b6c4911a549403109e473ec7b6db75af
+manifest b43b34e1b4cba3f9fdd4046d818eabe421eec32a
+extra rebase_source:3ef861222f6ca2a1f0c494421ddbda829f044d88
+files src/Doc/IsarRef/Generic.thy

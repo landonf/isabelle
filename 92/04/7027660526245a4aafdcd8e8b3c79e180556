@@ -1,0 +1,3 @@
+changeset 65612c9f73815dcb0c3fe30fed645c7ffd05262b
+manifest f5e5dd199882b4bef63cc24efdd2cdf084314e25
+files src/HOL/Tools/function_package/size.ML

@@ -1,0 +1,3 @@
+changeset 7c1e65897693470b40109d93217fb2b02329780d
+manifest e792277f4aa14315a0e663b9d99dd742408047bd
+files src/HOL/Induct/QuoNestedDataType.thy

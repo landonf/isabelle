@@ -1,0 +1,3 @@
+changeset bafbc4a3d976dcd59954c300f39a7aabfdf0b861
+manifest 7c8985192fe45513ca52199c3328268da82ec277
+files src/HOL/Tools/Sledgehammer/sledgehammer_reconstruct.ML

@@ -1,0 +1,3 @@
+changeset 37a3b00759dce2b4e7ca59da0d3cb0063efb7863
+manifest de1fc4354aa3615a214cf0cca9e599b6101d7f5e
+files src/HOL/BNF/Tools/bnf_fp_def_sugar.ML

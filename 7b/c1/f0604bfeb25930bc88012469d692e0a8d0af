@@ -1,0 +1,3 @@
+changeset bd9f033b9896073d397484886390f9f20297aba3
+manifest af92904a0ee695b73626bfbe4a7e6684c1e5c8ab
+files src/HOL/Tools/Sledgehammer/sledgehammer_isar_minimize.ML

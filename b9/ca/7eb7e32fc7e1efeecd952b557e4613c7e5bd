@@ -1,0 +1,3 @@
+changeset dd006934a7195d982ce4c0573bd419665b8f4e17
+manifest e2bafef039de932d13f8fc245856310d88d0f15d
+files src/HOL/Tools/SMT/smt_translate.ML

@@ -1,0 +1,4 @@
+changeset 76ac925927aa9ff7b4aaf1f156085b212dd13038
+manifest 3ef75c61ad541e58667f1241dc7756fdd5263b01
+extra rebase_source:5cd284b4a0646c98c2712f996c6c502231e7c1a8
+files src/HOL/Probability/Finite_Product_Measure.thy

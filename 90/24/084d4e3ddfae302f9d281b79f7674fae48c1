@@ -1,0 +1,3 @@
+changeset d2aea34845d42176187b9c36187d4326851ff29c
+manifest 420643c6b0986adffeb4ffee02a8ff8ceb8e36ba
+files src/HOL/Nominal/nominal_datatype.ML

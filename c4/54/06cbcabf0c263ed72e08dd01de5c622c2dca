@@ -1,0 +1,3 @@
+changeset 4193098c4ec1321d5a698f928bda9ddd5bda4f56
+manifest cca53784346e5622efbd35ba7b68eedaf7bfe456
+files src/HOL/Import/import_rule.ML

@@ -1,0 +1,3 @@
+changeset eba0175d4cd1735762abe0ad4f2cca9abddb9f84
+manifest 0bbeec9e0f5bd073ebc7c1a48884df679b8ae044
+files src/HOL/Tools/Predicate_Compile/code_prolog.ML

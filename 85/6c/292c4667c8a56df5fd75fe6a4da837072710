@@ -1,0 +1,4 @@
+changeset 6cebeee3863e2f135be104ad3ff1c15886e2f55e
+manifest 93ba169ff4f0bf84244a096adc860b987bd5c5de
+extra rebase_source:cca9fff2cbe5f8deae7a5d9b6aaf251a035993ed
+files src/Provers/hypsubst.ML

@@ -1,0 +1,4 @@
+changeset 20c74cf9c112826b3bd2ba180492ce9d8fcb8c1f
+manifest 4a9e0a67470907306740c6b3a66c245099e3f8ec
+extra rebase_source:913a8965dbfd5bae3bbe7c21e905aef9fbe5ea9c
+files src/HOLCF/Library/List_Cpo.thy

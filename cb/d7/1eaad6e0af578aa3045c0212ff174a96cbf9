@@ -1,0 +1,3 @@
+changeset 37716a82a3d9a50eb278b97a9ab99f73afcc4d04
+manifest c4001c0c06cd426ffa6b4d1328bfd85d649f36c5
+files src/HOL/Tools/split_rule.ML

@@ -1,0 +1,4 @@
+changeset d45495e897f4c2040a93335c68fc4fad78e85ab6
+manifest 892261c05451b894970d31e8a28a54256454b7d8
+extra rebase_source:9142f41c27ca500530e176631f1a0818d311dc20
+files src/HOL/ex/Bit_Operations.thy

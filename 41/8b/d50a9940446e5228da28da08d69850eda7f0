@@ -1,0 +1,3 @@
+changeset 213e12ad2c0328e88ba814354b7fded82c3e7ccd
+manifest 91564713d54051fe232c1252c649769276c0bc06
+files src/HOL/Tools/ATP/recon_translate_proof.ML

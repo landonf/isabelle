@@ -1,0 +1,4 @@
+changeset ab07a3ef821c8d9df0f811ddea760cb07e16af49
+manifest 964109c5ffe29a6d2900f39697c62523604e8d07
+extra rebase_source:ddd1073fcd2ca24ccbc55a3c8bb1b9bc3f44151e
+files src/HOL/Library/Formal_Power_Series.thy

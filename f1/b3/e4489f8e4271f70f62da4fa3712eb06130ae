@@ -1,0 +1,3 @@
+changeset f73a68c9d810e1aa0cafb99242ec54010902c55f
+manifest 5c550e2708de5530e9887932b3dc6f8d052a0053
+files src/HOL/Tools/Groebner_Basis/groebner.ML

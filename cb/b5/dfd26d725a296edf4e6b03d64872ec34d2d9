@@ -1,0 +1,3 @@
+changeset ff140d072bc900ac8d41076ddf41f9bd0964243c
+manifest 70dd8e4c0f2aa2205b2806d8850f31f41645ec5d
+files src/HOL/Hoare/Pointers.thy

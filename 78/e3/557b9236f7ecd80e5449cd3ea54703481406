@@ -1,0 +1,3 @@
+changeset 9da36603e5230fd84f4508f433b7dfdf11d2867b
+manifest 7ec334245ba2689a799f080bc1934e384174cf65
+files src/HOL/Tools/Argo/argo_tactic.ML

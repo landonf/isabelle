@@ -1,0 +1,3 @@
+changeset 6f89490e8eea9074440e7a9471c83b4bfd810239
+manifest a18df276b4ca1a339106e40a6738ae4f83c07e34
+files src/Provers/Arith/cancel_factor.ML

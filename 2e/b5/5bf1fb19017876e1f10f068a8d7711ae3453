@@ -1,0 +1,3 @@
+changeset 9c7bb416f3441cbb831a873d5cc0bfa22f5d9cc9
+manifest 0dac65b6bf8159276ca02f2f28f09bbb42cf060d
+files src/HOL/Word/BinInduct.thy

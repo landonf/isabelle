@@ -1,0 +1,3 @@
+changeset 141ab3c13ac84ed08623f4cbf5be1a953a09481a
+manifest 4b1d35d99e2974c44fb75201c4bc9c91eb0ddb5b
+files src/HOL/TPTP/atp_theory_export.ML

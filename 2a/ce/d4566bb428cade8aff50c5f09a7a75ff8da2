@@ -1,0 +1,4 @@
+changeset 43518f70b4383cf4db873b9372c5e206f54e49d0
+manifest 5b7490797e4ba455a04416d5b346db29b87c74af
+extra rebase_source:688a5ac2ee73a5dc5476b0aec03fd681cd3ad870
+files src/HOL/Eisbach/match_method.ML

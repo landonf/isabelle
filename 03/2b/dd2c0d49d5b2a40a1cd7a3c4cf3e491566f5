@@ -1,0 +1,4 @@
+changeset 7f562aa4eb4be91577e0cb13d98c8625b738f110
+manifest 64954759a121b8c5766c23445b2e19392c964728
+extra rebase_source:c8ac5ac3a8f18f7d3f3df0e4eb261620623f9d2e
+files src/HOL/Power.thy

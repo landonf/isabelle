@@ -1,0 +1,3 @@
+changeset e709e764f20cfff50da86dd4fa4ed083e303b44f
+manifest c417fe5aa0a482829faff2a3a2e53d9b8a1cb1fb
+files src/HOL/Library/Quickcheck_Types.thy

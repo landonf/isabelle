@@ -1,0 +1,4 @@
+changeset a500677d4cecb29aa92263795dd9bcdfc718d452
+manifest b2ae9d9716646c014ac0324d71269d123834c02c
+extra amend_source:939401f5f7079febb93282de6320bb83c7faeffc
+files src/HOL/Library/Multiset.thy

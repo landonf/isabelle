@@ -1,0 +1,4 @@
+changeset c55980cf7374d67b2b096d14d719b013728e6a0c
+manifest ee6fcd08192e91184d80ec04cbcc381c8b922a75
+extra rebase_source:9dcf3008ffa9899e41dd873611e91ae264043ac7
+files src/Doc/Sledgehammer/document/root.tex

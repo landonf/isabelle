@@ -1,0 +1,3 @@
+changeset 8e585c7d418a0677e9bd4db6ba74f47ac25e860a
+manifest 87326f99c3bfa5d30d9e355927c0a542ffa8830a
+files src/HOL/Tools/async_manager.ML

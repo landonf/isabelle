@@ -1,0 +1,3 @@
+changeset 65ed3b2b315757bccd1c4de7072a2531fe855250
+manifest 42aa10e5a12ad087f22f9d92c47732f5b9819be6
+files src/HOL/Auth/Guard/Guard_Public.thy

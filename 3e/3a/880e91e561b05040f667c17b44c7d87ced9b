@@ -1,0 +1,3 @@
+changeset cf5ab80b6717bef465051ce85c40cf6202174c04
+manifest e300ac74ed169f27636bdcf24968a02d57e86534
+files src/HOL/Tools/type_lifting.ML

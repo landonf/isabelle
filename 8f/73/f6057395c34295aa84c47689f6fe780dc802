@@ -1,0 +1,3 @@
+changeset fd54c15231d3cbd37d89008e662468b91d094b88
+manifest 6f89e23d505f6f6ccf1f800b371e457b93033b5e
+files src/HOL/Tools/TFL/dcterm.ML

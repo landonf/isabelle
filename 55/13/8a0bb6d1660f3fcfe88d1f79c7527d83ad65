@@ -1,0 +1,3 @@
+changeset 297d24fb262c12961517442c6505dbe9866df833
+manifest 4e848da0a93e8673ef028a6316edbc674ca9c2e9
+files src/Pure/Thy/export_theory.scala

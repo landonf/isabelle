@@ -1,0 +1,4 @@
+changeset 19ee25fe9737184de76be13b201ae089e22fb83a
+manifest 4b3664c42799b629855378f905662e2fb1b4b961
+extra rebase_source:aeff2c0cb81d404f07a479450f5429c1f65dbbd3
+files src/HOL/Codegenerator_Test/Candidates.thy

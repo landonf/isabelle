@@ -1,0 +1,3 @@
+changeset 6be49c181c667147812ec72d775e84c752fbc8ed
+manifest c7b960215dc6c4493f02ae6db104d055c98294f6
+files src/HOL/Real/float_arith.ML

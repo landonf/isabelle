@@ -1,0 +1,3 @@
+changeset b6603402554862ba8315137ba5a6b9996eaf9b63
+manifest 5acdfe145a1abf43fea27b6a32ac28a4b51ba49b
+files src/HOL/Induct/Term.thy

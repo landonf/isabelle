@@ -1,0 +1,3 @@
+changeset ab0a547b5aeed4f768b299fd08ebbeaf8158bfb3
+manifest e6439b5cef63f4c2b4e886e771da3375ffb981ae
+files src/HOL/Tools/BNF/bnf_fp_n2m.ML

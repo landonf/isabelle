@@ -1,0 +1,3 @@
+changeset 5c7ade7a1e74a53873a5a9fa751c8f80d4ed3a37
+manifest d303d8bc590248cc59006bcdaff426881cd86259
+files src/Pure/GUI/swing_thread.scala

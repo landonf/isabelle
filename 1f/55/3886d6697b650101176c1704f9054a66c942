@@ -1,0 +1,3 @@
+changeset d7a6ad5d27bf3793bfd5dd80966eadfae8c0e86f
+manifest 95ff27cb2c3a6a1ca90fbfe530649e5566f75d00
+files src/HOL/TPTP/atp_problem_import.ML

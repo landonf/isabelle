@@ -1,0 +1,3 @@
+changeset 081a6285231340dd769f8a3f2ba6b48e2821984e
+manifest e345c75c1043fe7a591d1cd9fca189340c6112cd
+files src/HOL/Nominal/nominal_primrec.ML

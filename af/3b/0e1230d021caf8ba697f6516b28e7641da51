@@ -1,0 +1,3 @@
+changeset 045c96e3edf0fb00d0429a37b2f29224e61afa50
+manifest c010cc9d088d301742b1f91d7b0a305806fd601d
+files src/HOL/HOLCF/Tools/Domain/domain_isomorphism.ML

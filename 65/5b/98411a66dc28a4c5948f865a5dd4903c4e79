@@ -1,0 +1,4 @@
+changeset 15f7ebb29d38b7c3f58d58906817e00dce4b8a81
+manifest 3f72c2d4ef5681e66c071dd60c3260e136e11cda
+extra rebase_source:1a6de9230a570260f22783855b931ab7a6699b9b
+files src/Pure/Tools/find_theorems.ML

@@ -1,0 +1,3 @@
+changeset 58cac1b3b535f03a432bcd68ff88662e62cfd1cf
+manifest e287a36ee03a50a2ff4d9a153046e101bca36dc2
+files src/HOL/Tools/set_comprehension_pointfree.ML

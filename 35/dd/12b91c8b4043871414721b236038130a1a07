@@ -1,0 +1,4 @@
+changeset 2155c0c1ecb6f785acf989e26ae311e18b34f264
+manifest 48e6306c1a1db249c83a9683a55f59caeb9055a2
+extra rebase_source:fd94ca550b1f6bc4720b14d2382efe317458d43e
+files src/HOL/Library/Multiset.thy

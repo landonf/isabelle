@@ -1,0 +1,4 @@
+changeset 920ea85e7426da6a905c373c646932acd3e413c8
+manifest dfafbbbd8b2ba327a631b086c5d18dff3aa986bf
+extra rebase_source:310e7573dc300068e3b786cc91d66ed9109eb08e
+files src/HOL/Nitpick_Examples/Manual_Nits.thy

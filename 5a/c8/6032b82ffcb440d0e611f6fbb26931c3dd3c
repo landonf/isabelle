@@ -1,0 +1,3 @@
+changeset d868b34d604cb3573826d0fffc064312b42298e1
+manifest fccf6309ccba4ea4e19d719fad9194efaa38c7e8
+files src/HOL/Tools/Sledgehammer/sledgehammer_proof_reconstruct.ML

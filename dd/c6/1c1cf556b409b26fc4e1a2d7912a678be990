@@ -1,0 +1,4 @@
+changeset 68d75cff880905735e9b3db53194b3ddb3db7650
+manifest dad0a114e667bcca5912534b41ef35a748349a1c
+extra rebase_source:3ab788e3aeae9ed67500d3e27f458e0663670c64
+files src/HOL/Number_Theory/Euclidean_Algorithm.thy

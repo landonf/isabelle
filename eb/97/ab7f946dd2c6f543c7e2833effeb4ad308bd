@@ -1,0 +1,3 @@
+changeset 81f7e60755c331f4ef15416e6275a2c0dcdf2ffd
+manifest 2a34af8dff33bb01dfd84a16284fa59cf281c57f
+files src/HOL/Tools/Ctr_Sugar/ctr_sugar.ML

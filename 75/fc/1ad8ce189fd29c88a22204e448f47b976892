@@ -1,0 +1,4 @@
+changeset 64469ea4373580d1ed1ae2a7382d89df8144ae68
+manifest a10d0b3bed022d371ee98bbde6a97716c0a7d0f9
+extra rebase_source:1bf7c03921e07b1b2902156ba1896f7dd0de1a48
+files src/HOL/Tools/lin_arith.ML

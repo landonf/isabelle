@@ -1,0 +1,3 @@
+changeset 9c33d02656bc3641b0fae40fc106839933d753c3
+manifest 60e4d042fd2608415d38a242b139e8a7a6fab803
+files src/HOL/Library/Transitive_Closure_Table.thy

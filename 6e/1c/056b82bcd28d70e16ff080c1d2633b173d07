@@ -1,0 +1,4 @@
+changeset 2efdcc7d0775fb112d23fac9387c9a5b3dfe9c1e
+manifest 89f6803344c56a51f59c0e28387433de6edcf410
+extra rebase_source:af4becd956f1792eacd77f3da0331bbdd6ea18eb
+files src/HOL/Quotient_Examples/Quotient_Rat.thy

@@ -1,0 +1,4 @@
+changeset bc8793d7bd217972e32648b09c965cc61bfaaa00
+manifest 2541fb1981973edb488be965ef2e39cbc51d6879
+extra amend_source:bfa38686703d8ff5f8f3a7416bcf043c98179e41
+files src/HOL/Library/Polynomial_FPS.thy

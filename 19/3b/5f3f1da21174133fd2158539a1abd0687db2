@@ -1,0 +1,3 @@
+changeset 14e8e51c7fa858a3c52618dcf0dbcf91d6a49a0c
+manifest c052dbd7540d9c6444008be413bfc92a3476c590
+files src/HOL/TPTP/TPTP_Parser/tptp_to_dot.ML

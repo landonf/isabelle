@@ -1,0 +1,3 @@
+changeset 5832630f049a52932acbfba7277754c4ad7e9256
+manifest 0f73ffb66e509d5c1c67c94c2af01cf09ee9afca
+files src/Pure/Concurrent/single_assignment.ML

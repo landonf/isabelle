@@ -1,0 +1,4 @@
+changeset 10a8d943a8d8d611c33572467b0be61c410a669f
+manifest 7507db6d007bd2a46fe3694e410dba9a3f64d844
+extra rebase_source:6e1a3b798de93572491ae8d486ec4bcb11417d95
+files src/HOL/Word/Bits_Int.thy

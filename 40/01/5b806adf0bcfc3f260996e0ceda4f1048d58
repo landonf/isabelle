@@ -1,0 +1,4 @@
+changeset 721810140424bfe6c251612650eca6a86d012c0b
+manifest af2108e0fab34c2f12f1e3a29cff115bc194e9d5
+extra amend_source:32149aef7e88caab588ccc58519331ff41dd0f64
+files src/HOL/Analysis/Path_Connected.thy

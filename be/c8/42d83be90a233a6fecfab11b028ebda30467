@@ -1,0 +1,4 @@
+changeset 69f0af2b7d542f9c55cc522031b2d081532e9268
+manifest d1c433b0bf2c2ffac53c66725bb60aed1ed41264
+extra rebase_source:2d22795e66ba7c962754adce3d2e2b29dd73c893
+files src/HOL/Log.thy

@@ -1,0 +1,4 @@
+changeset 7e899409834734b1876ec9bc26ef3f2dfd5bd646
+manifest c8d0002d6cd222e42e0e665b0cde7ceca9067bca
+extra rebase_source:742d75f7e945d15aed320843811d4766a909837e
+files src/Doc/Ref/document/tactic.tex

@@ -1,0 +1,3 @@
+changeset 9770b0627de4c3714c9ba8ceb31bff8edea5ccc0
+manifest 9a3403be170d125fe3f700a26621712926aeec22
+files src/HOL/Tools/Sledgehammer/sledgehammer_mepo.ML

@@ -1,0 +1,3 @@
+changeset 236e07d8821ef8dcc26096732b7744f21aeedb9e
+manifest c953aacb8c195f170606dbcc3f6246ec2d4f335b
+files src/HOL/SizeChange/Correctness.thy

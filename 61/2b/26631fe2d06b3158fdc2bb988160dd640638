@@ -1,0 +1,3 @@
+changeset 3cc2ac688fd971ea6240f1fe117cc2de7edcded1
+manifest 70fbf32cd35a480c10af0d44e21bce9cfbe1d208
+files src/HOL/MicroJava/BV/BVSpecTypeSafe.thy

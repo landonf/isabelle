@@ -1,0 +1,3 @@
+changeset 6741ba8d5c6d912d0248dc716d7c25257471a3ad
+manifest 7056c5c9556a69dcd910369c3fd0213aa305d1c6
+files src/HOL/Tools/Sledgehammer/sledgehammer_mash.ML

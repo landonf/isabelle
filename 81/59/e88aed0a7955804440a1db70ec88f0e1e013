@@ -1,0 +1,3 @@
+changeset 8d75ff14e3e963f9c88e3e0a3943a4e2790134bd
+manifest e18fd174f0877bde213d9e3cf1f6995fd09c7668
+files src/HOL/HOLCF/ex/Concurrency_Monad.thy

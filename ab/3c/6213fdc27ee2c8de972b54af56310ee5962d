@@ -1,0 +1,4 @@
+changeset ffa4be8277348c7598bcc76bccb347e640ef1eef
+manifest 56a8c1eda89ede837657722215b6d2485a3643b9
+extra rebase_source:3913c917f7c496dcb5b5129eaa8458620cd7faeb
+files src/Doc/JEdit/JEdit.thy

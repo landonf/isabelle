@@ -1,0 +1,3 @@
+changeset 3857a4a81fa7811323199d71ac107ea8636b1598
+manifest 8276c116501b678253d8db437555105239f511e3
+files src/HOL/Tools/Sledgehammer/clausifier.ML

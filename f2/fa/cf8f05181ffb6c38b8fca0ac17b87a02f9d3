@@ -1,0 +1,3 @@
+changeset 479b4d6b9562e007816b092efb880bc7e99f0031
+manifest dbe2e57a978704dacf35d33a61f27d0cf83505e1
+files src/HOL/TPTP/TPTP_Parser/tptp_syntax.ML

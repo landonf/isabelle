@@ -1,0 +1,3 @@
+changeset 88dd06301dd30f5fcf0435db1256749bc10bc5e8
+manifest c0d6a899d8c5486686f4b38b87973be007978221
+files src/Pure/Thy/document_antiquotation.ML

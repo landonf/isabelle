@@ -1,0 +1,4 @@
+changeset 2d9cf954a8297624216df97a4d382201d3860cd6
+manifest 127637ce1151f6e7f09d76982b98b87ff4b10a31
+extra rebase_source:2c4db3bfcc2dc5aeb63886b4c52ee7765882ab5f
+files src/HOL/ex/Dedekind_Real.thy

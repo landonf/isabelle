@@ -1,0 +1,3 @@
+changeset bb3986d955621a4ea636b9b0c6df919dbe869571
+manifest c0e05cc0533ff9f59de8e2a8ac7138fe38e5d274
+files src/HOL/Tools/Quotient/quotient_def.ML

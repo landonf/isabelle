@@ -1,0 +1,4 @@
+changeset 3465c09222e0099f3c635bc91136b7ab0c1e77ee
+manifest b9d1f19c59369692426ef0816733e55e396f2d7b
+extra rebase_source:8419bd38645abdf4dd758aa8ba1dc69a8863b2f3
+files src/HOL/Library/Quotient_List.thy

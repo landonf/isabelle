@@ -1,0 +1,4 @@
+changeset c1932a4a227f3d2fad4f569b4c75d0b4e04d1a14
+manifest 439a9a8b6b7a673b53df3466e853bb5d257b08db
+extra rebase_source:735fbc297400e09597b3a1143a5ced64447191ca
+files src/HOL/Tools/Qelim/cooper.ML

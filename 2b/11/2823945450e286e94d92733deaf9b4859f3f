@@ -1,0 +1,3 @@
+changeset 500e4a88675e3ae2fd62780083e235d276ee69ef
+manifest a0646f506edcb46ea231253695d7fc3582e3efa5
+files src/HOL/Tools/Sledgehammer/sledgehammer_atp_translate.ML

@@ -1,0 +1,3 @@
+changeset 9cebbaccf8a2d25f840e77e6830707663e645c71
+manifest fdcc5a2f386ed634cfb392cfef3132cf8d41d8ce
+files src/HOL/Tools/inductive_codegen.ML

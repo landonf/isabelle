@@ -1,0 +1,4 @@
+changeset 191bb458b95c465380afcd021d218742126c91c6
+manifest ff6d7527fa2980be50b3797dc573d5c1fdd1b26f
+extra amend_source:895b0110181e63260a55d3fd7ed94de0c95fe843
+files src/HOL/Analysis/Bounded_Continuous_Function.thy

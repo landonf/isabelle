@@ -1,0 +1,3 @@
+changeset 9f38eff9c45f3b19db7a60e4558480105d9f5560
+manifest 2bd2e3962bfc6feb9dfae5f6264a6ae107b244a5
+files src/HOL/Tools/Lifting/lifting_term.ML

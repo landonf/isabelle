@@ -1,0 +1,3 @@
+changeset 6a95ceaa977ec6d0b0176a21d535e7df139f0e39
+manifest 4584932f30f2636c6c22ec5ac3593757728b9a6e
+files src/HOL/Tools/induct_method.ML

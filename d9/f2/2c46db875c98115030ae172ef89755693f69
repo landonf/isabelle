@@ -1,0 +1,3 @@
+changeset b1789117a1c634d5dca36801c1a695443e1bc763
+manifest b62a3589b022b956d9b13d9b7cf557bd0fd85b65
+files src/HOL/MicroJava/JVM/JVMState.thy

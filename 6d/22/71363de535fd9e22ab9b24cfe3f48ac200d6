@@ -1,0 +1,3 @@
+changeset 95f0d5243c85498247764ef141106e34c307cf85
+manifest ff4be1be2b5ef65a728a177546a0af3241952018
+files src/HOL/Auth/Shared.thy

@@ -1,0 +1,3 @@
+changeset f8bd813b41f9d69bc6bd6343cafd603931a8b1ea
+manifest 8decc112be500f8a33af93fc21ba461e0894d955
+files src/HOL/Import/lazy_seq.ML

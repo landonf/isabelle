@@ -1,0 +1,3 @@
+changeset 6b53d954255ba0419ad30517ab0a676c7f6ed65b
+manifest a0da617d568dc89e4f69e40ff16783dd90737ae7
+files src/HOL/Tools/Quickcheck/PNF_Narrowing_Engine.hs

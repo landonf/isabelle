@@ -1,0 +1,3 @@
+changeset 0b30bde83185800efaaec2b4c21054cde8fe09d4
+manifest c44e90bbc340aba417478f7352ab60a294ba35f0
+files src/HOL/MicroJava/BV/Typing_Framework_JVM.thy

@@ -1,0 +1,3 @@
+changeset 01637dd1260c26574dcf357572d60b4ee9cd15c4
+manifest 9f69ece2df0c5936009da62cfab19c551168459e
+files src/HOL/Tools/BNF/bnf_lfp_size.ML

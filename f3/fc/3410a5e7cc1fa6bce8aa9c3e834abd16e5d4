@@ -1,0 +1,3 @@
+changeset 492f8fd35fc0e6d5b6ff95a845367a62a9e6e0fa
+manifest 77b14562f1f269adae627c5a167445d4e78dc114
+files src/HOL/Word/Tools/smt_word.ML

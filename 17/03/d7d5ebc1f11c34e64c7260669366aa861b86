@@ -1,0 +1,3 @@
+changeset 4c681ad99818aee967d7a8b5be44d50566525785
+manifest 78d60da1757c4cd0b3f58d179f2e059c8e1f6bb9
+files src/HOL/TPTP/TPTP_Parser/tptp_interpret.ML

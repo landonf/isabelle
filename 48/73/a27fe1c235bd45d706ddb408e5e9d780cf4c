@@ -1,0 +1,3 @@
+changeset 235205726737eaf40572a66826e339434e9d78fd
+manifest 5430ec8d5762935ebba68458d97c09caeb7affda
+files src/HOL/Tools/Sledgehammer/sledgehammer_prover_atp.ML

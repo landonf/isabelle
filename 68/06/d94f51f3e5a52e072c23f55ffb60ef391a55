@@ -1,0 +1,3 @@
+changeset 566c6b90637089ed8cac4ee68b9470985b0ef1a2
+manifest 48b6e4c4474313d9eb45a5554334b3fb138ccc31
+files src/HOL/Tools/recdef_package.ML

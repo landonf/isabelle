@@ -1,0 +1,4 @@
+changeset da88519e6a0bb655ad970d0950a5c25eb92e0275
+manifest 670e2efe7b3cbbea05f1352d58a483f7dea6283c
+extra rebase_source:ee8f0f1e5d50d03e96df822228a275b46e4a1558
+files src/HOLCF/Tools/Domain/domain_extender.ML

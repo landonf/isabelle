@@ -1,0 +1,4 @@
+changeset fe3f1ca1200a1018bcc2d494fd265acaffe89ac8
+manifest 578bd78ca1c522085fa143692e102f826f05a646
+extra rebase_source:fe89e1b5ae372144c7b722e9a502462c4bde7688
+files src/Tools/permanent_interpretation.ML

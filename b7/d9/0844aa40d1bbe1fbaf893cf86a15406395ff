@@ -1,0 +1,4 @@
+changeset c52c5a5bf4e62e18857b126f90102657beb380a5
+manifest a88738a053af589f5135ded269ecfed7adae5e12
+extra rebase_source:0b90603e16b4e7a1fb252568181733ae19f8aaac
+files src/HOL/Library/List_Permutation.thy

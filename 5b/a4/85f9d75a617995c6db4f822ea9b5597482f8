@@ -1,0 +1,4 @@
+changeset 1ca060139a59c6917d440524a7f74d2083da2da1
+manifest b59819333f82ff30a798eb3afdc82d7d7ad22ab7
+extra rebase_source:3e7d31c0c8cc6ec49cb5327219314176004d1567
+files src/HOL/Probability/Measurable.thy

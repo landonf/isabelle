@@ -1,0 +1,3 @@
+changeset 9dfe8506c04ddfffb077fda303d96db016ebe63a
+manifest 31e0e6dfb4a373cd2a16c56fce73b4cb10bde91e
+files src/HOL/Tools/Old_Datatype/old_datatype_data.ML

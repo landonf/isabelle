@@ -1,0 +1,4 @@
+changeset 9b92ee8dec98a33329449e076d500241471effd7
+manifest 7d87eae1504c3bf71433266f25f22d782fa2755e
+extra rebase_source:af7a71776806bcfdd86379ab5088ca131305f2e9
+files src/Pure/tactic.ML

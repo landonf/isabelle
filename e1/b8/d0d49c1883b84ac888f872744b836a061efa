@@ -1,0 +1,3 @@
+changeset 6c2156c478f63bcc7d61af5b2539508cb80c6457
+manifest e1bb1133eb1ae7e1f697a0177b73c390854c89b7
+files src/HOL/Tools/Qelim/qelim.ML

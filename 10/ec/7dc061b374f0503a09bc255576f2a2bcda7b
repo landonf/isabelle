@@ -1,0 +1,3 @@
+changeset d20f19f54789414be3db14f5aec129a3a97cf84a
+manifest ef3981ca80af3982fbd4d381a90346a37f779b60
+files src/HOL/Tools/Sledgehammer/sledgehammer_prover_smt2.ML

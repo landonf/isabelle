@@ -1,0 +1,3 @@
+changeset ed574b4f7e7058e6e6ac8fdbeaa13a1e76de551d
+manifest 10d74fcc73a6cf4ce8f4f8a50648fff26d6f6503
+files src/HOL/Tools/sat_solver.ML

@@ -1,0 +1,3 @@
+changeset 838b5e8ede730dba820fe625da4dce304ea41004
+manifest cf730c82000bc3073e8480b415b8ad4a6dbd7385
+files src/HOL/Codatatype/Tools/bnf_wrap.ML

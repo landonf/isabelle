@@ -1,0 +1,4 @@
+changeset d21789843f01bb6f6b73bc36de0881a62736234e
+manifest 51e0a8120dcec599996b5a0489b052d3527aa8a8
+extra rebase_source:55254ad631355a5cfc3319204c77901f03ed73c0
+files src/HOL/Computational_Algebra/Formal_Laurent_Series.thy

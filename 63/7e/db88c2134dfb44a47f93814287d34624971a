@@ -1,0 +1,3 @@
+changeset d7b47195ac7bf6af0bd0fc1b4aa99079ef76ead3
+manifest 0fcb55ad5f385c152476e51e2556cf0c9b2a2c4d
+files src/HOL/Tools/ATP/VampireCommunication.ML

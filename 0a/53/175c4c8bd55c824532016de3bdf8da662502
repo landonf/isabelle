@@ -1,0 +1,3 @@
+changeset 71dc4e6c001ca2102ccd3f726908a1baa75f4e13
+manifest bbd0061c1eab23d17fe363ccdb069623b289a335
+files src/HOL/BNF/Tools/ctr_sugar.ML

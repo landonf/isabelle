@@ -1,0 +1,3 @@
+changeset adaf279ce67b2b612bb7aa6f20949bb9b81e362c
+manifest bb4257fa2cf68c9c5f764337ef420b22e2dfba24
+files src/HOL/Tools/inductive_realizer.ML

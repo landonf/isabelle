@@ -1,0 +1,3 @@
+changeset 78d0f18d5b3664c1c8776406958d9824d5b76032
+manifest 055e43f435b526f544547d4e2bea61da95a65ef0
+files src/HOL/Tools/Sledgehammer/metis_clauses.ML

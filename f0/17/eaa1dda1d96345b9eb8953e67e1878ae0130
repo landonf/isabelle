@@ -1,0 +1,3 @@
+changeset dcb32fe975031044022fa20216e7c0857342b103
+manifest 9ff3dd987a193fc475c3e0c2c25ef43978d2687b
+files src/Pure/Isar/outer_syntax.ML

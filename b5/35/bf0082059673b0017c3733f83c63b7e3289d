@@ -1,0 +1,4 @@
+changeset 77306bf4e1eec88b4da6e47363299764b538ef39
+manifest 4a5deed4acfc9d6d7c700179aa8793e75a495f36
+extra amend_source:7a26a858413a154af42ec536177a1b04170e296d
+files src/HOL/Tools/Mirabelle/mirabelle.ML

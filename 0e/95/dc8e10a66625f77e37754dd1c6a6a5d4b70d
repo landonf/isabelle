@@ -1,0 +1,3 @@
+changeset 97b8051033beb174a74fabc51262786e4a1b0802
+manifest 5d937cf10ca5283f874f2c897b72fe5e5428a29d
+files src/HOL/Tools/Sledgehammer/meson_clausify.ML

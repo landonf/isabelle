@@ -1,0 +1,3 @@
+changeset fc22f59f5ae7520dc62c460af27d78fc6ef3dd16
+manifest 61f7af5da650edb9e32c74995ed9091fef5402b2
+files src/HOL/Hoare/Hoare.ML

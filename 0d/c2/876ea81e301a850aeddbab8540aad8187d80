@@ -1,0 +1,3 @@
+changeset a5aa61b7fa740aca8fea0d49bc421ef116c2e6b7
+manifest 129c0d26e7d8bf9e2f044e412a6eb2fa7af0e1be
+files src/HOL/Tools/Sledgehammer/sledgehammer_fact_preprocessor.ML

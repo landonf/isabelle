@@ -1,0 +1,3 @@
+changeset e794026122669305cad12bfb6f7c6352b69e79d7
+manifest 80e38562dbde894e8c334d0b1ddf7959e9a18046
+files src/HOL/Statespace/distinct_tree_prover.ML

@@ -1,0 +1,4 @@
+changeset 6a61bb577d5b16e134dca58dd9cd2f85b895fc86
+manifest 87509e6c5b04f6c2eb807b36da44a25005fa6183
+extra rebase_source:01de51c6333edb1f57ff734be51f94050a97d40a
+files src/HOL/Inductive.thy

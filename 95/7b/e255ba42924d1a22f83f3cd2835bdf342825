@@ -1,0 +1,3 @@
+changeset 00878e406bf5ab641cdfbc71b0d0177dd78c2277
+manifest 5b24769ac08acc36a0b83ce0aa958410330654a6
+files src/HOL/Imperative_HOL/ex/Imperative_Quicksort.thy

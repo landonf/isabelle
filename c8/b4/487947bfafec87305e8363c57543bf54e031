@@ -1,0 +1,3 @@
+changeset ec6ba4b1f6d58175c6ade8d8b15a693e40ceeca4
+manifest 271c061fa726f6e1bebfad3e0afb38429e1570cd
+files src/HOL/Statespace/state_fun.ML

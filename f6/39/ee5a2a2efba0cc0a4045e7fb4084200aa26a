@@ -1,0 +1,3 @@
+changeset 41d9efe3b5b12a5965236b2e3a357dfa84cade43
+manifest e14e2c390dd67f797045ff18526ff810690276e8
+files src/HOL/Auth/CertifiedEmail.thy

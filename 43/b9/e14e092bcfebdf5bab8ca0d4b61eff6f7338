@@ -1,0 +1,3 @@
+changeset e74aa9d9162be071cb3a1bfc52e288dfad6a5e01
+manifest 35a44d08ab211cc9a280b1ed06153fcd1f853720
+files src/HOL/Tools/Metis/metis_tactics.ML

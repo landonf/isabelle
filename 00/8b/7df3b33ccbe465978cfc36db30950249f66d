@@ -1,0 +1,4 @@
+changeset 54a2f155621b469313429bc35f2354f624e21787
+manifest 95c9aaaae8f5fcdeab60c9bd4ef82b9473df5b64
+extra rebase_source:bac7e5f6131e2ba8f1a4c9eed6e8ad3509bce073
+files src/HOL/Library/Target_Numeral.thy

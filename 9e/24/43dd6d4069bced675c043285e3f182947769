@@ -1,0 +1,3 @@
+changeset 5c4d3f10ac5a16c4f5baef4651147bd9d238ec91
+manifest 0185b29456022077f860468dd8bd39c18ab6220a
+files src/HOL/Induct/QuoDataType.thy

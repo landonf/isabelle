@@ -1,0 +1,3 @@
+changeset 623645fdb0472ffbcd6021cf543ee87cc4710f52
+manifest f7fe6d793542d110d35307e07f8598e41cfca79c
+files src/HOL/Tools/ATP/atp_waldmeister.ML

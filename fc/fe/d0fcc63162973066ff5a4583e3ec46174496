@@ -1,0 +1,3 @@
+changeset ee5a0ca00b6f6dce95a63b68ffe1770a5f3fb4fe
+manifest 84fd0096ba5785bf1a18507e0fc9798727ec687d
+files src/HOL/IMP/Hoare_Total.thy

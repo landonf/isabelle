@@ -1,0 +1,3 @@
+changeset 48c800d8ba2d124006da9ff29635307925666529
+manifest 157fed5edbacc4051f4ac3b8e4c44ce93d5f87c9
+files src/HOL/Library/While_Combinator.thy

@@ -1,0 +1,3 @@
+changeset 87e3c180044a4289917c175348767abb0f346587
+manifest 7dd7413cb4842a5692226fce5f8589dbb1f934d9
+files src/HOL/Library/RBT_Impl.thy

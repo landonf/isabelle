@@ -1,0 +1,3 @@
+changeset c442f3362f7ad1ff85ec32c576c9369021ee9667
+manifest e2ffef11c63b73f1b3a5470793cb263eb0398f64
+files src/HOL/Import/lazy_scan.ML

@@ -1,0 +1,4 @@
+changeset 77722b866fb47b1a8ff12a890c4c9f88c237c603
+manifest 6bce3c18ebdbc3710c5a04ed7193ead715ba34c4
+author immler@in.tum.de
+files src/Tools/jEdit/src/proofdocument/ProofDocument.scala

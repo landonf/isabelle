@@ -1,0 +1,3 @@
+changeset 9b34b1449cb7f060a46c0ee15c1d0bfdda6994a0
+manifest 425cd589ea6a07a6c459ae50ed5443b121663c71
+files src/HOL/Matrix/SparseMatrix.thy

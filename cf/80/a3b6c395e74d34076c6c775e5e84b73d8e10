@@ -1,0 +1,3 @@
+changeset 6a1c1d1ce6ae6aabd719fc74971ca6a82bc5783c
+manifest 5487d558d66e4174cbdafb9b52c53e961cfde433
+files src/HOL/Data_Structures/Interval_Tree.thy

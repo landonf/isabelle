@@ -1,0 +1,4 @@
+changeset 2edac4e139181ed800bae63fe562418525dbca0c
+manifest 692f4cc6b8f60eee5da7c500c374df8bdcd3eaa3
+extra rebase_source:4d6a873d9bcb9d8409ee189c462e760f3e1784bf
+files src/HOL/Tools/Predicate_Compile/predicate_compile_fun.ML

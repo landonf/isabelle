@@ -1,0 +1,3 @@
+changeset 1ef88d06362f8b4451b857fda4d0380067e95212
+manifest 95e38d30c4e8c0c64a36ed6dd531496924aafdf9
+files src/HOL/Nominal/Examples/Type_Preservation.thy

@@ -1,0 +1,3 @@
+changeset ed80839302039442affa774cdb5e268d412bb0f8
+manifest b8deb12af2596ef5ebe529a0ede6acac5645ff5f
+files src/HOL/Tools/TFL/rules.ML

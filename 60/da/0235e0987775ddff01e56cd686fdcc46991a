@@ -1,0 +1,3 @@
+changeset f312a035d0cffa1fc376e212767009c7078aa9c5
+manifest 019ef40e42d344eb4612e92d4d29c97367e9e2bf
+files src/HOL/BNF/Examples/Derivation_Trees/DTree.thy

@@ -1,0 +1,3 @@
+changeset b56fda32bf24dac75fe69e13b10ec934281d1b06
+manifest ee370cc4a25c979351a7c7264c19be730870fd1d
+files src/HOL/Decision_Procs/langford.ML

@@ -1,0 +1,3 @@
+changeset 9b831f93d4e8e32e4ce25102c7ab2f55dcaa2810
+manifest d35679eba3e1a3f94f859240113a29414b53899f
+files src/HOL/BNF/Tools/bnf_wrap_tactics.ML

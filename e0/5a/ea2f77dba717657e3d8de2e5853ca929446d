@@ -1,0 +1,3 @@
+changeset 68a770a8a09fd2d61c903731b4f72e9517b98117
+manifest 419ab34197d6bf0db21a08f14e2c687f594143a5
+files src/HOL/Tools/Quotient/quotient_tacs.ML

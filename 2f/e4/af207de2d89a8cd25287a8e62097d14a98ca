@@ -1,0 +1,3 @@
+changeset 4d2123c583fa7bcbf9c7fdadd7fc444419ef7aa4
+manifest f33cc8d8441e243d88d7a3f978ab60db8bcf172a
+files src/HOL/Tools/Predicate_Compile/predicate_compile_proof.ML

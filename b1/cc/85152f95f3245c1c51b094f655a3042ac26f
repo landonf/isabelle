@@ -1,0 +1,4 @@
+changeset 917af128270b39555a26d2162801fcc84ba75718
+manifest 916ad223aa1acdf77dc0a3623a722a0fd7952b3e
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/StateViewDockable.scala

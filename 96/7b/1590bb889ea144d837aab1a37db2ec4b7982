@@ -1,0 +1,4 @@
+changeset cd2b6debac181cac0b05a282dfb327d0f6fc8f1c
+manifest 075bab50f59dc55f6ad2186a8910166b14d24a56
+extra rebase_source:9996872589baf749e8b258930a857dd9cb6b7933
+files src/HOL/Library/Predicate_Compile_Alternative_Defs.thy

@@ -1,0 +1,3 @@
+changeset f2167948157ea3d9c25cf5a87b4b49ea8d7152b0
+manifest fa5564d31f8f64f6d81c2948243ed322e9ecadf0
+files src/HOL/Tools/ATP/system_on_tptp.scala

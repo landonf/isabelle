@@ -1,0 +1,4 @@
+changeset d00e2b0ca0699f5e50c557d3cf050c239ec1dbee
+manifest 6f1b1119e8de2da20fd363ce2833b3d0d1346663
+extra rebase_source:7e895b126f7da46ce4b24dea945035c12a0e3eb2
+files src/HOL/Probability/Sigma_Algebra.thy

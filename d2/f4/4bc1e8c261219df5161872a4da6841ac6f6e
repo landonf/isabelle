@@ -1,0 +1,4 @@
+changeset 4de2380ae3ab3ca87b5a3680c2d0aa1128c53742
+manifest 3416cb19afce218f2a786253f5c2483e12f600ad
+extra rebase_source:e70bdb7735cabc4cfe7dbef6845f65ac7756c8b2
+files src/Pure/Isar/interpretation.ML

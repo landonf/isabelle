@@ -1,0 +1,3 @@
+changeset 6e0cb8044734cd215deb2d0d1c7f28371c474052
+manifest d1291346ed6a4182404479719c4d4fdb4a69acda
+files src/HOL/Tools/Sledgehammer/async_manager.ML

@@ -1,0 +1,3 @@
+changeset 805a2acf47fdb96a30a3eb30d2a183c4f0ab9447
+manifest 1ebca6c46cebb8f6d23dcd99ceb160e4bc774f91
+files src/HOL/Tools/Quickcheck/exhaustive_generators.ML

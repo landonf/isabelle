@@ -1,0 +1,3 @@
+changeset 141a1d4852595a1fe425f52f8c7f85bd0de4919a
+manifest af55978a4724c02c29faf2c3d1d3c8f800ba822b
+files src/HOL/Tools/BNF/bnf_lift.ML

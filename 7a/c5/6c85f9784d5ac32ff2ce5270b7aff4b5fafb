@@ -1,0 +1,4 @@
+changeset 58f74e90b96d07f6b1f01061faf4825b68d2cfe5
+manifest 0709f8d955aa9c9906a558a4fbd6d92898f45cd2
+extra rebase_source:bafd80701969f090c70c5bbcf3f6ed322474efcf
+files src/HOL/Orderings.thy

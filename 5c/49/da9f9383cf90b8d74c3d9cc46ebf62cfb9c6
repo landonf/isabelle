@@ -1,0 +1,4 @@
+changeset fc877448602e585c3fc7ab94de32803306d7e76b
+manifest 5b63f996aa25efe44ae55e3d566b495e29b40a1f
+extra amend_source:549e6f93c390b168c9df6bea73f7e912ca9ba985
+files src/HOL/Quickcheck_Exhaustive.thy

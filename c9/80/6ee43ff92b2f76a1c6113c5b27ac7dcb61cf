@@ -1,0 +1,4 @@
+changeset 3fdb94d87e0e819044e99b5b49e8ac10fcac555b
+manifest 902c223a3e313fec8c4ff858a2f88bfed32231fd
+extra amend_source:8e40fa066b6b37b7c27f8d406f44495546a35099
+files src/HOL/Library/Sublist.thy

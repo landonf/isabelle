@@ -1,0 +1,3 @@
+changeset fd4960dfad2a2625e5f2f6faac1f66d73c326869
+manifest 0f848cdf1ff429e8d408435220ac8343f2254fd1
+files src/HOL/Analysis/Change_Of_Vars.thy

@@ -1,0 +1,3 @@
+changeset 6d7df9b98537373b3f85a5a43eea48a5ab7ddb03
+manifest ccd6be484d25520d17b96fdf26183333241ff36b
+files src/HOL/Modelcheck/CTL.thy

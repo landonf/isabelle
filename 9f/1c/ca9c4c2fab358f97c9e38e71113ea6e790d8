@@ -1,0 +1,4 @@
+changeset 8a9fb53294f4aa40be8eb9238bb4a8194416571a
+manifest 18fc6d265b18ad810490bce957f98b1fb9eebaf6
+extra rebase_source:426c3f0c143268e0e475a0b72a6c9db35e76b0b6
+files src/HOL/NthRoot.thy

@@ -1,0 +1,3 @@
+changeset 5b240a4216b0323faf917370f43d23fc0fbfc622
+manifest 5e18a7386fd5eb0a574585242618ac304f192e68
+files src/HOL/Tools/datatype_package.ML

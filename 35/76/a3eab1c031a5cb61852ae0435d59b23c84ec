@@ -1,0 +1,3 @@
+changeset 0a72c0527111972b9372e120a9c7610a3f7bc053
+manifest 89ab4ae3a9d37f7301b4d0927e1d2e339a0d1763
+files src/HOL/Tools/ATP/atp_reconstruct.ML

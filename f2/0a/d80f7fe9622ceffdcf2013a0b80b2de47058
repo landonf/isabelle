@@ -1,0 +1,3 @@
+changeset 4b3a062b65385ab8b408651a8b9ccaab2c070148
+manifest 91778eccc7b9054ecb994cc01ed8341353988c7d
+files src/HOL/Hoare_Parallel/RG_Tran.thy

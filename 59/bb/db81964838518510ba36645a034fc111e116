@@ -1,0 +1,3 @@
+changeset 6cb7a7b97eac9d7877aeea84f2403b6ca8f0e3a2
+manifest c5f0274a8247cb2ed392e76d1d80f7232666a145
+files src/HOL/Tools/Quickcheck/find_unused_assms.ML

@@ -1,0 +1,4 @@
+changeset 0fec381fb51ea9dc7273d2ee0fd73ac7404e9399
+manifest d147b5db15db694842cb568f7e66d8a4a9ef7ce5
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/VFS.scala

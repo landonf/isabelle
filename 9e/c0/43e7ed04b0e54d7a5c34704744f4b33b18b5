@@ -1,0 +1,4 @@
+changeset 692a1b317316400fefef68ccc79d8335866cf562
+manifest 532eb06b061b52a50a8578ef86ff90f897432991
+extra rebase_source:a06fe8c613fa7121c2b496f2b5b96e2810f54ba5
+files src/HOL/Probability/Essential_Supremum.thy

@@ -1,0 +1,3 @@
+changeset 17200800a5538d6885524834c72a1f2e8e57628f
+manifest 98938a1aadcc80c6e0990191cb8154e15aad1ef7
+files src/HOL/Tools/BNF/bnf_fp_n2m_tactics.ML

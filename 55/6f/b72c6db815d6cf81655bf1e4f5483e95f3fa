@@ -1,0 +1,4 @@
+changeset b129052644e92cfddaaba545af7af38b9128062a
+manifest a770889d4ed108c5610f85201107a095b59f45b0
+extra rebase_source:9635a3976a30f3bb8ea5c228cef6be401bf6a444
+files src/HOL/Binomial.thy

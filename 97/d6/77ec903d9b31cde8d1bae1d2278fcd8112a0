@@ -1,0 +1,3 @@
+changeset f3ec4c151ab1ec3c77ffeb1a1c8ee7b2355a7ac1
+manifest 63fd45783925908dadcadf04561dc447cef51b40
+files src/HOL/Data_Structures/Queue_2Lists.thy

@@ -1,0 +1,3 @@
+changeset 65903ec4e8e868cd146f9ca3b4149854863b1a65
+manifest 52362631cb6c9ee9cb48d0333d4180fc89d3cf72
+files src/HOL/Tools/Sledgehammer/metis_tactics.ML

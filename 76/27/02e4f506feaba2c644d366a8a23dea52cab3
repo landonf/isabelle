@@ -1,0 +1,4 @@
+changeset 6f3771c00280ac94aee88d97593880d5f9070ec3
+manifest 6753ade4db244251ee87c912f4bbbd8fc8156e05
+extra rebase_source:00890a01bbaaeb8673d6cbaa55d2a6f454fbd7ff
+files src/Pure/library.ML

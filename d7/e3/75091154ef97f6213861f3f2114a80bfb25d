@@ -1,0 +1,3 @@
+changeset 985190a9bc39d587c5dcd49f7d645ade2b9ce7d0
+manifest e0460016842741ddfc8ebb2be1e6512cd43d5753
+files src/HOL/Tools/Presburger/cooper.ML

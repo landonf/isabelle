@@ -1,0 +1,4 @@
+changeset aa3d2a6dd99e677bdb86375a7965bcb803d128aa
+manifest 35681b590b81e282cf8e2beeb6ce0ad646a0ca5f
+extra amend_source:a499c95abd9c802ab374d1ad50c908ad12922c61
+files src/HOL/Library/rewrite.ML

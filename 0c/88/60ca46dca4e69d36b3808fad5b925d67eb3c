@@ -1,0 +1,3 @@
+changeset ffc8669e46cf0ee00e667d8bf781b8b496379059
+manifest 191ab29a29db34691ecb2d2c7c14031a65464bb7
+files src/HOL/Tools/BNF/bnf_tactics.ML

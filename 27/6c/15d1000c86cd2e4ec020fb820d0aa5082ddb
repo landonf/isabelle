@@ -1,0 +1,4 @@
+changeset acc6cb1a1a670fb6cc47b32228ff63bcaa470db7
+manifest baf97a9e0c6243c38635c55fc85bf86833838397
+extra rebase_source:74bb8ec99405ac13dce51747a70bb95859ed216c
+files src/Pure/raw_simplifier.ML

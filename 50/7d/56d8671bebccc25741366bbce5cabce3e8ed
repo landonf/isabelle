@@ -1,0 +1,3 @@
+changeset b22db9ecf416bd4b466ba5f003e1daf504aba131
+manifest af21c9aa2504b3c99cc8729e04d0366be0f9011d
+files src/HOL/Tools/abel_cancel.ML

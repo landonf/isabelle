@@ -1,0 +1,3 @@
+changeset 820e8e704ba6ceac70955fe2084ba88a109668d0
+manifest faff7c4fed0a3218cb7680371c2e435a3be83ce8
+files src/HOL/Library/rewrite.ML

@@ -1,0 +1,4 @@
+changeset 678c3648067cb5b708fdf90c6fed9b762873551f
+manifest 60d17a7ce48c11a15dd6e532ceb943d59a9ec426
+extra rebase_source:d3eb66d1aea452bf89225dbccd04502535d7f2ac
+files src/HOL/Multivariate_Analysis/Weierstrass.thy

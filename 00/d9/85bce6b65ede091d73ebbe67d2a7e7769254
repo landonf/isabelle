@@ -1,0 +1,4 @@
+changeset 00276ab4f1d5fc8c6f4ba1e13a92aea6112c1a25
+manifest 2ad3004fcba980e419108055a56c7ce52b893e0b
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/ScrollerDockable.scala

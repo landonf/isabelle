@@ -1,0 +1,3 @@
+changeset fa079fd40db8633abd5269f8adc54b62ef2dffb8
+manifest 2ab64ce822aaea3279103cdc357ce11f43003e5c
+files src/HOL/Tools/Sledgehammer/sledgehammer_isar_compress.ML

@@ -1,0 +1,4 @@
+changeset 0d97ef1d6de9e11cea65efbd3b30a84447ba1a94
+manifest 7e3b477a55d13fba736fcd6abf0242bb05d06c81
+extra rebase_source:92fc5c9511c5c9169b8664781eeabf3c636e337a
+files src/HOL/Probability/Projective_Limit.thy

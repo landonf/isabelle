@@ -1,0 +1,3 @@
+changeset 59826ea67cba90a80df89898c9034fcbeb0777bf
+manifest c8522dfe6167bfb522a32fd5353c769248be6990
+files src/HOL/Induct/LList.ML

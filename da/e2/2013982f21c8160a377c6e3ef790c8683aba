@@ -1,0 +1,3 @@
+changeset 96365b4ae7b607f1d0be1265b56224be26684476
+manifest c693a6ece3f26e96c8f298e4ca1bd89eff714294
+files src/HOL/Tools/SMT/smt_normalize.ML

@@ -1,0 +1,3 @@
+changeset 409d1ca929b5b931589cae2ba5c00c66348354f6
+manifest abb3610e5079d00275b0b4fbc5178f6d8645e676
+files src/HOL/Real/HahnBanach/Bounds.thy

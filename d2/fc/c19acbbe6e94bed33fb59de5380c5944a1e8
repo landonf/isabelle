@@ -1,0 +1,4 @@
+changeset d59b9531d6b06adced5adb169a218bea0d9ddd76
+manifest 54c5b5d80d84c4796e9ca4e04e6e158b285abcf7
+extra rebase_source:8e2d16eb3c5682dc096c78e3b6d93d231cde0d56
+files src/HOLCF/Tools/fixrec.ML

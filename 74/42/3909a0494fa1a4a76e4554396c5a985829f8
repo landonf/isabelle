@@ -1,0 +1,4 @@
+changeset 4efbcc308ca017c9703df8438000dff4c22190a8
+manifest fa27217a454c70b38c8944f69cd4890eafaefec1
+extra rebase_source:57dec67c710fae32c173a29a64030302ef634e4f
+files src/Pure/Proof/extraction.ML

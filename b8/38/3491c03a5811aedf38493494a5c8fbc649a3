@@ -1,0 +1,4 @@
+changeset 38adf0c59c35b7faebb1a624dfad47fb07487bf5
+manifest 76d732091177b4305da4bd8d56d16f11bf0e374f
+extra rebase_source:a1591b23b86abf507eb7098188a636666bfc2ab9
+files src/HOL/Nat.thy

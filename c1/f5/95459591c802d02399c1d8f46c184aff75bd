@@ -1,0 +1,3 @@
+changeset c3320dc731c7976ec69cc29e6ecd00b6ce2e8597
+manifest 25dbb0dea14182957bbea738f2e2d24329505ca0
+files src/Pure/Admin/build_docker.scala

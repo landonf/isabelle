@@ -1,0 +1,4 @@
+changeset 3817a93a3e5e3299bec5096b9658ca0fcf8287f3
+manifest d85bf6171e26a4d2a51f15748b08be7442c206be
+extra rebase_source:e1727eea698bbe1622a9e70bf54ef391f1ab183c
+files src/HOL/Tools/string_code.ML

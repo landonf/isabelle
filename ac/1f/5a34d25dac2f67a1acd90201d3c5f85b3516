@@ -1,0 +1,4 @@
+changeset 4817154180d6978d9acb45dc9cc9b51f82c63664
+manifest 2f4be690fc04f3b3c479ffe5a0463df4e7c092b6
+extra rebase_source:42c684ea0d154b6ac2f607a778a30395bc862dcc
+files src/Doc/Implementation/ML.thy

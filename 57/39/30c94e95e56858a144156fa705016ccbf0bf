@@ -1,0 +1,3 @@
+changeset 9fc10eb9e9c075b14df0f1db4f7bd55765b0f5e5
+manifest 899797897ec56dba704b4746f31ef274ecbc801b
+files src/HOL/Analysis/Equivalence_Lebesgue_Henstock_Integration.thy

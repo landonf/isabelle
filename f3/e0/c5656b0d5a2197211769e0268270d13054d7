@@ -1,0 +1,3 @@
+changeset dd719cdeca8f03065e71806f9fbf6bcd8e848182
+manifest 5c9368ca155525e1101efdcb00256aeab85f470f
+files src/HOL/Probability/ex/Koepf_Duermuth_Countermeasure.thy

@@ -1,0 +1,4 @@
+changeset 5f5e74365f14c3688785decc20de4d3dc0fea9b3
+manifest 492238283e34e36271bc8a90ec9e8c460ebda2d8
+extra rebase_source:164f18ae163167b4e133619030bed7aa7ae32a25
+files src/Tools/jEdit/src/symbols_dockable.scala

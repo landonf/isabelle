@@ -1,0 +1,3 @@
+changeset 512cf962d54cb2ffa41ab5f352aad0c114d74a73
+manifest a27ec563c2ed838ecb185ace7e620fa441a87ec0
+files src/HOL/Tools/Sledgehammer/sledgehammer_hol_clause.ML

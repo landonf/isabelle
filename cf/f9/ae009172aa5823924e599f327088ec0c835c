@@ -1,0 +1,3 @@
+changeset 720414857a12959ddad06603ede683a4769994b2
+manifest 2b8f52c8fb61be3a8d50e87f5100af73040d38ce
+files src/HOL/Tools/Ctr_Sugar/case_translation.ML

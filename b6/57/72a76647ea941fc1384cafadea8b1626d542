@@ -1,0 +1,4 @@
+changeset 867ca0d92ea21719bcf2d8dad053987ca5e08a20
+manifest e1aa37eec431f9460db45164b5907d9c9d76319a
+extra rebase_source:1b37944050872203f331b4f1f6c81201a681fa6c
+files src/HOL/Decision_Procs/approximation.ML

@@ -1,0 +1,4 @@
+changeset 6106e71c6ee5b3ef4aec9ad74a90339f203ff07f
+manifest d42f535de8938da10bf6dcb3633f920e91e5bcc6
+author immler@in.tum.de
+files src/Tools/jEdit/src/prover/Command.scala

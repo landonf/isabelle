@@ -1,0 +1,3 @@
+changeset aae1095dbe3b0d98217f7f8c6053b0c6e55f18c3
+manifest 50c9ded9cb0653e50b66a165b1b0cf6b1015e711
+files src/HOL/Induct/Common_Patterns.thy

@@ -1,0 +1,3 @@
+changeset 20c42415c07dc8bdd36d66037232a572fe982280
+manifest f71e98f846dcf7f734ebbc2bad07c108b08018e1
+files src/HOL/Isar_examples/NestedDatatype.thy

@@ -1,0 +1,3 @@
+changeset ec8fceca7fb607c7e619e62c584ea144e9e1d7e2
+manifest 518b7cca0b8d777a5f1f106bef9f679d59338a64
+files src/HOL/Tools/Nunchaku/nunchaku_reconstruct.ML

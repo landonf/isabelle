@@ -1,0 +1,4 @@
+changeset b7f1e86d9f043f3074f979a5e5a07cff37a2950d
+manifest 007f74ea762386278a7b540f2087e94929d98a8f
+author immler@in.tum.de
+files src/HOL/ATP_Linkup.thy

@@ -1,0 +1,3 @@
+changeset 2781ac7a46196326bd922f81b53cc061b9a674ae
+manifest eeca5c7977d65520fa1c16d5e94b5fe6379f1fff
+files src/HOL/Real/HahnBanach/Aux.thy

@@ -1,0 +1,3 @@
+changeset 4d425766a47f27601feb4dda2d15a97f45f02436
+manifest fdd2c9c7d3d23c45bb52fa8ccbcdb987d037c268
+files src/HOL/Tools/ATP_Manager/atp_minimal.ML

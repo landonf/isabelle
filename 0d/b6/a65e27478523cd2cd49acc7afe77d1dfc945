@@ -1,0 +1,3 @@
+changeset 7c70f10e0b3b45b1960438a8f4ed0c0770bb8d72
+manifest cbb4196213c09f24dd2bdb88b5668d7aa06d7d74
+files src/Pure/Admin/build_release.scala

@@ -1,0 +1,3 @@
+changeset ddddf0b7d3227fab65fb8d0ecf84929d96688c85
+manifest 8b74c1be355094a32e57131cb6ad51f9e5bf9eda
+files src/HOL/Tools/function_package/pattern_split.ML

@@ -1,0 +1,4 @@
+changeset 5115e47a7752bcd5957b2881bdf8d23387bd784f
+manifest 7045a1d4971934ea9b0a7c702aa4b962a460558d
+extra rebase_source:9822efe22960d359544f837617d3e6e106e3d18a
+files src/HOL/Complete_Lattices.thy

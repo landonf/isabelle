@@ -1,0 +1,3 @@
+changeset 7f0d5cc526158cfeab717a90dccd33c85dd5ed75
+manifest 31a173d1b252b88b046e0e2f3878ef6486655cf2
+files src/HOL/Hoare/Pointer_Examples.thy

@@ -1,0 +1,3 @@
+changeset 38f6cb45ce2453475dd15e719ccfba251954bef7
+manifest 6448b942c8acf90391cf72e4a90336583317e59e
+files src/HOL/Tools/typecopy_package.ML

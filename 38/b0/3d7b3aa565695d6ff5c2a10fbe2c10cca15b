@@ -1,0 +1,3 @@
+changeset dd647b4d79521114cf1f8050294166bc47dc0772
+manifest fd3c0b319cdb7b4972dbdaffa188dee5c8c78b1d
+files src/HOL/Hyperreal/Lim.thy

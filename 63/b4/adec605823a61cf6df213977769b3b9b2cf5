@@ -1,0 +1,3 @@
+changeset 8d32138811cb7f386cb8c1420e737b38a6c52bfd
+manifest a391c7f49761eda6cc457f515715b3cd3ddcca21
+files src/HOL/Tools/Quickcheck/quickcheck_common.ML

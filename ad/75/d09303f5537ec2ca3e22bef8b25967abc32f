@@ -1,0 +1,4 @@
+changeset abf9fa17452ac69ae1d3bcc7b6f90d2d81c74f10
+manifest c472a3049a93e59c7ea45a68a61ea44aad09ee4b
+extra rebase_source:0faf72a7a9ce8bddd68df34e5b385b26d032c146
+files src/HOL/Sum_Type.thy

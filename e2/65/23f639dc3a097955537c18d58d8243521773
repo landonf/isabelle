@@ -1,0 +1,3 @@
+changeset e8a11e84864cf5c7adeff64aaf39f1778c9156bd
+manifest 591543c4a3a538f87262d62f3eea153367fdff4c
+files src/HOL/Nominal/Examples/Lam_substs.thy

@@ -1,0 +1,3 @@
+changeset 9139453d70332ee1a0d05fb306bf5ca28a2d633e
+manifest 9e22c3ec11fff707773ceba032c4a7cfb820ad64
+files src/Provers/Arith/cancel_numerals.ML

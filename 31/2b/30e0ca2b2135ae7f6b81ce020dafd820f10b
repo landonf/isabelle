@@ -1,0 +1,3 @@
+changeset 7411f5d6bad7f48a96cb5271cdacba6f946b195b
+manifest bc30c0e6c55026c9126b126d01fa1929553d28ba
+files src/HOL/Modelcheck/mucke_oracle.ML

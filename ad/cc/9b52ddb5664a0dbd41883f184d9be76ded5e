@@ -1,0 +1,3 @@
+changeset 73df5884edcfa883a4e9133c7b61c45eb073fcae
+manifest ad3854e6b875e0d3deaeaddb1e9d8fcc9002195d
+files src/HOL/Tools/SMT/smt_datatypes.ML

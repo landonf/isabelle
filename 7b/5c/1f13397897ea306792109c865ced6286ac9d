@@ -1,0 +1,3 @@
+changeset c4710df2c953fc7cf585957d3f980fd4d170b205
+manifest 278b337fab649abadb0de559c1c93c63a5d39c61
+files src/HOL/Nominal/nominal_induct.ML

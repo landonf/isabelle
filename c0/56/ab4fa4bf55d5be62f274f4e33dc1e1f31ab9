@@ -1,0 +1,3 @@
+changeset a12978a1126a469c0ea43e9cb45f4771ce4df4d1
+manifest abb0e74f0a8f09eb9c3e9558d0f15f562612c1d0
+files src/HOL/Tools/induct_tacs.ML

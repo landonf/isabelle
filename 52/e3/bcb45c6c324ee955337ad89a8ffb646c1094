@@ -1,0 +1,3 @@
+changeset 6dc6fc8b261e8a5d86d24dfd62a510aa5d0a4d45
+manifest 7a8ab10b0c8f8073368a26fc9f9570da2087fd5d
+files src/HOL/Tools/ATP/recon_order_clauses.ML

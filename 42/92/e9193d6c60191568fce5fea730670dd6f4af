@@ -1,0 +1,3 @@
+changeset 4a1f36eafe17e681fc509b464319c240e63f3aff
+manifest 3482ffde57cb3ea870031bbf33a04c38dd61fa7c
+files src/HOL/Tools/ATP/watcher.ML

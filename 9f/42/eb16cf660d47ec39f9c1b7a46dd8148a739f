@@ -1,0 +1,4 @@
+changeset a65e18ceb1e3d98cecefa747ad4bb4053eeda2da
+manifest b028f3c47f1332a07e519eb723578218a6e63ecd
+extra rebase_source:a546d91edf0ec4ac1b85e73437a6f690c95b9397
+files src/HOL/Library/Reflection.thy

@@ -1,0 +1,4 @@
+changeset f5ca4c2157a5e8f8eef967929feac4e0f148a492
+manifest 5b0b2692668c51cc5dca007836b74f3ac2b9abc6
+extra rebase_source:b16f4c46fb82fdffffb4b79e6e7acc46bb82e0ef
+files src/HOL/Types_To_Sets/Examples/Linear_Algebra_On.thy

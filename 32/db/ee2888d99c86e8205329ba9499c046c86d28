@@ -1,0 +1,4 @@
+changeset 9d3b41732fe0d23261c03264b4ce89be3f0c015d
+manifest 71f7cd518617e5bea87f2ebf71ffe48d9bf36828
+extra amend_source:9ddb3e2197b41239257b698c5f1d4fb7c243de09
+files src/Pure/Admin/ci_profile.scala

@@ -1,0 +1,3 @@
+changeset c4fcffe0fe489e3f780ff2ff874777049fc0a9ee
+manifest 3d48c3ab08dd48b4f0977107a7a30fba94a198d4
+files src/HOL/Tools/inductive_set_package.ML

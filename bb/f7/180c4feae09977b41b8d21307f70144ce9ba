@@ -1,0 +1,4 @@
+changeset a375de4dc07a04ba55f83ea16128e9e6f7b25269
+manifest 57af99dd66c53c258b3da3c14f3dadc26fabf4ad
+extra rebase_source:64872ba07101d8469e2f95dfaff524e9fdabe96c
+files src/Doc/Isar_Ref/Spec.thy

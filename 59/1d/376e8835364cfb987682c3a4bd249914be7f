@@ -1,0 +1,3 @@
+changeset f47c812de07c4890c79ddff6a44b6e739f57709e
+manifest c3fda3e145e57afad50fb81a0a36810af8a93ff1
+files src/HOL/Induct/SList.thy

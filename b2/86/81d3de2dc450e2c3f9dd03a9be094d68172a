@@ -1,0 +1,4 @@
+changeset 0ccec59194aff19c3f2c399c67e8cee612530355
+manifest 761fc39b12a22a1a157fdc370e9b5efa066ec6ab
+extra rebase_source:fa81f52c6030466229031551cbb51c8bc625054c
+files src/HOL/BNF/Examples/Stream.thy

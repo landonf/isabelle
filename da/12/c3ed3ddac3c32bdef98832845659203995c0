@@ -1,0 +1,3 @@
+changeset fd1a5ece77c02c9e1546f32c71cb61434004a68b
+manifest 73fae4e1227e01a48e9e6dbf31534f12ce56e586
+files src/HOL/Tools/Sledgehammer/sledgehammer_tptp_format.ML

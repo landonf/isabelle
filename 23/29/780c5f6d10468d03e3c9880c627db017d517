@@ -1,0 +1,4 @@
+changeset 33c90658448ad5ebdc1ba8bf0f234f54140d1886
+manifest eb02b18be379ae923b1b6aaa4055120851a9f673
+extra rebase_source:45413979a6b0613a898e69d6b877206bc380e581
+files src/HOL/Parity.thy

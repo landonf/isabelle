@@ -1,0 +1,3 @@
+changeset 3c24909177101008f5e30ba37902f4737c9ee958
+manifest f49b847346b8477dabe7555bba29df2e985104ae
+files src/HOL/Tools/ATP_Manager/atp_wrapper.ML

@@ -1,0 +1,3 @@
+changeset 9c8cc63714f4a7efc38bc2cb28cc5c0b84440df5
+manifest 896d6a4be03bc94ef24ec59e9a8e886b3f417b97
+files src/Provers/Arith/abel_cancel.ML

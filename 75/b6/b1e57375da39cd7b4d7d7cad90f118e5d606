@@ -1,0 +1,3 @@
+changeset 68a837d1a7542f4fe09cacb7211e049b00a272ef
+manifest 1f425adb1aa7977b7bda067a4d57369746d3e2cc
+files src/HOL/Tools/Qelim/cooper.ML

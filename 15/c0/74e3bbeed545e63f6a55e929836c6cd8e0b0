@@ -1,0 +1,4 @@
+changeset 94479a979129fd3ea57dcd2dd9947733f31d6a14
+manifest c630e194c4cf368e4a65ef97526dfa769b26d663
+extra rebase_source:901d05034ba1f7e2a183e9ba08831164932cb00d
+files src/HOL/More_List.thy

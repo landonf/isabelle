@@ -1,0 +1,3 @@
+changeset 276ebec72082524de506b4b6a86a71ba79425b0b
+manifest bb2572ce8c5d85b7f7a9d56175085d5109faf7bf
+files src/HOL/Library/Predicate_Compile_Quickcheck.thy

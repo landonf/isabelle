@@ -1,0 +1,3 @@
+changeset 52d9720f7a48b5a668ae611cf57a08a4e2e8a748
+manifest 23a64beb99e1567d002b3435a3f8ee00b9724b57
+files src/HOL/Tools/Sledgehammer/MaSh/src/mash.py

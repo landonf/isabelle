@@ -1,0 +1,3 @@
+changeset 64d5767ea9b30179c9f21c7cc410ae0d32f7d8b0
+manifest 2354e8b8a259a131900907c2f774f9f43716375c
+files src/HOL/Tools/Sledgehammer/sledgehammer_shrink.ML

@@ -1,0 +1,3 @@
+changeset ceb634874e0ca44ed86fa5c4702f47b0b9a9f178
+manifest ca70aa151c0724eb6878b99200ab999de06d1b02
+files src/HOL/Library/Coinductive_List.thy

@@ -1,0 +1,3 @@
+changeset 678ef6658a0e1812376518535292cfc8701485e2
+manifest 59bbe76ee6dfe2fa928bcc26918d10bca7a4468e
+files src/HOL/Tools/ATP/reduce_axiomsN.ML

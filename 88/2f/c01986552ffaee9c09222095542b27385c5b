@@ -1,0 +1,3 @@
+changeset d439173f3daf81f0eb5bf3a43d9d2e78dc921592
+manifest eb69a25cba1068f456e06aa7284fdb48b1564e19
+files src/HOL/Tools/Nitpick/nitrox.ML

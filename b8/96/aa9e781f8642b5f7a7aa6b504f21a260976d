@@ -1,0 +1,4 @@
+changeset 1cf4faed8b220aa840ab56b825e68bbd5a5b2460
+manifest 4a8c68e87a843b5ff707b0a7f5622f94e430ee55
+extra rebase_source:d3377cc95a6a398ca555e30fab13d69b288cb6d8
+files src/HOL/HOL.thy

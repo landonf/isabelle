@@ -1,0 +1,3 @@
+changeset 1ebb8b7b9f6afe73f644922ef2c1a07677c2f96e
+manifest 5cac974a8b1f284ec3da52eefc88f06b66db08bb
+files src/HOL/Tools/Function/scnp_reconstruct.ML

@@ -1,0 +1,3 @@
+changeset e6cfa56a8bcda51fe4fe66adcd3e5523eebe9e16
+manifest 355fa2e33571c62e61a49dab14a8fa10d62aaa77
+files src/HOL/Tools/SMT/smt_setup_solvers.ML

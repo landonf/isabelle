@@ -1,0 +1,3 @@
+changeset f80aee1ed4750061425b5702179b6dd511aadc8c
+manifest 90bcf1b0d15adef144ee6e74b3468167252a3819
+files src/HOL/Hoare/Hoare_Logic_Abort.thy

@@ -1,0 +1,3 @@
+changeset 85e7e32e6004cfb500701eca754b3b896be55ffc
+manifest 2e65b3e967cb69616679f2bb38839c8844d1e6ff
+files src/HOL/Nominal/nominal_fresh_fun.ML

@@ -1,0 +1,4 @@
+changeset effe7f8b2b1bc31e7dfdca8dede8343be8c1839c
+manifest 4156900ed327c9378f8575c9df427f682bd3c557
+extra rebase_source:5bcacc5b61c23313338dbffcf5c568ff552b1ccf
+files Admin/jenkins/build/ci_build_mac.scala

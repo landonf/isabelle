@@ -1,0 +1,4 @@
+changeset 0261eec37233e4f9c1259483e23e21eed255b97a
+manifest e0dec51df2c168596cc3d49090510791649cf01a
+extra rebase_source:ac120f7c610071f077b4f216c87e32c562d227fc
+files src/HOL/Code_Numeral.thy

@@ -1,0 +1,3 @@
+changeset 315cb57e3dd73d210dad64f1618762d93a94d5d9
+manifest 84fd2324655c2e1d47a60397b47f9c1ebcac8e02
+files src/Pure/Isar/skip_proof.ML

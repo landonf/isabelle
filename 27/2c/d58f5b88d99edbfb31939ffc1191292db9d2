@@ -1,0 +1,4 @@
+changeset dc1257eaa4f2eb7dbcb3892c22aa7ec947ddeedb
+manifest fe68e9e82c244a4d4658bfc8f93d2e650e976af6
+author immler@in.tum.de
+files src/HOL/Tools/atp_manager.ML

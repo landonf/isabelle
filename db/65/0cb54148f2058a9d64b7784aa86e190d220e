@@ -1,0 +1,4 @@
+changeset 1d00ab68bc8d337c7eecddac0828868d3c252493
+manifest e8fe781ec066b2569bbc616072e69f558fa5150b
+author immler@in.tum.de
+files src/HOL/Tools/atp_wrapper.ML

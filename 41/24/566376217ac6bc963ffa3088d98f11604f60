@@ -1,0 +1,4 @@
+changeset 3357688660ffeb1e31b03e8dc36aa87ed57dd9f9
+manifest b04769cedbcbdd375d66d5bd90333b7b7d549e9c
+extra rebase_source:b50a83d2934ac2da5b57edec74bf955e86c7c982
+files src/HOL/Library/Float.thy

@@ -1,0 +1,3 @@
+changeset 3c339e1c069bb3cd6c0d9220f5c1ba7a051794fd
+manifest 711c15160d4c39c652a51623752b5865bcb50115
+files src/HOL/Tools/ATP/recon_parse.ML

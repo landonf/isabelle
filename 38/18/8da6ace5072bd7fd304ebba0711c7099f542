@@ -1,0 +1,3 @@
+changeset 0af2d5dfb0ace63b6c8f448cd321810093244b73
+manifest 92fb9c809bdb4f3fcac8995fc3769ec7d7503be7
+files src/HOL/Tools/SMT2/smtlib2_isar.ML

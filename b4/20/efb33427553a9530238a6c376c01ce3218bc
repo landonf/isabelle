@@ -1,0 +1,3 @@
+changeset bca464396b80b84432a6fd424204eb2bf929e836
+manifest 0ff11dd2df4cb47dff0d2466cacf86b5ec8eac2f
+files src/Pure/Tools/debugger.scala

@@ -1,0 +1,4 @@
+changeset ca4cce24c75d408f7c2c9bbff33138ed260ffff1
+manifest 401d52d1741967ab2d0a058ce3637bc2888b4685
+extra rebase_source:68a2925ca44ade05215057197e93bed3e33d5471
+files src/HOL/Multivariate_Analysis/Linear_Algebra.thy

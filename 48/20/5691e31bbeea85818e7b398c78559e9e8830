@@ -1,0 +1,3 @@
+changeset 871d7aea081a34a96416c5e846d865c3f30f1e97
+manifest f86c6fea93d2164c685f757eea24ce77a6e6919a
+files src/HOL/Integ/nat_simprocs.ML

@@ -1,0 +1,4 @@
+changeset 53993394ac19a8e0bad14a6a960ed47f5dc210b5
+manifest a19f023810f654f9951dab3f1e69891bcc36d767
+extra rebase_source:e260d697b790839af7519c59bc99073d646fffe9
+files src/HOL/Finite_Set.thy

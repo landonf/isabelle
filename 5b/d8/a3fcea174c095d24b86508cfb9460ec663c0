@@ -1,0 +1,4 @@
+changeset 2ac92ba88d6bb1ded2db0a87f0b25bf2893b099e
+manifest 9ca276988475124e91f36154472161a21e90dae2
+extra rebase_source:7a31208b89c7fa5f05b3142700ed6df1dad7818d
+files src/HOL/Library/Function_Algebras.thy

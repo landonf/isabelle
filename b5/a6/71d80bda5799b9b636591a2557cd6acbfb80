@@ -1,0 +1,4 @@
+changeset 3511427963453aa7d3ef72c8eda9d47a04bf8103
+manifest 55b5a805b7bc850b60ac9d30388faaf05daa10b0
+extra rebase_source:a468f03c9f036febe857eec9455ff61e0e94ddc4
+files src/HOL/Euclidean_Division.thy

@@ -1,0 +1,3 @@
+changeset ae50c9b824440538353a532bf4ea8a8ee0c6be38
+manifest 6c60a434f0a7fd51535e5173445837ce36e81521
+files src/HOL/Tools/SMT/cvc4_interface.ML

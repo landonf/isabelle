@@ -1,0 +1,4 @@
+changeset 636a8523876f2c02352b20aba2352ce8a97585f5
+manifest 300b02715ee699290e904f7e5953a7c478bc822f
+extra rebase_source:9b03c8e4430cf8460e78a06b0b0a434d0faba6c7
+files src/Tools/Code/code_haskell.ML

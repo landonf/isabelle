@@ -1,0 +1,3 @@
+changeset 533f6cfc04c0de5d72f2e566aff2f1f697a4136b
+manifest 233a13ed3be88d1bf2ff912b9c2337816d968e9b
+files src/HOL/Tools/Sledgehammer/sledgehammer_prover_minimize.ML

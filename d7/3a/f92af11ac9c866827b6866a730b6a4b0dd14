@@ -1,0 +1,3 @@
+changeset 44dd5dc8e90fb5b8d3d202ac4862791892649668
+manifest ddfd3ba9c91f742434b186d3dbf6537efad72fdc
+files src/HOL/Induct/Acc.thy

@@ -1,0 +1,4 @@
+changeset 376c1e7b320cf1cca12f3f0b6494a91380012407
+manifest 539e5483d01acf1d60e0bacb449a535bfd4e5027
+extra rebase_source:48b62480fdff3ac9ebb4ef2f425b1905e552936a
+files src/HOL/IMP/Types.thy

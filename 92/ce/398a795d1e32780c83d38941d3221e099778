@@ -1,0 +1,3 @@
+changeset 289d1c39968c8ffb34986cdc4a7df89f5c6749a9
+manifest bd7b0d88d7705a05aa844d2e4d6dce71c8247373
+files src/HOL/Tools/SMT/verit_proof_parse.ML

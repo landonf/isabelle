@@ -1,0 +1,3 @@
+changeset 79bac83b2c2754d5f309d72edcfe39e66847cd17
+manifest df5d1f6f3c658322ccaef93d97a306b18633625b
+files src/HOL/thy_syntax.ML

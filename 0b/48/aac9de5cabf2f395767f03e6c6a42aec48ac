@@ -1,0 +1,4 @@
+changeset 87d4e49584769c9c08a02b3b6f0ad938d39fded0
+manifest 045a2b200f3447b81694c101773a1eddf81ca14f
+extra rebase_source:30721bf0fd42a6020b68a72e0a7a710617bafc96
+files src/HOL/Big_Operators.thy

@@ -1,0 +1,3 @@
+changeset cef76a19125ef194bd184854e78e1637f796351d
+manifest 0f0d72afbd72be6477288798be031991ddc56adb
+files src/HOL/Analysis/Cauchy_Integral_Theorem.thy

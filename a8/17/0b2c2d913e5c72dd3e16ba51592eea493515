@@ -1,0 +1,4 @@
+changeset 5e7e394f78d467e6c0c7ddda49a67d53b444ad47
+manifest 61e5e517a5ce7a64bc39154d510d39b73787cd0e
+extra rebase_source:810b1811ed0471738a3ea6cfe037412e204854cf
+files src/HOL/RealDef.thy

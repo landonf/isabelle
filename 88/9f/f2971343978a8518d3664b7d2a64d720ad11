@@ -1,0 +1,3 @@
+changeset f82435d180ef13731905f44ec9bf17b8e4f36b19
+manifest ce8dff04ad2326f46792fdaf963b906e1704dbf9
+files src/HOL/Import/Generate-HOLLight/GenHOLLight.thy

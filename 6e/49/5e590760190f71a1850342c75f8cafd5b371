@@ -1,0 +1,3 @@
+changeset f0b2457bf68e386cfa7950c0f5bc354d4391bc65
+manifest 2b8f8a2e91070519266496db14b8b56fb959af9e
+files src/HOL/Matrix_LP/Compute_Oracle/compute.ML

@@ -1,0 +1,3 @@
+changeset 26edb2771d94cc961f3cdc78bfdc002a1a4f7cd9
+manifest 0b2ab4d2954a75c6ed5805f719896e70b693b408
+files src/HOL/Subst/UTerm.ML

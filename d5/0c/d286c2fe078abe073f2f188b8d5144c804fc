@@ -1,0 +1,4 @@
+changeset ac9e909fe55d9d5e8000de8dd08dcf81eae3c2f9
+manifest 54dab49f95891bee7f914777a3696cbe7a6b8a78
+extra rebase_source:afb6801c720d945333425fd78058be2e1873fb33
+files src/HOL/Library/Code_Numeral_Types.thy

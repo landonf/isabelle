@@ -1,0 +1,4 @@
+changeset 19ddbededdd3c37eb0893476932004bff0b63368
+manifest a16e47f6de4cf040a1fe672678ffc377c7220792
+extra rebase_source:49f7f73425f42ff7a6d3d7e46c897dfaf4b6dbad
+files src/HOLCF/Fixrec.thy

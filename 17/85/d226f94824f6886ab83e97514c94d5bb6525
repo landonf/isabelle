@@ -1,0 +1,3 @@
+changeset 24d235feeb2a9da9ca272a57e9f8d2c0d2211f12
+manifest ffa2c6ec42ad31d593635d08b0797565239fdb7c
+files src/Pure/type_infer.ML

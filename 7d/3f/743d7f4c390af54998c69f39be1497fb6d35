@@ -1,0 +1,3 @@
+changeset 384c5bb713b28a4f570c16c67464538e4ff51ba8
+manifest 1f1bb3fc3fc7cc14afcc57da92dc5967eb5f71cd
+files src/HOL/Tools/function_package/mutual.ML

@@ -1,0 +1,3 @@
+changeset bd8aa6ae6bcdfdd3b5e4fe98b7d60d16249af0fc
+manifest 0ca7701c9553828b3e0b6add92b2b969f839655c
+files src/Pure/Isar/proof_context.ML

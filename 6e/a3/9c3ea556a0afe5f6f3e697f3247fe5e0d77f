@@ -1,0 +1,3 @@
+changeset fcd3a59c6f7289447178f7e763d2062cdd49fe9e
+manifest 8dc70af203051f4c6f066067d728cb444456b356
+files src/HOL/Tools/Sledgehammer/sledgehammer_print.ML

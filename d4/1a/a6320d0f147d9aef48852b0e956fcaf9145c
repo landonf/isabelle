@@ -1,0 +1,3 @@
+changeset df192df78614e17aa4eda8c2cc16d1d40aab53da
+manifest f19d3aab990f893f4bc52a99b6ce3fcf2562eb3d
+files src/HOL/Matrix/Compute_Oracle/am_sml.ML

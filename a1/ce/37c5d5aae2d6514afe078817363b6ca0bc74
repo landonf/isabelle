@@ -1,0 +1,3 @@
+changeset b36f07d288675ce5f015e6699096314a74b4224f
+manifest 5903a143dbe8d8ba3304672b3c6708d1f2712b6c
+files src/HOL/Data_Structures/AVL_Set.thy

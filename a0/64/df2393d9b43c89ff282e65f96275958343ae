@@ -1,0 +1,3 @@
+changeset c3ef7b572213361defd80d2dd429a53a1e59e267
+manifest e44c0d3d53c3054b679f121d83ca19faf091e18a
+files src/HOL/Tools/ATP/atp_proof_redirect.ML

@@ -1,0 +1,4 @@
+changeset 3d696ccb7fa6f816136e55675d1eef541618ccaf
+manifest 473aca88aaefa671cc08c567edc15d46c46e3a04
+extra rebase_source:50aa98e81c3a3e33838415042a87653811186df8
+files src/HOL/Archimedean_Field.thy

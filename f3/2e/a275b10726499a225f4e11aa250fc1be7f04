@@ -1,0 +1,3 @@
+changeset b5d67f83576e0261d7aed214b71e3175ce1c6712
+manifest f824e2ac981c1ea045b26235411e10b1c84c1790
+files src/HOL/SizeChange/Size_Change_Termination.thy

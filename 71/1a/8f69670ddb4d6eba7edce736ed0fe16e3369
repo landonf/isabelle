@@ -1,0 +1,3 @@
+changeset 6e78f87ed554cad643fedadd1d378125a79ed87f
+manifest fa6e40e0c37233654625d09e56fb2f3d46d663ed
+files src/HOL/Tools/ATP/atp_proof_reconstruct.ML

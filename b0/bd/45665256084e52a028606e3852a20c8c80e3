@@ -1,0 +1,4 @@
+changeset ca43697902b9ecc802a07b04d2e658b7cf1ef3b5
+manifest 227234aed67e7ba6d2ff84c815e0f030d4aef03d
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/PhaseOverviewPanel.scala

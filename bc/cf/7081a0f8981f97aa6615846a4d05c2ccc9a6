@@ -1,0 +1,3 @@
+changeset 6bff2ebaf7bbbceb2194fea0e685f1ed4c5d309d
+manifest 61c409f648672669043446840f02493d7990055a
+files src/HOL/Tools/Datatype/datatype_case.ML

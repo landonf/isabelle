@@ -1,0 +1,4 @@
+changeset 6f9c6ae27984a787f4e64d7358272d625128d551
+manifest 7304e3239556ccd2712ea4f95ebcd166be71e361
+extra rebase_source:45e3a51c0569ab9e5b675810f402e5f7f0768134
+files src/HOL/Library/Polynomial_Factorial.thy

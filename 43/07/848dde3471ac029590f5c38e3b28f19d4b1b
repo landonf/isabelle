@@ -1,0 +1,3 @@
+changeset f6ad52152040abdbf76c6c9bc6ad87cc49e0a5fa
+manifest 39dfdf22a6262e0614df67e2099cf1f06edb9a6e
+files src/HOL/Data_Structures/RBT_Set.thy

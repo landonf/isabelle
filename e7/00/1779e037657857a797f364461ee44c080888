@@ -1,0 +1,3 @@
+changeset b1eb911bf22f96519080dc96cdfdfc780536b74b
+manifest d5919de6d7db7c09ad1ed7e35c908ea85224bdca
+files src/HOL/Tools/Presburger/cooper_data.ML

@@ -1,0 +1,3 @@
+changeset fd5e4a1a4ea6d7ff65c14db49cd310803a2e4834
+manifest 1147ba670c23533fe705a9b450c4f5863c2cefd4
+files src/Pure/Concurrent/synchronized.ML

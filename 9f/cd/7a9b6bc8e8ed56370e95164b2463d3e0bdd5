@@ -1,0 +1,3 @@
+changeset 7c50d5ca5c04d82ccd873912e6a692e48dfb8e6b
+manifest d1d00c7b3e3ab919b9a0a91c6918e9ae8129f8da
+files src/HOL/Tools/Sledgehammer/sledgehammer_translate.ML

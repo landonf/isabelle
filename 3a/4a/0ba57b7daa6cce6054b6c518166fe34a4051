@@ -1,0 +1,3 @@
+changeset f79b673da664b35c8fdff1e1590e73a6b682ee56
+manifest ec84b6c6502c95a358db2c2c7bf2222985589580
+files src/HOL/Tools/ATP/recon_transfer_proof.ML

@@ -1,0 +1,4 @@
+changeset 7ad9f197ca7e961e5993f72a937763bfcc1e361f
+manifest 5a9db300e28f768a0365e33c51be77c2e0f3a51f
+extra rebase_source:8e69c855a2405d912d89f4d8117bac88867342b7
+files src/HOL/Complex_Analysis/Residue_Theorem.thy

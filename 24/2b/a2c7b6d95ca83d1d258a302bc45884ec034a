@@ -1,0 +1,4 @@
+changeset f10bbfe07c412420eee613cac58af23bb24f39bf
+manifest e936728d27ac6b5d996a5fd9f887e745c816a2df
+extra rebase_source:3f48f5e2ae49ea17fb27eb23e2c7520bc75677a3
+files src/HOL/Nitpick.thy

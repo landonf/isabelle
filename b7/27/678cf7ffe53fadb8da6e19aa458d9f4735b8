@@ -1,0 +1,3 @@
+changeset a04cf47046689100d3ef50cec4dc0aab13b626df
+manifest 95b7d9e6f99b3ba0941df56b65962e8a5e3b8c19
+files src/HOL/Tools/Sledgehammer/sledgehammer_fol_clause.ML

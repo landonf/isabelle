@@ -1,0 +1,4 @@
+changeset 4a3bdb561d11c4fff273073fe65cbcc026e5535c
+manifest e3f235dfd35a4db2b5f853955d762773d476e7a2
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/LazyScroller.scala

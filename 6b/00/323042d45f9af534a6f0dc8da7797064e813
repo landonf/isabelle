@@ -1,0 +1,3 @@
+changeset 40bf0f66b994cf31e51b68fded80a4cdf77dba19
+manifest 56b1515f75ae606ccf58b58af01666f49e318bf3
+files src/HOL/Tools/Sledgehammer/metis_translate.ML

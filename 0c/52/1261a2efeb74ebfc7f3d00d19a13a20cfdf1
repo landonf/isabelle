@@ -1,0 +1,3 @@
+changeset d7ae1fae113b27ee10c13e30ec89323d4273ec94
+manifest fce3e3f6011e0d4618fc1ac7aa8b383f3a548f6a
+files src/HOL/Quickcheck_Narrowing.thy

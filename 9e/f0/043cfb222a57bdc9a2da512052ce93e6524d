@@ -1,0 +1,3 @@
+changeset 2f04f1fd28aab387014017bee719dce2143190b2
+manifest 92c745a90aed0d019a1d9817f452cf488b53a4f3
+files src/HOL/Tools/Transfer/transfer_bnf.ML

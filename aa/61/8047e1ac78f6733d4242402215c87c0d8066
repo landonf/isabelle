@@ -1,0 +1,3 @@
+changeset 5d79c5d684596f1d85686fcdfdf5dd8ff6c6396d
+manifest 29ee6d7dc61b68f05ef8a7f148dfbf8ea9477cd5
+files src/Pure/Concurrent/par_list.ML

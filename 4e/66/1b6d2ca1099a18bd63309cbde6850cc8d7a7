@@ -1,0 +1,4 @@
+changeset 385f7573f8f5b5ccebc9d05f4b3598fd56ef91bb
+manifest 15bf3985deb4d261c277247587ed5a697effa2b2
+extra rebase_source:6d8474a4ec1f23987ddc008c7f35d1d72a239823
+files src/HOL/Unix/Nested_Environment.thy

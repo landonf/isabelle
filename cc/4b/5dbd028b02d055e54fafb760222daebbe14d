@@ -1,0 +1,4 @@
+changeset 6bc213e904015a6b767a3519033ea1eabe34a329
+manifest 272f5d52e647967eb1a5c942e90c28178f2ebd01
+extra rebase_source:0e0b608332405e08fb55f39fd7f59b87bca64be7
+files src/HOL/Library/Zorn.thy

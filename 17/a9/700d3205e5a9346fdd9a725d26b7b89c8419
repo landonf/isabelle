@@ -1,0 +1,3 @@
+changeset 8a341cf54a85d127fc76754cb6fe15416af41921
+manifest 21453da620a690e201e6785f179ab2a92ad2faa8
+files src/HOL/HOLCF/Tools/Domain/domain_induction.ML

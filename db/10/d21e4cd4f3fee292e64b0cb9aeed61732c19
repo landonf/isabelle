@@ -1,0 +1,4 @@
+changeset cfdf19d3ca326501b32761bbe17468d6c334113f
+manifest 808187931f4e6258e28dae26c079d78d41cf61ef
+extra rebase_source:523e37e27a9c665f48ad5533048a3eca18c4b381
+files src/HOL/Multivariate_Analysis/Path_Connected.thy

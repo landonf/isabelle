@@ -1,0 +1,4 @@
+changeset 7faa9bf9860bd42525964a90e2aef4677e84113f
+manifest 7376b0c66d160fe19af1048416150c98d4292c81
+extra rebase_source:bdf7bac5941f0076a6a840a17ab28c26269e2439
+files src/HOL/Analysis/Measure_Space.thy

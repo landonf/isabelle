@@ -1,0 +1,3 @@
+changeset 24b68a932f26f71188dbc6b524f6118b923ad92a
+manifest abe7bf57f2f5dbe02e858c06c3de77f2c75cff00
+files src/Pure/Admin/isabelle_cronjob.scala

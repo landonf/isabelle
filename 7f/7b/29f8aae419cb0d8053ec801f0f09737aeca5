@@ -1,0 +1,4 @@
+changeset 837e38a42d8cb3440a306c6f68054ee4dd5f1e32
+manifest 9acdc2ed0ddd2d23df866781a1895eb93b0bf72f
+extra rebase_source:6ecfaff761e84e510f330d781c4d4d53c0dce1e5
+files src/HOL/Probability/Lebesgue_Measure.thy

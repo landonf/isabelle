@@ -1,0 +1,4 @@
+changeset fa5b67fb70adeeaba4e844de1e3d434ab109d68b
+manifest fc8e1e342e2b02e6a842df2ce078c92424b12468
+extra rebase_source:d463b58b8b33fbbeadcc0510c471966b813b1179
+files src/HOL/Divides.thy

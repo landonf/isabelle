@@ -1,0 +1,3 @@
+changeset dfc1d659f9680ea056001a00c0380b3e5874fe88
+manifest c20d3a0dcef138f4a1ed787d8d60c43e4fb975dd
+files src/Pure/Thy/thy_parse.ML

@@ -1,0 +1,4 @@
+changeset b4b70d13c9959990bbd65baf7a0b68643c98af74
+manifest d459fb07d96d2b61e01ff31123d04f9ffb4c907d
+extra rebase_source:38b806e3f094431709d95b70d474967951a5b4fe
+files src/HOL/Combinatorics/Permutations.thy

@@ -1,0 +1,4 @@
+changeset c22928719e198a58fd796f6b0aee6262119d9ed4
+manifest 387c2c817a2120a011a2877f5c678fd332fafc65
+extra rebase_source:55fccc244e711a09badda8e8ecf9735e18696a83
+files src/HOL/Probability/Levy.thy

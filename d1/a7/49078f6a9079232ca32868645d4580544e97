@@ -1,0 +1,3 @@
+changeset bed3b994ab265e44b8013531667125bfc793fc2a
+manifest 6f63725056e0525cd469c4abaac02ebb1a242fc5
+files src/HOL/Tools/record_package.ML

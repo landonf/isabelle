@@ -1,0 +1,3 @@
+changeset f66bb6536f6a65a13d04feb1e8e2e295fa2abffc
+manifest fbea87fb95baa0a0fdb0142751dee4858fdf9611
+files src/HOL/Tools/Function/termination.ML

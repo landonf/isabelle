@@ -1,0 +1,3 @@
+changeset 53b724b87eb3f1f434cff8e64a9402b271af8838
+manifest f726b1f18507b6a4fa6ce6dc6cca8f72337c023e
+files src/HOL/BNF_Wellorder_Embedding.thy

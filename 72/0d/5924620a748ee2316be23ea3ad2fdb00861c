@@ -1,0 +1,4 @@
+changeset f075ac82aae92da8f68ec484f75abd6cd38a114b
+manifest 4ad23f8e7e34fd75c77ac7b6ec710b70686782b0
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/BrowseVersionDockable.scala

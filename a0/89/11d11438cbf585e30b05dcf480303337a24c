@@ -1,0 +1,3 @@
+changeset 34dbeb8f16a959f5aa727f6c86b3ec83595f26ed
+manifest c545b09b2642d18ad5a2fd2c735c28db060fe804
+files src/HOL/Hoare_Parallel/RG_Examples.thy

@@ -1,0 +1,4 @@
+changeset 4ab04bafae356e3919e3474c592cd8c86fff4394
+manifest c997f6091cd5626d78110bdd920bedfef31f249f
+extra rebase_source:dc0679374aa65eb7ee80057aa258fcb34a447101
+files src/HOL/Library/Signed_Division.thy

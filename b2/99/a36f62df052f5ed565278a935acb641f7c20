@@ -1,0 +1,3 @@
+changeset f602a380e4f21c09411d9ab18b46d482a8deff04
+manifest fbccc2d070f48e6228191a3ab8e9bac1633ce242
+files src/HOL/Library/Tools/smt_word.ML

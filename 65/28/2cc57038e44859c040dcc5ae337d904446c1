@@ -1,0 +1,4 @@
+changeset 129757af1096fde913cc64247aa3f9db05302250
+manifest dddb176ecc757c21e7939a2ea28d5f03262d0638
+extra rebase_source:4580f0e84d47bd86e4b166eba51f19c3ce1db695
+files src/HOL/ex/Sketch_and_Explore.thy

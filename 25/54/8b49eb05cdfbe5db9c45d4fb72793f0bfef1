@@ -1,0 +1,4 @@
+changeset fbf77fdf9ae4bf7b24447c44411384c1fc47c50f
+manifest 0a67d3d6a8d8ffc6cc098a3b77b7c770d8547bec
+extra rebase_source:42849275130f48d9bee5b9e1dd82e9e9a0229b50
+files src/HOL/Int.thy

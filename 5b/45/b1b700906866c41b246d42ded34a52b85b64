@@ -1,0 +1,3 @@
+changeset c8369b691d04a27c6d1559906c0ea6b5fcfe301c
+manifest 43f818ca7f0dd62e1ec666b897a968b25bb51914
+files src/HOL/Tools/Sledgehammer/MaSh/src/mashOld.py

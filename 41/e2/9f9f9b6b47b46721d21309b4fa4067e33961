@@ -1,0 +1,4 @@
+changeset ad52ddd35c3acc2d80d8dc32cd6f25a88637db6f
+manifest c3eb0e6128d36bcd94f1682fa1bfc1580911ea69
+extra rebase_source:6927ab046fdc2bf74173dc2e2b5f06fc5e3c2897
+files src/HOL/Rat.thy

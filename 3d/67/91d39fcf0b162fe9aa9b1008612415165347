@@ -1,0 +1,4 @@
+changeset 24f0df084aad5fd6e07c16a1ca28a007f658f5c6
+manifest b1ec9ef33d2c345d25025f56989d9a818c999e02
+extra rebase_source:0b335015a90b92da352f0465ed1a6fdb6856d6c4
+files src/HOL/Probability/ex/Koepf_Duermuth_Countermeasure.thy

@@ -1,0 +1,3 @@
+changeset b7c8675437ecc489cd5143c9620d0fbe0cc49725
+manifest 74e273c982d7e12c45009e3a5dcb94701d8b7d8a
+files src/HOL/IMP/Hoare_Sound_Complete.thy

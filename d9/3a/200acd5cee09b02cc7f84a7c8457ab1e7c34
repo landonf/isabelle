@@ -1,0 +1,3 @@
+changeset afcbf23508af5435a873ba56c376299905649f0e
+manifest e2cf23ff50ebc92185643adfc52570e91999ea87
+files src/HOL/Tools/Qelim/cooper_procedure.ML

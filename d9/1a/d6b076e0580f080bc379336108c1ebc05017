@@ -1,0 +1,3 @@
+changeset 264c7488d532cd4f1425d94f1d74486c389cb118
+manifest 20c1edc38b22c028b73a32a186c5c067a5647568
+files src/Pure/Concurrent/par_list.scala

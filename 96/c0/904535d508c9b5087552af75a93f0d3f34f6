@@ -1,0 +1,3 @@
+changeset 89c43964696068196e440fd5480e0cb46a5901ec
+manifest 8052fb16edc509b08a4d44d9cf6c584a1888ced2
+files src/HOL/Tools/Nitpick/nitpick_isar.ML

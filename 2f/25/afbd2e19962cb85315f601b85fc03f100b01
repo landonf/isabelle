@@ -1,0 +1,3 @@
+changeset a727e1dab1627a3621e596a3dc0020142ff17227
+manifest 88fb0571e496fc073aeadcbced7c926dc57c56a6
+files src/HOL/Tools/Datatype/datatype_selectors.ML

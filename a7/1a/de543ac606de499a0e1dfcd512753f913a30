@@ -1,0 +1,3 @@
+changeset 0fba71f35a9c00de15e6079638417ba22bd54e57
+manifest 11a568aca9cfa67e4742a2f146185ba8a8a56f9d
+files src/HOL/Tools/function_package/auto_term.ML

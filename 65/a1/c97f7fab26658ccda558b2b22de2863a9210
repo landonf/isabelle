@@ -1,0 +1,3 @@
+changeset 81403d7b9038d24cf63be35afcefd06cf6032af6
+manifest 5072c460fa25cfb1f084cfe8037debd4b47c9ced
+files src/HOL/Data_Structures/Tries_Binary.thy

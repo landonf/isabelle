@@ -1,0 +1,4 @@
+changeset e7e3776385ba52db7d94d75b58349907adaf179a
+manifest ca3e4151acbd2b27c49b07c4cf9c87e1a8e7099b
+extra rebase_source:e8c308b3a2c7b8b4552b6d3d2589a3398455c305
+files src/HOL/Library/Finite_Map.thy

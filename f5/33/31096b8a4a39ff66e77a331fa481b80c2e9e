@@ -1,0 +1,3 @@
+changeset d44c77be268c567b3f08fb521148c26f42956165
+manifest 82213b22c3c76bd393343712fefcbed39686a84b
+files src/HOL/Tools/typedef_package.ML

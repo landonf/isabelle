@@ -1,0 +1,3 @@
+changeset 1014f44c62a2fcccdf6f0be4ad8cd864bf4dabed
+manifest b921cabd9b412a12e11a1dddf67e7199489fc3dc
+files src/HOL/Tools/BNF/bnf_lfp.ML

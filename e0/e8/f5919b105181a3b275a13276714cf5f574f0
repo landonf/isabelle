@@ -1,0 +1,3 @@
+changeset bfb2e82b61fece6e635be49d4822168df5ef1527
+manifest a29e0f5f5a5b848e02c5281c40acf803d55edf26
+files src/HOL/Tools/recfun_codegen.ML

@@ -1,0 +1,3 @@
+changeset 62bc389d61688e2182ec15625313e8ce63b49a01
+manifest d5ab28c09af0bc890d7c86d88df28c0a9afc1754
+files src/Provers/simplifier.ML

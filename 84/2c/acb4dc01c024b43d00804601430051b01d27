@@ -1,0 +1,3 @@
+changeset 31b4fb3d8d6078c1bd2d8e328758c06a274fdcb0
+manifest 559606d97b49ecab4a7b7a0c2151ff1f6c5fd483
+files src/Provers/Arith/combine_numerals.ML

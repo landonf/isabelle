@@ -1,0 +1,4 @@
+changeset bb3610d34e2e78439df253d5732f4566dfbea6fb
+manifest 72a0e6527c251eeb11a8697271acad1ad742c56b
+extra rebase_source:629d5d21c15fc4a23007104e9f5a8ccccbad1886
+files src/HOL/Fun.thy

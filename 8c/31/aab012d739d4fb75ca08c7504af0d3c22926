@@ -1,0 +1,3 @@
+changeset 0d31d1735104d5ed7a5342c4970753572a4332dc
+manifest 8cbab730066ebae8732228a38b4af36c2b1c50c0
+files src/HOL/Tools/BNF/bnf_def.ML

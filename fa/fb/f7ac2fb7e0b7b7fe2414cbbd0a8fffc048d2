@@ -1,0 +1,4 @@
+changeset 02aa7f6e530d09e235cfb4497439cfb0116bb8ed
+manifest 2a6a5db2a6e98f54bda6bc5c60e0dafe87210503
+extra rebase_source:65c0aeaa6902c3c1076331f420f103bef3c63aba
+files src/Doc/Ref/document/simplifier.tex

@@ -1,0 +1,3 @@
+changeset 09576fe8ef0847be502031ff35eadc80a88119aa
+manifest fb0320108cb5ebed5e69642013bf652ef602fab5
+files src/HOL/Import/proof_kernel.ML

@@ -1,0 +1,3 @@
+changeset 890b117f61898ad9c44d539cd31cf7477193a64a
+manifest 10262b6f45c08ef1f3776ec1b6781f0796568d2b
+files src/HOL/Tools/numeral_syntax.ML

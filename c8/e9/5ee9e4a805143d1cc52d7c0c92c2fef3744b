@@ -1,0 +1,3 @@
+changeset 68f3fddd6e24a1ac8a93d02544059f446d9dc99f
+manifest 609e9d2ba84eb7198a31639b5d8b2027f790f335
+files src/Provers/Arith/cancel_numeral_factor.ML

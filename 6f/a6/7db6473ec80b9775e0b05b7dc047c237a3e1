@@ -1,0 +1,3 @@
+changeset 61acb731b4a2602c2eed363cb87a96c399aa256e
+manifest bc865be0a8c1a51f31822dbafea8f1e67ba25316
+files src/HOL/TPTP/sledgehammer_tactics.ML

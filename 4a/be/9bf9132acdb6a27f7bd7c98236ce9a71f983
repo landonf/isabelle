@@ -1,0 +1,3 @@
+changeset 0978b8e32fd0395d3fcfd72d2bff623f8906508e
+manifest f1fd8b4d2cab38865aa606272d6405da2c207b0f
+files src/HOL/Algebra/poly/LongDiv.thy

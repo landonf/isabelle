@@ -1,0 +1,3 @@
+changeset 9225b2761126566fe6ebd8830bcaac66991e6aa3
+manifest 7ef4095f48c853bcd4bba804caf0361b17c2daed
+files src/HOL/Quickcheck_Examples/Quickcheck_Lattice_Examples.thy

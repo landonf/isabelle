@@ -1,0 +1,3 @@
+changeset f4bf6b126cab282493bd8380772552b04e664c5f
+manifest 041f93a95088e9e2fd0b6e8290d7c6444774c684
+files src/HOL/Spec_Check/property.ML

@@ -1,0 +1,3 @@
+changeset 2859dcdbc849047ecd84e0fc39b273830e7f9c9a
+manifest d99f56b21cdcfb4cbc3a3d67be2eb7dbf2eca4c7
+files src/Pure/Thy/export_theory.ML

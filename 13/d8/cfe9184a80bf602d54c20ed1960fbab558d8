@@ -1,0 +1,4 @@
+changeset 2574977f9afa0993e9b185305d7dc8fdbe03da87
+manifest fe4f427d446c3aae47916b21ce734832255142ee
+extra rebase_source:190491b01ff8f77d2a5a4ce301a6f37420772baf
+files src/HOL/Library/Extended_Real.thy

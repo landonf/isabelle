@@ -1,0 +1,3 @@
+changeset faaedc8222c8e059903027e0f935384152bf97b8
+manifest 9d84d77d80ea2bacbc8f9dd5dd01677a00c47ee9
+files src/Pure/Concurrent/synchronized_sequential.ML

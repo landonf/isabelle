@@ -1,0 +1,4 @@
+changeset 87b94fb75198c822454a28be11be22b6146e3e6f
+manifest a79af45eeeae931c0f76b9b8e67b0b503a770698
+extra rebase_source:74aa36a50d3b916f14a70d276de272b5aec5e463
+files src/HOL/Multivariate_Analysis/Topology_Euclidean_Space.thy

@@ -1,0 +1,4 @@
+changeset bec7e6e25a4b530acda86ae619480ad9f68a4c78
+manifest 9c5d1055f340233bfedf3caaeeeb3cc8b63b757c
+author immler@in.tum.de
+files src/Tools/jEdit/build.xml

@@ -1,0 +1,3 @@
+changeset d2dc9bc3a3e17dd34aeaa9acc4267713067ab643
+manifest 06695c917abbab907708d2a788047e88940ba25b
+files src/Pure/Concurrent/isabelle_thread.scala

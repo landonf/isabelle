@@ -1,0 +1,3 @@
+changeset 6ede465b5be8e39f5787384d5ae94928ee3f9239
+manifest ab9553851868cbc95068eccaf9107bf0113af81d
+files src/HOL/Tools/Function/function_elims.ML

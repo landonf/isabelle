@@ -1,0 +1,3 @@
+changeset d2b3372e6033e934ed5092b4a80234f66779f99a
+manifest b74ce4a820dab8afd30e6d04346be7061ee147d7
+files src/HOL/Tools/case_translation.ML

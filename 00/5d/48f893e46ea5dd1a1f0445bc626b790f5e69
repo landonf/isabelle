@@ -1,0 +1,4 @@
+changeset c2b5900988e2792db1f8a820d137a5b7e5afde60
+manifest e8fe7b368af0e36678940546903ee4e44abab0a6
+extra rebase_source:c9aa6dc900d04cd224641314f4e4f4c12344be48
+files src/HOL/ZF/Games.thy

@@ -1,0 +1,3 @@
+changeset fc4025435b517f2ae5ffaad7a9fa6473bc029789
+manifest 5a61dbe1e637282416cf9fb74f84511a66e5d109
+files src/HOL/Tools/Nitpick/nitpick.ML

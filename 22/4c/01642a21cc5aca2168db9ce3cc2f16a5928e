@@ -1,0 +1,4 @@
+changeset 50ae42f01d451f5be9fa5b2c8c96cb552a3161ca
+manifest 9ed5f0c0ca82dd055cbf2c4061238c6565b67512
+author immler@in.tum.de
+files src/Tools/jEdit/src/prover/Prover.scala

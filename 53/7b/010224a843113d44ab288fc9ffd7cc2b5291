@@ -1,0 +1,3 @@
+changeset 05fd4be26c4d2fed0a6ce7f0313b2d99c712c300
+manifest cf528273fedac3c62386a410e1addf88cc9d7d73
+files src/HOL/Real/HahnBanach/Subspace.thy

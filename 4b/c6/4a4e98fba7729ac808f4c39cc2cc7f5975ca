@@ -1,0 +1,3 @@
+changeset ddf1ead7b182b3ba88d5c25dc4af71baa277c8bb
+manifest 1bd89924200c0f4ba38bf9ccb53f77c16b8c239f
+files src/HOL/Data_Structures/Set2_BST2_Join_RBT.thy

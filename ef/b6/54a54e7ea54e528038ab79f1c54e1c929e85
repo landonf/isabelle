@@ -1,0 +1,4 @@
+changeset 7163b780549daf0da8f7cd7a9660544431d8cb5e
+manifest ef8ba7d5e99514c6abf7a95cc8f729fc9bd0c2ae
+extra rebase_source:83ac0b618a2861f7234162ca60ac1f0c05a014ac
+files src/HOL/Tools/arith_data.ML

@@ -1,0 +1,3 @@
+changeset 0d2f7f0614d15ae1bdc396daaffeb7b9eec82d02
+manifest ef5d7cab5c3fbeb485cc2777d45e679ecfb49568
+files src/HOL/Tools/Sledgehammer/sledgehammer_fact_filter.ML

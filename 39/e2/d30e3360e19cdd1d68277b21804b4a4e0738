@@ -1,0 +1,3 @@
+changeset e1da23db35a9025342dbaf3b3317c8ad72fd3b7c
+manifest b2b3c8aa23cd52ad2983a044cc2bfd50b6144371
+files src/HOL/Tools/Sledgehammer/sledgehammer_preplay.ML

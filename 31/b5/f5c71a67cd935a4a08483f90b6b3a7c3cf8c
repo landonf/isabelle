@@ -1,0 +1,3 @@
+changeset 42dc8d00e4c84e0357d64e0b4cb1d250b7314fb4
+manifest 776c12126b6e6e6483a951155e38b1ad172ee5e4
+files src/HOL/Tools/Qelim/ferrante_rackoff_data.ML

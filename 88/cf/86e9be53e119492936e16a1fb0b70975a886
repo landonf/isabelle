@@ -1,0 +1,3 @@
+changeset 41a4352c52400405caa3fe5412dec68ef18117c8
+manifest 1180f5987309daaeea02a0ed5273804e47a51c18
+files src/HOL/Tools/Nitpick/kodkod.scala

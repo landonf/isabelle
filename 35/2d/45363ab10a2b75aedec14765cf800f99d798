@@ -1,0 +1,3 @@
+changeset 5e681762d53896849d2d2b0cc438147a9c8464b9
+manifest b479b0149dd10588d15c813ce987c9e5d0a807e7
+files src/HOL/Hoare_Parallel/OG_Hoare.thy

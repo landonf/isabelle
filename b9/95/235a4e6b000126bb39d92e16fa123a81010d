@@ -1,0 +1,3 @@
+changeset 38961724a017acbdba29f2eee76af157548ab2a7
+manifest 5d6d3a3282dda863b8cef12c5720e359b7e7fa2b
+files src/HOL/Types_To_Sets/unoverload_type.ML

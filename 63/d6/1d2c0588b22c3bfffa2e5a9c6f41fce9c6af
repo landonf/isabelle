@@ -1,0 +1,4 @@
+changeset b779c3f21f05cf22444b2d3a5140084f11c86bb6
+manifest ab816798651ef9cf42a151981f488c45390b3356
+extra rebase_source:7dc118a82fd6b8aeb0b217eab0f907eab6354467
+files src/Provers/trancl.ML

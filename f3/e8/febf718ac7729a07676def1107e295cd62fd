@@ -1,0 +1,3 @@
+changeset 9579464d00f93cda0841a2756dbe7094d2f0dd76
+manifest afbd46cc3c26bd6c2ea33abe199b9722900fe3b7
+files src/HOL/Tools/ATP/atp_problem_generate.ML

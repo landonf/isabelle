@@ -1,0 +1,3 @@
+changeset 0d751da653d9dc2cbeb7e1716eec6ecb2b714b1e
+manifest eec18dd5038d4afea2bdcc9ed0f0617c4e4b9d53
+files src/HOL/Tools/ATP/atp_systems.ML

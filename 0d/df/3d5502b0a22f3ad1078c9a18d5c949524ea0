@@ -1,0 +1,3 @@
+changeset 39e412f9ffdf975c6614b4ea717b1a172a72b86c
+manifest efc410943947ffde2e8ce176e85495637bbed17b
+files src/HOL/Tools/Function/induction_schema.ML

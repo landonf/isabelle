@@ -1,0 +1,4 @@
+changeset 6ad54b84ca5ddd529fc3430cf54bc7913ed56e3a
+manifest f17f42cc6d79bd107055959a4f421fa6dcc70b8b
+extra amend_source:815075982e48f626e2b1bd3208771f6b506fce0e
+files src/HOL/Analysis/Finite_Cartesian_Product.thy

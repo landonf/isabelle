@@ -1,0 +1,3 @@
+changeset 1f6f6454f115da9a637c985bbafbdf29ce591205
+manifest 0ead251f7b80a42c6b0321bdaee2f58d4be1bf7c
+files src/Pure/Proof/proof_rewrite_rules.ML

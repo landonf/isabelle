@@ -1,0 +1,3 @@
+changeset e853cd3f3ede22311fe83ae94a19d440842f869e
+manifest 8ccbe09b166afcd26e06fa98cf2cdedbe7a25c00
+files src/HOL/AxClasses/Group/MonoidGroupInsts.thy

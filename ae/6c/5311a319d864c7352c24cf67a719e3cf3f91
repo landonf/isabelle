@@ -1,0 +1,3 @@
+changeset b03a36b8d528dff93a680ffa075f0d96c06e8601
+manifest 96ada64bfc601a2c4a22a253378d1f794a77825d
+files src/HOL/MicroJava/BV/BVNoTypeError.thy

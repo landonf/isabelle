@@ -1,0 +1,3 @@
+changeset 79dae6b7857de28d3f1a82332d2feeee7a105d8d
+manifest da6c2d25ed61c2715ba87b790892f37a39051104
+files src/HOL/Tools/list_to_set_comprehension.ML

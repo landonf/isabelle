@@ -1,0 +1,3 @@
+changeset 25ffdae37db187c360e171866d23bd7f9ee280a9
+manifest 556f47bb39d835e6b410d8f4ad830c1429dc17cf
+files src/HOL/Algebra/poly/Polynomial.thy

@@ -1,0 +1,3 @@
+changeset 3cb30e525ee9320ba7860bb5c1ae1f6cd46b9350
+manifest 4329c9c5871560ed6d4cbe8d68b220b6e02e6e3b
+files src/HOL/Mirabelle/Tools/sledgehammer_tactic.ML

@@ -1,0 +1,4 @@
+changeset c7f6f01ede154ed513f7170beadabc6a48d15666
+manifest b26ae8095d7c37cf2ba46b1c8b9e1d137c63c0b2
+extra rebase_source:4ab74590451b87594cb5df64321d60d65e950068
+files src/Doc/Codegen/Adaptation.thy

@@ -1,0 +1,3 @@
+changeset e2249cd6df67db38e45945f5abd55ea7286de5a0
+manifest e30e69082b3d652300ca80a16456526e8166bb76
+files src/HOL/Analysis/Henstock_Kurzweil_Integration.thy

@@ -1,0 +1,4 @@
+changeset a97a3a95be93797eba63bc8592188daa880a0f34
+manifest d6f4249868e5576c32b5781e1d0ae30096aeff2f
+extra rebase_source:d2ea2affa00aed00cc3406d0ab03f0803d089cc2
+files src/Pure/Tools/ci_profile.scala

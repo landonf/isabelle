@@ -1,0 +1,4 @@
+changeset 7d1127ac2251c5082ac5ab2533a101181b2b41ed
+manifest 73ef38aba8929523fd4dde6691a5974e76775a91
+extra rebase_source:ede20bd4497dbc9d290639d6c1abf8960f621d90
+files src/HOL/List.thy

@@ -1,0 +1,3 @@
+changeset 6e13b5427de0766ed5ad0804feb3656b0328b839
+manifest 7dc34d2f0d6275f6f6cecebfa81dc5b2742b328f
+files src/Provers/Arith/cancel_sums.ML

@@ -1,0 +1,4 @@
+changeset 721feefce9c6e8b40560732b9183898e75ded306
+manifest 148bcc149040c480966da1a719239fd7597f4f30
+extra rebase_source:6680bc51d50d9c83f035fcbf3487b684dce780be
+files src/HOL/Quickcheck_Narrowing.thy

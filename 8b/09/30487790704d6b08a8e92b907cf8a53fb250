@@ -1,0 +1,3 @@
+changeset 52c68f8126a8124f0f2032f862eff1633bd26006
+manifest e3ba72c949457148161e3d0cd2bce4099c7b3b3d
+files src/Pure/Thy/thm_deps.ML

@@ -1,0 +1,4 @@
+changeset e26c7f58d78e7f8562b8cf957e0f5fcd755b814a
+manifest 72d710743e82a73bc9155e917c1f27a8e1dd2d9b
+extra rebase_source:61bd5cb95e6c936ef1675a22b0e76e372620d269
+files src/HOL/Groups.thy

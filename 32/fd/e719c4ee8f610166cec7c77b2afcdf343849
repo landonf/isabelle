@@ -1,0 +1,4 @@
+changeset 23a5e7fba8377ecf440361a2f228d9c8ddaeab35
+manifest 1d7eb3a30e58ee8e40898c4f2ee337b3229fe22c
+extra rebase_source:84906c45473d01a48f084a7edbd7d7d2cc04024e
+files src/Pure/Isar/toplevel.ML

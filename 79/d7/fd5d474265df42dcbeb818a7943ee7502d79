@@ -1,0 +1,3 @@
+changeset bf8331161ad99043d9c59abd2a780fee4bd174b5
+manifest 5690cf446e4611dc3d66123dd2b64c83b3ee9a7d
+files src/HOL/Mirabelle/Tools/mirabelle_sledgehammer.ML

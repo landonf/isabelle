@@ -1,0 +1,3 @@
+changeset d6f60fcb1b772ef864b36c8cb1109473ede0193f
+manifest ba72380782b43622b7493942ae722f90961ff76e
+files src/HOL/Tools/atp_thread.ML

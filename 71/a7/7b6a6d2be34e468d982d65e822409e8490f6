@@ -1,0 +1,4 @@
+changeset 166fc8b9b4cd587164b0f6caefa62327e1ab9986
+manifest f1f3eb024a1a69e4a0bd545150d9a1d90518a121
+extra rebase_source:c1b8ce7b4e37da3b4063c9d96ea7ebbed73ffadb
+files src/Pure/Isar/bundle.ML

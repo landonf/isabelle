@@ -1,0 +1,4 @@
+changeset 4821af078cd62d5fad2a7b8e2ca0ba52d347ea1f
+manifest 9008ab4345d93235f2cfdde79348d39287ea656d
+extra rebase_source:d219a16f22d603ade9e03b4c21f7de8290e97e9e
+files src/HOL/Decision_Procs/MIR.thy

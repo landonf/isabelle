@@ -1,0 +1,3 @@
+changeset 9116dc6842e103e30d992edfe118899f258c5d54
+manifest d23ac96adda468d9ea3ee97be923fbd481efca75
+files src/HOL/Tools/polyhash.ML

@@ -1,0 +1,3 @@
+changeset 8796d5edd29cad85d2ccb5b58b928c8e67ea0831
+manifest f2b5dd130121aa4948d000c911e8c0589b94105a
+files src/HOL/Auth/Guard/Guard_Shared.thy

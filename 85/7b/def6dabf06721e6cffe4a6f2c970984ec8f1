@@ -1,0 +1,3 @@
+changeset 415587dff134b6eeab7272e091d352d1d5ebcf92
+manifest ec5c78c9a06e496cf03bcd40ba5edc208498be5b
+files src/HOL/Modelcheck/MuckeSyn.thy

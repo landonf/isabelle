@@ -1,0 +1,3 @@
+changeset ced4f4ec917e9a8da104f704cc88221c5062f7a2
+manifest e9c88f5d7482650c9875718d06ac4351fee7b41f
+files src/HOL/Tools/induct_attrib.ML

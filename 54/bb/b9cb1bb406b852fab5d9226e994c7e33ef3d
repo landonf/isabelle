@@ -1,0 +1,4 @@
+changeset e19f33968557c6f19bd127ebf190433751257562
+manifest 73c27dd8b68aadf1e7eb4407732d3c957c393aba
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/DynamicTokenMarker.scala

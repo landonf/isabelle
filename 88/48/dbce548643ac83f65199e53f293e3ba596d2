@@ -1,0 +1,4 @@
+changeset 2f7d39285a1a9c00cf15b79b9f8182eaba47e05e
+manifest ba7cb0679efeb683b66147522c1c73ac303e27aa
+extra rebase_source:77e2c6439ac87c558348313cdbfac8f7d3e81d95
+files src/HOL/Map.thy

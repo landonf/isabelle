@@ -1,0 +1,3 @@
+changeset 23e1899503eea802e0ca7357c47684de7412df14
+manifest c970430f1285117be7a0a9462a5c02b461d74923
+files src/HOL/Tools/Predicate_Compile/mode_inference.ML

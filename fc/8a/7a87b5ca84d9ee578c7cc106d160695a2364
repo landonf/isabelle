@@ -1,0 +1,3 @@
+changeset f084ba24de29f521a01255c2df27bbd0e32482ec
+manifest dbf57a3d5b5ce3039057f47e2a27fb753fa92bcf
+files src/Pure/Isar/find_theorems.ML

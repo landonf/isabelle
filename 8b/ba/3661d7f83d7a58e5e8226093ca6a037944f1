@@ -1,0 +1,4 @@
+changeset 49a436ada6a24d0b603a7a6ba8a9ccc09008e371
+manifest f4377781707d4a065dfc17b16d9842931ff2bb20
+extra rebase_source:1004aa2de4f8f180eeca623bc0e1c770e4cfd391
+files src/HOL/More_Set.thy

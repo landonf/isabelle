@@ -1,0 +1,4 @@
+changeset 78ea983f79875ee36343f2107fb4d9524eb69417
+manifest 2716dba99d13e5069c588dbc09fc284867c6c3c3
+extra rebase_source:2af44a81e392ceab2d97d9822dbf3392753abfd3
+files src/HOL/Transcendental.thy

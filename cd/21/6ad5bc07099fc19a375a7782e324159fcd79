@@ -1,0 +1,4 @@
+changeset 123acfd5fe3510161cb80ad46ba449569721e0c1
+manifest d6999b69b318b6fc9a2abbf59f4cf1076a473556
+extra amend_source:5e16613d9ef10e8f797fea01cb90833419726b60
+files src/HOL/Library/Pattern_Aliases.thy

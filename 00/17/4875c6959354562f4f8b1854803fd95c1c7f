@@ -1,0 +1,3 @@
+changeset 6a363e56ffff6b07fed9c0c59a0fe37d28b9f760
+manifest 46532fa074167cd609da5f4b3a94196b79e7242e
+files src/HOL/Tools/Sledgehammer/sledgehammer_commands.ML

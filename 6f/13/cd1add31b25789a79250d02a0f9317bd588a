@@ -1,0 +1,4 @@
+changeset 2977773a481cb0f005c765cb9e45d08328b5cddc
+manifest dccb286ddc698e70bc9a99438d173f7840a68534
+extra rebase_source:4a9e374a2016496ef031305b318725707a19097b
+files src/HOL/Number_Theory/Cong.thy

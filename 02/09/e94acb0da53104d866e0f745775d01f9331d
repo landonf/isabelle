@@ -1,0 +1,3 @@
+changeset 4f2954d995f00adc1737756beef188082d1a5f10
+manifest 46304ef223b282012707253da660caab19d1c0f6
+files src/HOL/Tools/rewrite_hol_proof.ML

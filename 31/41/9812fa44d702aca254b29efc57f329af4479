@@ -1,0 +1,3 @@
+changeset 9a5d5df29e5cd0e2086fbaa1eee4e6c7f6a4de7f
+manifest c16591eb4be3c4295aa4b7ff72bd7334e3ddec32
+files src/Provers/Arith/extract_common_term.ML

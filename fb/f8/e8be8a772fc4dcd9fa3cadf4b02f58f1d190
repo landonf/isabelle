@@ -1,0 +1,3 @@
+changeset be149db8207a36f0f22f1b4f9d7b1fa479397747
+manifest c060c628d30e8d9426d4aa31f1637349e1abf90c
+files src/HOL/Tools/SMT/smt_systems.ML

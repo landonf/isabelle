@@ -1,0 +1,4 @@
+changeset 0d56854096baff53cfec63f5c702e263e64e9ef6
+manifest a73ca1b058ded5052f40472355d131373ba4a0e2
+extra rebase_source:b5e2f7cb4e20d42cc1e66e03f8f062ae67538d85
+files src/Doc/Tutorial/Protocol/NS_Public.thy

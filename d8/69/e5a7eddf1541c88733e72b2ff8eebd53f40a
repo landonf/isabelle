@@ -1,0 +1,4 @@
+changeset 8b8f9d3b3facda7c8e92fc649c869f7b5bcd879e
+manifest 0c553586e62896d209973d4f49b5e4ef27c700fa
+extra amend_source:8bec9d0ca5bfcc7638eb9937a805a22c98f103a3
+files src/HOL/Analysis/Harmonic_Numbers.thy

@@ -1,0 +1,4 @@
+changeset fae7a45d0fefbdb64e896be0944fe138f5156108
+manifest 37989f1274ef702920cb13fcf66456d50e5f9e23
+extra rebase_source:2c1f4a9166d016ac824a3d4fe3032ea907e2799f
+files src/HOL/Multivariate_Analysis/Integration.thy

@@ -1,0 +1,3 @@
+changeset 79309a48a4a7817245fc28d397ade6d154badb79
+manifest 6223c1d546d9d9a6cf1b934e79ed2c858d33bd9d
+files src/HOL/Tools/Metis/metis_reconstruct.ML

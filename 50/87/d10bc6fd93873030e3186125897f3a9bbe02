@@ -1,0 +1,3 @@
+changeset 13a3657d0dacac2b80cca56da336a5ebb30ed1a4
+manifest f1a6da839e2bf45cc4dd6a41bba3fadc747e366b
+files src/HOL/Import/MakeEqual.thy

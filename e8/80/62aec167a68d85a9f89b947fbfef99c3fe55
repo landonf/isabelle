@@ -1,0 +1,3 @@
+changeset c869b52a9077500623842f0fbba6a9f9bc44aa2c
+manifest ed5d2d2ed1f4bb25b0550acb83c41c4acab256cd
+files src/HOL/Hyperreal/NthRoot.thy

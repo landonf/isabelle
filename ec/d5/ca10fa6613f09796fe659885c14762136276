@@ -1,0 +1,3 @@
+changeset d52d61a66c32daf4915512e0f4a16643ef0844b2
+manifest 8056899bc5da9a7972cfda4c8b7bced101102ee7
+files src/HOL/Induct/Multiset.ML

@@ -1,0 +1,3 @@
+changeset 5ea3ed3c52b35a44506d8142c113ddda7d230749
+manifest e5920faeaf6ae5c877d956410f345c92cc8cb92a
+files src/Pure/Concurrent/consumer_thread.scala

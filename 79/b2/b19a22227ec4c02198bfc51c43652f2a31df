@@ -1,0 +1,3 @@
+changeset 0d5a32c1bf11acbc31eb1856a3649140ca192b20
+manifest d98d5fb99fd4eb66c58c28082e2d18b29b494c3f
+files src/Pure/Concurrent/simple_thread.scala

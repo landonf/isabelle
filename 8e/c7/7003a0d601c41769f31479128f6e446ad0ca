@@ -1,0 +1,4 @@
+changeset c031e65c8ddc7aa52c63a86c0cba874915565704
+manifest 5d1ba12caf071a7451b600bb18ac891063bb489a
+extra rebase_source:f18a25e3535f0994b192d937a22c0cc462fdc800
+files src/HOL/RComplete.thy

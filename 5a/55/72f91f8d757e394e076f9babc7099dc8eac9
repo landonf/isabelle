@@ -1,0 +1,4 @@
+changeset 2adb23c3e5d1d0ac7198aad54ccb5973c0baa77c
+manifest d0c088ac3d8c14bb8e4ae8961512d5e681b7a039
+author immler@in.tum.de
+files src/Tools/jEdit/src/prover/MarkupNode.scala

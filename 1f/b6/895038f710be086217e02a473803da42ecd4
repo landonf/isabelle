@@ -1,0 +1,3 @@
+changeset 6099b85ae48edfb8451157e4ea49c44a02afc3fa
+manifest 02f3d42656fb5e3b140470194bbb3c6819385008
+files src/HOL/Tools/ATP/atp_proof.ML

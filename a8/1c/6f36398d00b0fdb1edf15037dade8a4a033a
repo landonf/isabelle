@@ -1,0 +1,3 @@
+changeset f0fc8531c9097fb7f015eccf1c092e394e0b2ae1
+manifest 631023fd148f1fb462ef3a6bbe4e3c2c32172d75
+files src/HOL/Tools/primrec_package.ML

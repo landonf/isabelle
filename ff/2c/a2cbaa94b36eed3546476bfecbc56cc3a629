@@ -1,0 +1,3 @@
+changeset 69eddb55588e56ed06676bb4d3382c768eb55a66
+manifest e9453770c6ad2fa8282a20ce6f23ac2fa2c317bd
+files src/HOL/Boogie/Examples/Boogie_Max_Stepwise.thy

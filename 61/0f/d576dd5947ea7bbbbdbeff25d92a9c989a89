@@ -1,0 +1,4 @@
+changeset 4d5a98cebb2430badc2d69db88d20bd70342ec5f
+manifest 5e4cb7f2b8d48314f6c1148d5dd1c001380487f7
+author immler@in.tum.de
+files src/HOL/Tools/res_hol_clause.ML

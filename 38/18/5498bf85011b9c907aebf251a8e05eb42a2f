@@ -1,0 +1,4 @@
+changeset be3dd2e602e88ae62d56b949fbb7f746c6079ed8
+manifest 954e78b033fdc118dd37506f8e4d094bdc1d3ef3
+extra rebase_source:e1ee78f9065555b71380d5352e73c013e17e11ff
+files src/HOL/Enum.thy

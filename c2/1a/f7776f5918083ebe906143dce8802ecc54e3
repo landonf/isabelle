@@ -1,0 +1,3 @@
+changeset 3db7243c24847b0ead1af433f63a9f9b2d01f848
+manifest 2f5cc6872c58284bfe3ef198fcc2b7990d5948a8
+files src/HOL/Tools/Groebner_Basis/normalizer.ML

@@ -1,0 +1,4 @@
+changeset 3887432720a977dc5c4db03a792819c04e8dd643
+manifest 43bae5aa6f0a0614be16b0c92cc833d9f0cb878d
+extra rebase_source:925e5859c312c4432ad0ce83c9f8a0714b599594
+files src/Provers/hypsubst.ML

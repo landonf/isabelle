@@ -1,0 +1,4 @@
+changeset 2e3821e13d677b4c12b888ce02da81c059110748
+manifest 86a0b177061d9c01cd154697f0d61cf7995b0e20
+extra rebase_source:e937f23e79755a66e7fbd659488da4cb9faa0c6c
+files src/HOL/Tools/transfer.ML

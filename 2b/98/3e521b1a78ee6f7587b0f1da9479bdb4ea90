@@ -1,0 +1,3 @@
+changeset 5a925ad63f4d1549be4e3a943b2144cc50de31df
+manifest 8722a1301cc08a773d77dd6ceab58adc62d5a305
+files src/HOL/Complex/ex/BigO_Complex.thy

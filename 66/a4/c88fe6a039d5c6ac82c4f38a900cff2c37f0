@@ -1,0 +1,3 @@
+changeset c0e18afae4336e5b838e16c55f3084f4a9a2b553
+manifest acb91170a33b3020e5e7bb51c8d3827fe3bffe2f
+files src/HOL/Induct/Acc.ML

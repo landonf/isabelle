@@ -1,0 +1,3 @@
+changeset 0c128c2c310d3735d2cd53076a57ae8a8d52d5c6
+manifest a9920e74a4e7fe57f2af6f32bb42b275cd4dd194
+files src/HOL/Tools/Predicate_Compile/predicate_compile_core.ML

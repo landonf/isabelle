@@ -1,0 +1,3 @@
+changeset bcce5967e10ebf2ec946127e6c866dd1969fb5c3
+manifest cc5ab4d913f17da5b6eb77fef9339d7f08526ae1
+files src/HOL/Tools/string_syntax.ML

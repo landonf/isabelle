@@ -1,0 +1,4 @@
+changeset 730fa992da38447dcea42acf9676599355d8d191
+manifest ae14830beea0844996e2979db7caba56a8e1c8fa
+extra rebase_source:e37180f6a36998d0e8625743e964f4ef02b85492
+files src/HOL/Eisbach/Eisbach.thy

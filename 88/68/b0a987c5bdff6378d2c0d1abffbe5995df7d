@@ -1,0 +1,4 @@
+changeset 2463cba9f18f0b82a6daa9adf5adc0550a339238
+manifest 032484dd46a56d84f6f8d9abb9477e95c8c68fff
+extra rebase_source:913a617a752fa0c5ff08d04a724cd1023f2fb459
+files src/HOL/Real.thy

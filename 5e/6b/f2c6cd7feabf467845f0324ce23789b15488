@@ -1,0 +1,3 @@
+changeset 8e0abe0fa80f9bf72402e085d60f600def89ab61
+manifest ba6ff637ae82612ded64abf0577acfa9d7de4663
+files src/HOL/Tools/function_package/lexicographic_order.ML

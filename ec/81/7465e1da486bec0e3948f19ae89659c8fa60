@@ -1,0 +1,4 @@
+changeset 7066e83dfe46a3acef19c4669505578bdc7f7df5
+manifest f3b0d6c8848f5dacb7aaf73d016c1a8c20827d27
+extra rebase_source:a62550a9429128cdde0effda0f6a142b1541cd4a
+files src/HOL/Library/State_Monad.thy

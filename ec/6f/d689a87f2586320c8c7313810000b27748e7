@@ -1,0 +1,3 @@
+changeset 6d9dd5309b85774341539fe73656ccf99dfaa7ac
+manifest f585fdfbedbba635e1009c1eb8f98b2dd67c3fef
+files src/HOL/Library/Sum_of_Squares/sos_wrapper.ML

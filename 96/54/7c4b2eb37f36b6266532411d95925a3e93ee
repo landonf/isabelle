@@ -1,0 +1,3 @@
+changeset 48dc606749bd6f32c367074c8ac6fb3204300ac3
+manifest ffbdb323ff5c15759fabdc84faa770db191f9689
+files src/HOL/Hyperreal/HyperDef.thy

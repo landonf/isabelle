@@ -1,0 +1,4 @@
+changeset dee043d197298add0b828c32a2ac70f9c2563ee9
+manifest 428a3e5b44a845f5dcf858d6131c99c744c3cfcb
+extra rebase_source:08d9741e0b845d8a4dca59161347836ac2bae1b0
+files src/HOL/Probability/Probability_Mass_Function.thy

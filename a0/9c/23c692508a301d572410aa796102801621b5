@@ -1,0 +1,4 @@
+changeset 8a1ba195247a35e7a42c7dd19f70a28f67edb4c9
+manifest 23a77cdb268593928bb3caf4ea8ae1263ac1e58b
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/ProverSetup.scala

@@ -1,0 +1,4 @@
+changeset a421f1ccfc9f9d32a488d1312144ba1228cd014f
+manifest e76c8596ab8d31d8cd27add0b9183f470ad99293
+extra amend_source:49068c2f3a89065f5dac1d61eee17a6c9c7843f3
+files src/Pure/Tools/simplifier_trace.scala

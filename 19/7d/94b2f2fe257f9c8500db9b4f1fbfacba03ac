@@ -1,0 +1,4 @@
+changeset aa288270732af897e069526240d17c083f0a4c9f
+manifest 3884eaddd02c44d1c8677ac6b658e793fdd63702
+extra rebase_source:4a4b9d6f9eb1430c1f5b0a56e70a512f08749504
+files src/HOL/Tools/nat_numeral_simprocs.ML

@@ -1,0 +1,3 @@
+changeset 18abee32d1b6f152adcc4bcc063e5633258bc58c
+manifest f98015948607fcdf328c77f35915a2acab5c7a3c
+files src/HOL/Matrix/cplex/MatrixLP.thy

@@ -1,0 +1,3 @@
+changeset e557d511c791fcffc1b0a180ff310ff2cbbc2f28
+manifest ed34295c1a9a6bb3e576756b7b43c208d83e7e81
+files src/HOL/Tools/ATP_Manager/async_manager.ML

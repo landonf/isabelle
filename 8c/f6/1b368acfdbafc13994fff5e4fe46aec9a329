@@ -1,0 +1,4 @@
+changeset a5d293f1af80f95707d67d749ab56da0258737c6
+manifest 3ed40197a8590020d1905c06e0c94520baa05977
+extra rebase_source:bc2f3f4b3f7627a3f539c71eec5a9e760d3206e3
+files src/HOL/Probability/Central_Limit_Theorem.thy

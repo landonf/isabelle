@@ -1,0 +1,3 @@
+changeset fb160b829a8855e79eb2c7ee1ee19eb3997513f3
+manifest 5b0473b2ae5df16baa59f6588b780e920d9284d2
+files src/HOL/Tools/SMT2/smt2_solver.ML

@@ -1,0 +1,3 @@
+changeset a063a96c866206640bae2c997becdcbbaa55bd18
+manifest 72e93b553ebb62542576143aafbecb91e32df0cd
+files src/HOL/Codatatype/BNF_LFP.thy

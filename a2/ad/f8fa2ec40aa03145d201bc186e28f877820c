@@ -1,0 +1,3 @@
+changeset 865610355ef376e1b1d93aaebd6193dfcd1d2ad1
+manifest 6719a5fdd78c9d878d6adc9372b1b21793d25f60
+files src/HOL/Auth/Guard/Guard_NS_Public.thy

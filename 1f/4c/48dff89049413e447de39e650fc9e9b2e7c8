@@ -1,0 +1,3 @@
+changeset 5257bc7e0c068b0bcb9ad1d7972f85f369cc0a95
+manifest 4ccc5fd2575fd7db8cde4f3b867f7c95e380cf18
+files src/HOL/Induct/PropLog.thy

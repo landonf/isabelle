@@ -1,0 +1,3 @@
+changeset 0f94b8b69e790e1b4d54a9aff114a7c6ee338c17
+manifest 426bb281000c4baaa3f7defb6ccb97f177bce4a1
+files src/HOL/Tools/Sledgehammer/sledgehammer_minimize.ML

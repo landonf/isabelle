@@ -1,0 +1,3 @@
+changeset b8ef323fd41eab2fa3a570ef75821e9927222cd5
+manifest 9b2b6639ecbb8fdc575bd52d2570ac7e926bf51b
+files src/HOL/Matrix/FloatSparseMatrixBuilder.ML

@@ -1,0 +1,3 @@
+changeset d84bab7ed89e2dfeb11bb369be2743140fda95dd
+manifest 875f10dc3a103d7f2bc5c83c257a5478a75c4002
+files src/HOL/Library/bnf_lfp_countable.ML

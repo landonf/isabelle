@@ -1,0 +1,3 @@
+changeset 6d53a6f554317be0c9578cbd58f566dbdd1fac6e
+manifest b12e200bcd02455569c31b1dad48f1166bcb00ee
+files src/HOL/Tools/semiring_normalizer.ML

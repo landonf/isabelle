@@ -1,0 +1,3 @@
+changeset 06a62b29085e041171c424ac1f7a0af2628e7981
+manifest 41d8786d1eebcf7388baff6b405f88e694444d23
+files src/HOL/Tools/Meson/meson_clausify.ML

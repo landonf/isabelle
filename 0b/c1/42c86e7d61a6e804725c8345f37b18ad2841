@@ -1,0 +1,4 @@
+changeset a521a6fab39b1204529565eb0d0ab31a20762a07
+manifest a220d78395a6ee2a99ccc9175a49d7a4abbf28eb
+author chaieb@chaieb-laptop
+files src/HOL/Library/Dense_Linear_Order.thy

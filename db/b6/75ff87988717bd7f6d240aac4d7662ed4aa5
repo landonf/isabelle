@@ -1,0 +1,3 @@
+changeset 6ded9235c2b67cac25c69ca289f59213648d53ff
+manifest 2a7c8f9df437637c51341d0b97f62be99bf4eb4d
+files src/HOL/Nominal/nominal_inductive.ML

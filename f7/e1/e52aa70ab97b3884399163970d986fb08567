@@ -1,0 +1,4 @@
+changeset 1e973b665b981420f96545804155a952f770dfc7
+manifest b83c3d030e6219321ed3abe732b3688ba1768cc7
+extra rebase_source:5d3345b26d68ce01e0a79191d769a646352a461b
+files src/Tools/Code/code_namespace.ML

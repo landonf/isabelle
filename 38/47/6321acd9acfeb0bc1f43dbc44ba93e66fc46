@@ -1,0 +1,3 @@
+changeset b287b56a6ce556194a31f22bd3245823985387be
+manifest 2b8280b1f13469aa4a0ddd6dcbb8ca51d73fe122
+files src/HOL/Datatype_Examples/Lift_BNF.thy

@@ -1,0 +1,3 @@
+changeset 1cf810b8f6004317f518dd67d08ee0c7003bb0c4
+manifest f30f962820621fb23cceaaec2e6373ea99b4f60c
+files src/HOL/BNF/Tools/bnf_gfp_tactics.ML

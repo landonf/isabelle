@@ -1,0 +1,3 @@
+changeset cf1abb4daae65dcd2c3c44d45a257f7ecc1b7691
+manifest d5f4cd051eb5ff147367541c2124c3a73302a400
+files src/HOL/Tools/Sledgehammer/named_thm_set.ML

@@ -1,0 +1,4 @@
+changeset b510b7d88de2fdd73bb015f93c5483b9a6c83b44
+manifest a0b84127633a4e1cb29f482158242e8f08743a38
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/Plugin.scala

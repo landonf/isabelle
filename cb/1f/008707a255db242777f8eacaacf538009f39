@@ -1,0 +1,4 @@
+changeset 32d4117ad6e8070a813a393bb40da97732af4f60
+manifest 27cef51cb3b9e9f78539fb17c576cb0b0df99417
+extra rebase_source:6ecf572da10e9f84930d3e93ffc7aab8b0a7fbd0
+files src/HOL/Computational_Algebra/Polynomial.thy

@@ -1,0 +1,3 @@
+changeset 7c74a52da1102c11525d024e5ce8f45610132e5b
+manifest 4251ba165b02ad472d2f5b4aeb83c76a9a286ccc
+files src/Provers/induct_method.ML

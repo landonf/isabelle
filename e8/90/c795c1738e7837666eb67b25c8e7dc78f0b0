@@ -1,0 +1,3 @@
+changeset 805250bb7363dbfcb072ed34bbfb522106bdd21a
+manifest fe5d25954d1734036695df1c81f439366718cf4f
+files src/HOL/Data_Structures/Trie_Map.thy

@@ -1,0 +1,3 @@
+changeset 61bc5a3bef09f63a96329cd48370d1401cfa9b4e
+manifest 732498aab695d9fd0023433727d78b60ad63c7f4
+files src/HOL/Tools/Sledgehammer/sledgehammer_compress.ML

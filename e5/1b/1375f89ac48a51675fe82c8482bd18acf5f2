@@ -1,0 +1,3 @@
+changeset f8d1e16ec7580d7684035579c66b46b8eaaf3bb7
+manifest 2d8dd815e3f49ea95bcd55c930000f1d960da9b8
+files src/HOL/Tools/ATP_Manager/atp_manager.ML

@@ -1,0 +1,3 @@
+changeset dca35981c8fb3f155802cd6ae95de13ec537db0a
+manifest 0264a9327794b60c4f2e0ac218cc1c87cf44e416
+files src/HOL/Eisbach/eisbach_rule_insts.ML

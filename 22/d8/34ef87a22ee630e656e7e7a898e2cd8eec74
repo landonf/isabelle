@@ -1,0 +1,4 @@
+changeset f07b8fb99818853cf6dc87342d616ac9a645866b
+manifest 88cbea27bdc16788da3144e1ab4e31f21aead735
+extra rebase_source:25bedddd8d62a1123f6c95436ff194025ef344cb
+files src/HOL/Rings.thy

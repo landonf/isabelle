@@ -1,0 +1,4 @@
+changeset f6e63c1e5127c6e6e3e03ce72462e1f48b944f93
+manifest ace5280acee247ead4fa27e7fc62a9464d78f26b
+extra rebase_source:de780eaa568c3771fb088b82efcf5cafdfcbd29a
+files src/Doc/Implementation/Isar.thy

@@ -1,0 +1,4 @@
+changeset 3d7472b6b720ad383f9da93fc8a35019e5cc1fa1
+manifest bf4a778ba2e12b43dec3d47011b580af09e957be
+extra rebase_source:146036483f74929fc155b38cf5d6375612cc8ad4
+files src/HOL/Tools/reflection.ML

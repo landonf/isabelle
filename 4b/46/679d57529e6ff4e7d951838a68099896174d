@@ -1,0 +1,3 @@
+changeset b6fd2f4414620d4ef40217c940126842b4cfce03
+manifest 63ce7d558f582daff1d4b7631bdf48eee24a5283
+files src/HOL/TPTP/TPTP_Parser/tptp_proof.ML

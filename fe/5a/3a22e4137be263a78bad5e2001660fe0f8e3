@@ -1,0 +1,4 @@
+changeset 45e065eea984b4504a0b26e0ec36d5a05667eab3
+manifest dacd5ddbc6e53da3b0a16e587523746a9d9e7f09
+extra rebase_source:52decbf66ee0e428e2f88b689ff3ca261fa17ebf
+files src/HOL/ex/Word_Type.thy

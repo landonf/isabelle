@@ -1,0 +1,3 @@
+changeset 4f4dd39a1e588b58ca0a640b44020fd029c83860
+manifest c2973454d0377b7fbc5dd2317624ef6bde7d952d
+files src/HOL/Predicate_Compile_Examples/Reg_Exp_Example.thy

@@ -1,0 +1,3 @@
+changeset b97607d4d9a5465c4097e0543b22cc0f80258a22
+manifest 2570ed610118fee2ee7a95ddc53cb99aa241bfde
+files src/HOL/Nominal/nominal_permeq.ML

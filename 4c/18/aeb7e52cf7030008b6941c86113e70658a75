@@ -1,0 +1,3 @@
+changeset 47f283fcf2ae155c329d91d324499e7182a63c17
+manifest 01f7087242a159cb1389092b991005d5aa2c9e8e
+files src/HOL/Auth/Kerberos_BAN.thy

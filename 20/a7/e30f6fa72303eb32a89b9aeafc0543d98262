@@ -1,0 +1,3 @@
+changeset 3baf384e2b996d2a2b40882f5fe5f8c3ca7ff4dc
+manifest d3e7221183cbb9eb173479a249161b68130e0de9
+files src/HOL/Tools/ATP/atp_translate.ML

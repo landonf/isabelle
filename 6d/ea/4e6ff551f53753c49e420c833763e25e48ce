@@ -1,0 +1,4 @@
+changeset d7c6a3a01b79b637926bdf85e5c749356ff43ee1
+manifest 559d915d36d77fc50c214770d5efb94f1e8bcc1e
+extra rebase_source:631bf6412e3f32407565c75811e4e1b15b41513c
+files src/Doc/more_antiquote.ML

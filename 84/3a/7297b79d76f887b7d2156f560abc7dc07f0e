@@ -1,0 +1,3 @@
+changeset bafe6c0cbab460457b04e1ce53f7a8cec579ea4f
+manifest 92daf6c64b66ec815dc3eea0fe8ab77eb9136137
+files src/HOL/Boogie/Examples/VCC_Max.thy

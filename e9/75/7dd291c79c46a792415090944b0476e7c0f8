@@ -1,0 +1,4 @@
+changeset ead185e60b8c18b152b7cc821de80cf04a520947
+manifest febd86bcd888a9158e2786d70a8bdef6789c1674
+extra rebase_source:fac335be28930b101ac84bd8fb7f88f98bdc10f5
+files src/HOL/Transfer.thy

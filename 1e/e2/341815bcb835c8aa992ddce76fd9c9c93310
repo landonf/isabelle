@@ -1,0 +1,4 @@
+changeset 39898c71933982132f6343db8538afe0c0400335
+manifest 560dca01e61dd9d9286ee49f533ef390ac3ed9c3
+extra rebase_source:e53e1794158fe9a6653984489a4c2e8c62bd7395
+files src/HOL/DSequence.thy

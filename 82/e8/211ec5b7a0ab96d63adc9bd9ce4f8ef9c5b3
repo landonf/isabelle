@@ -1,0 +1,3 @@
+changeset 9788fb18a142a46da3b03dfd87adccf5c1ea1d55
+manifest 562297b82ea9d2ea7899b542e807b8f0bf1fc3ce
+files src/HOL/Tools/datatype_codegen.ML

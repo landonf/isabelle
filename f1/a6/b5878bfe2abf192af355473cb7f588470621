@@ -1,0 +1,3 @@
+changeset 99ef9fd7341b010940ab4a8c256c797bac202f78
+manifest 61d84c0c788525d94d1de8ab5bdbc7a0763b724c
+files src/HOL/ex/sledgehammer_tactics.ML

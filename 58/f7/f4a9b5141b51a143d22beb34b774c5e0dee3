@@ -1,0 +1,4 @@
+changeset b4564de51fa78c1786f5c067a3b7da4e970f0d56
+manifest 4c6d1c0d5ebfa1ab729d8a940420627e08ca7118
+extra rebase_source:5d3032d319dd8caa3f9ffc75aa5ab959b2085425
+files src/HOL/ex/Bit_Lists.thy

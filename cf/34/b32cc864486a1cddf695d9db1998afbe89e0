@@ -1,0 +1,3 @@
+changeset 930dbc6610d089085b3cff73125c8f794280e727
+manifest d6ab0ebf8c37c803cda63467b7f7b993d558ff62
+files src/HOL/Data_Structures/Braun_Tree.thy

@@ -1,0 +1,4 @@
+changeset f0e55d9ffe45da788f11d23bc9811319eee0b661
+manifest 7aae0d1c599bea6ba127a4db12053ad0996b06ab
+author immler@in.tum.de
+files src/Tools/jEdit/src/utils/LinearSet.scala

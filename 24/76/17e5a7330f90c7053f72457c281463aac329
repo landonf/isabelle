@@ -1,0 +1,3 @@
+changeset 1f614b4eb36796f363f1517e8b7aa5fee44fc88e
+manifest a14f00d04a626cd755a37124fc6fdab652820ebc
+files src/HOL/Tools/Sledgehammer/sledgehammer_provers.ML

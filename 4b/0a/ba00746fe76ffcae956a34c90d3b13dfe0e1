@@ -1,0 +1,3 @@
+changeset 6e9aff5ee9b5d90e979ee1ebee2715ec57498280
+manifest faaf6f02bc631c8fe6a85f0d895941c5d3fb0637
+files src/HOL/Tools/Sledgehammer/metis_reconstruct.ML

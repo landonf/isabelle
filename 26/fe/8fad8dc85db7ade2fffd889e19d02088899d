@@ -1,0 +1,3 @@
+changeset f5bceeec9d91f642ac39549639272852d82b0303
+manifest 5ebcc90de6ad147e8362a2f40a705a04546ee503
+files src/HOL/Tools/datatype_abs_proofs.ML

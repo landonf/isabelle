@@ -1,0 +1,4 @@
+changeset 6e26d06b24b1150fd3734120674503a9f31eadc6
+manifest b2a38782460124e51c17bd476838afcc76422b8d
+extra rebase_source:f143d5afcf2dd6516871b4030dd8fd2f9ad29825
+files src/HOL/Combinatorics/Transposition.thy

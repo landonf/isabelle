@@ -1,0 +1,3 @@
+changeset f42fd9754724ff66767e32bf63225f40c2af3002
+manifest d3c9562f699f2c43f370fee80a06d16573b13ccd
+files src/HOL/Tools/Sledgehammer/sledgehammer_atp_reconstruct.ML

@@ -1,0 +1,3 @@
+changeset 188c7853f84abb829ef71f1bc0ca8edcc113a8bb
+manifest aa26dc5f206af04a36110fbd47e53ef074057872
+files src/HOL/Data_Structures/Binomial_Heap.thy

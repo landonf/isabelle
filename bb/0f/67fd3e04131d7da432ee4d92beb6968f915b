@@ -1,0 +1,4 @@
+changeset 887298ab70dc0d86c126bd5f493664c1c3748baf
+manifest 4ef119b973161e64138cdc66d9b34fe3040ace90
+author immler@in.tum.de
+files src/HOL/Tools/res_reconstruct.ML

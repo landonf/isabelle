@@ -1,0 +1,4 @@
+changeset 8f9d27c89241db20890f00284f50058feb3f8bb1
+manifest b3ab7b1fa5f674356d864a5d0393eef47bba503d
+extra rebase_source:eb504a9c21421694df61ac849381f6094d183dc7
+files src/HOL/Fields.thy

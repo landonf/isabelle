@@ -1,0 +1,4 @@
+changeset e78c3023162b641cad66fded45b5505773ee6778
+manifest fe1545509a9c2e55b66fdaaea9602114e2cea075
+extra rebase_source:67f9d3e7fbc339b41fff1861aa37411c471d6ff6
+files src/Pure/Isar/code.ML

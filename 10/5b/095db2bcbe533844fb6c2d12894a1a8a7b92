@@ -1,0 +1,4 @@
+changeset 9225370db5f035b22715b24bae2b8d2bce850c27
+manifest 014074ac6414bd1dd5619d93902064248e434a0d
+extra rebase_source:a17e37804e7210d36cbaa71ebab36ed396102573
+files src/HOL/Library/Code_Real_Approx_By_Float.thy

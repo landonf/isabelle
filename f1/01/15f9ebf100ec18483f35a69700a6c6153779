@@ -1,0 +1,3 @@
+changeset 65318db3087b667319460508e1493d8f51c51b9f
+manifest fcf4c56d6a20113432c778703128ff04853cf3eb
+files src/HOL/ex/Set_Comprehension_Pointfree_Tests.thy

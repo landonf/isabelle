@@ -1,0 +1,4 @@
+changeset 3afa3b25b5e75e726f1dc7d897ac4a3c75d1af43
+manifest 8549fb5411af28dd9e8922014b023ed622423cce
+extra amend_source:0a7599416af09ee2624f9acfd46c8c95665cf268
+files src/HOL/Data_Structures/Array_Braun.thy

@@ -1,0 +1,3 @@
+changeset fe4a58419d46845acf61f901a98cb2507a3e8f7e
+manifest 9ad23677729e472a0ec29c9e29c7ce74d0c7e9af
+files src/HOL/Tools/Function/partial_function.ML

@@ -1,0 +1,3 @@
+changeset 1318955d57ac3f04826bdcaf811b9d1a36ecf254
+manifest c7bc8fa9e2b34d60421075875decf034bc1c622c
+files src/HOL/Nominal/nominal_package.ML

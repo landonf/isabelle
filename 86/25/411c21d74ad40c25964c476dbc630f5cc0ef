@@ -1,0 +1,3 @@
+changeset 8b6fa865bac490a5b816c59dd83a65cb0b220c14
+manifest cac0a6ec8a9af33b66a79cd1c0b6963e7cf73699
+files src/HOL/Tools/Sledgehammer/sledgehammer_atp_systems.ML

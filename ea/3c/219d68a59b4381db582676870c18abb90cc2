@@ -1,0 +1,4 @@
+changeset 04a8da7dcffc11373ab81ac46a05c88a8c3b873e
+manifest 886b643c6c78bccdddfddd3e5736bbd8fe32be54
+extra rebase_source:02bb0e82170a01b5a081936884e79bd77c2b7035
+files src/HOL/Quotient_Examples/List_Quotient_Cset.thy

@@ -1,0 +1,4 @@
+changeset 8a8cf7b4473928cc5a2916f6b0dd4b49cf8de7ce
+manifest 8203a4774383eef232587ca2143634584ce6592b
+author immler@in.tum.de
+files src/HOL/Tools/res_atp.ML

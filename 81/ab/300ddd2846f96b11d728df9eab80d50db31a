@@ -1,0 +1,3 @@
+changeset cb262f03ac122f50eddb0334f563ffc560917472
+manifest 428d475474faedcd529d90a08b83966eac32131c
+files src/HOL/Tools/BNF/bnf_fp_def_sugar_tactics.ML

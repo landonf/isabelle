@@ -1,0 +1,4 @@
+changeset 2d73385aa5f35b7a171756c38664a31517163678
+manifest 9ce423a92832612ae43832a2471eb767883b92a1
+extra rebase_source:570cdfef9c107890fa9489cefca18b06f5b08f10
+files src/HOL/Probability/Borel_Space.thy

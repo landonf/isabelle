@@ -1,0 +1,3 @@
+changeset a625de9ad62a3419e110dc9da8009b4324a6ca7e
+manifest c47f7ec44d6ce21b866b150a94609b676f9d38cf
+files src/HOL/Tools/inductive_package.ML

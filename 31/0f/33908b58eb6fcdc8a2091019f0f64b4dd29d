@@ -1,0 +1,4 @@
+changeset 715bf5beedc060bb8b27877185cc88c8e7467e5c
+manifest 66fc1f3eab79b4ba0e2797c2b48fcc4f02093b9b
+extra rebase_source:59d3d47a4132ed76ade03e3849f29ca6f3657416
+files src/HOL/Word/Bool_List_Representation.thy

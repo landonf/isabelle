@@ -1,0 +1,3 @@
+changeset f6d99c69dae90b1e428b278c342af6c5224d4f42
+manifest 1351225fa395ebecfd3b252721222ed3d2f81afb
+files src/HOL/Tools/SMT/verit_proof.ML

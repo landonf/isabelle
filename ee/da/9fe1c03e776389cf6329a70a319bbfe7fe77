@@ -1,0 +1,3 @@
+changeset 005218b2ee6bcbda918b654ec78ed65203a41541
+manifest cec8df5083c9dcf9a57439da99a35fa32fa983c3
+files src/HOL/Tools/sat_funcs.ML

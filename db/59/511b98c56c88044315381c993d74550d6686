@@ -1,0 +1,3 @@
+changeset bc084e1b4d8dd8e0b4641889c2c00d4fcc6b53e4
+manifest c3ba9e4ac019a603976931c6c28aeb1fff0fdf9d
+files src/HOL/Lex/Automata.ML

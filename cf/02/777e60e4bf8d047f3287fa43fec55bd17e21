@@ -1,0 +1,4 @@
+changeset 30bbc100d6900462a5c63dee54641ae854506450
+manifest ff01e978d231b52963f60cce818c848b27334643
+extra rebase_source:3426fdfbbd80b6c8ed8487dbd041e6c1821446c6
+files src/HOL/Multivariate_Analysis/Derivative.thy

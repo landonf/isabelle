@@ -1,0 +1,3 @@
+changeset c9c1a64eeb6912591422beb9b9b679a85fafaefd
+manifest dbe64e62f2dd369cb86421149cc46ee6f821a883
+files src/HOL/Library/Linear_Temporal_Logic_on_Streams.thy

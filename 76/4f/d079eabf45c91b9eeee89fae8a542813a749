@@ -1,0 +1,4 @@
+changeset 50437744eb1c51f8ddddc9df8b157318f8188540
+manifest fcd204c3d8f215090d1ad6b4e33c90b179c7369d
+extra amend_source:e87180a845019c9f9413eb652d119c7358fcae90
+files src/HOL/Library/AList.thy

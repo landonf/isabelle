@@ -1,0 +1,3 @@
+changeset 1c49d9f4410e52dbc7e6c3e8dfdcd8f80d082685
+manifest 28ec14495060b7319473e865d443d394768bdb8c
+files src/HOL/Real/HahnBanach/NormedSpace.thy

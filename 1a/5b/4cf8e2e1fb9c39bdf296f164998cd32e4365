@@ -1,0 +1,4 @@
+changeset daa397b6401ce9e4659ced8f0904312315f41055
+manifest aa9fbeb9dee3fb33b8fe1d39d7bc4cdb16cece4b
+author immler@in.tum.de
+files src/Tools/jEdit/src/jedit/IsabelleHyperlinkSource.scala

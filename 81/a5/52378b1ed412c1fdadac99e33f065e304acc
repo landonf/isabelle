@@ -1,0 +1,3 @@
+changeset 96696c360b3eebab51b7f7bdebb78ca98c6629f4
+manifest 5f6e175c4b8e7b852baf52e3e6e086cb23bfe05a
+files src/HOL/Tools/Metis/metis_translate.ML

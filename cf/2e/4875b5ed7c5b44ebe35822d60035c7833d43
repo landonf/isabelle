@@ -1,0 +1,3 @@
+changeset 8745b8079b97fa06478b18b0cc4c08871115469e
+manifest 5054d07758d9ee30c7f2ba0cc1285d73be162675
+files src/HOL/Corec_Examples/Tests/Stream_Friends.thy

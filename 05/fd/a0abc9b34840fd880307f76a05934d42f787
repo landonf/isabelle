@@ -1,0 +1,4 @@
+changeset 789f5419926a115933236ff363f91d2f00ce0c17
+manifest 33520b6f6b14f639357f668aa7305fac0366ecc3
+extra rebase_source:8d5ad3411e91cab2dc8c53b19c8d92241948ff62
+files src/Tools/solve_direct.ML

@@ -1,0 +1,4 @@
+changeset 82ef58dba83b0d60d23762bb45fab94722fcbf2e
+manifest 6e593c7ac68544948e80ca403fb4a1823c6fd617
+extra rebase_source:92e27f8d7a09e9ba086ec4a2cdf2876b327b9c28
+files src/HOL/ex/Coercion_Examples.thy

@@ -1,0 +1,4 @@
+changeset 4475b1a0141d682a02943d4e63221a1e41c281a4
+manifest 932749b5bc85e71ae6643f5c4096111a01a236bc
+extra rebase_source:9e9854ce9c4d4a9304602e9012caad64de961b32
+files src/HOL/Library/Permutations.thy

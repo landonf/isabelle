@@ -1,0 +1,3 @@
+changeset 13bfdbcfbbfbb6632d069d749a4c344ba9fb9c9d
+manifest 4856731ce8ae4ff5e8cf98dc172a2e5b28002127
+files src/HOL/BNF/Tools/coinduction.ML

@@ -1,0 +1,4 @@
+changeset 9044e1f1d32477a478df0cf7bed7219dacacb25f
+manifest a6f1098c4aa9937995c14ff798aa88b3e825e5fd
+extra rebase_source:427f9ca2975f1d4f8635e3509a6d1045335cf09a
+files src/HOL/Set_Interval.thy

@@ -1,0 +1,3 @@
+changeset eda52f4cd4e44b594dcdbc8aad165ba4204cd1f2
+manifest de23f6fbf729ba7cc8b69ed6655a14cb361f3063
+files src/HOL/Analysis/Convex_Euclidean_Space.thy

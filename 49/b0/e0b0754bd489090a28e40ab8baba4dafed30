@@ -1,0 +1,3 @@
+changeset c13fff97a8df3c23d95aaca121bdf5007f94b738
+manifest d1b83ea03371ed721349cdaea4f0a330f7c1f371
+files src/HOL/Codatatype/Tools/bnf_lfp_tactics.ML
