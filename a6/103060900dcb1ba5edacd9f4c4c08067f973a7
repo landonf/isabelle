@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Coinduction.thy
+copyrev: c59821da05959d030739e8978e01390966fd979c

@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Code_Nat_examples.thy
+copyrev: 883412b41488c0fa8f06d1fb55b62e30ae9eb92c

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Datatype/primrec.ML
+copyrev: 25881e47c22056a4ace75ea71bb51bed84b137b0

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Product_Vector.thy
+copyrev: 80145942df2f1d90241be81e6389785c63d4fb3e

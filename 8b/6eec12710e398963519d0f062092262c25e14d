@@ -1,0 +1,2 @@
+copy: doc-src/IsarImplementation/Tactic.thy
+copyrev: 41790f9c4cbdf15b49a25e09b2b607bcfa3598f5

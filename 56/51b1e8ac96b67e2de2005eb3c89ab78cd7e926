@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Order_Union.thy
+copyrev: 40a279fcaf126a2985e5081fe06f3ecb57ad89e3

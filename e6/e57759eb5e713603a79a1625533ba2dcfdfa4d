@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Misc_Primrec.thy
+copyrev: fe604e7a6b81c666771fcb644c42fd4b8a58a68b

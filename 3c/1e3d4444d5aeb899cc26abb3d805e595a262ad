@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Interval_Integral.thy
+copyrev: 9634126b54d6497e76b6b5ee0fadac31ba9abdd0

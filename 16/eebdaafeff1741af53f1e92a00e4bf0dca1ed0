@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP/atp_reconstruct.ML
+copyrev: efed29672213508fa94ba6f0a016dee92884a7e2

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_shrink.ML
+copyrev: ad8e1514b417bea4a58acad8d7afbbe4bdc34499

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/transfer.ML
+copyrev: 81a2d44cc977f2424e684eeabb162cdd926cffa8

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Order_Relation.thy
+copyrev: 2a6ea6d86620d784eee5d81fdbaf93b78080b6e5

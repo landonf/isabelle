@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/random.ML
+copyrev: 4ba8be71dadde1aa72685fb576f928e4b54eed93

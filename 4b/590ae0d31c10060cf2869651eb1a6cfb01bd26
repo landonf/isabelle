@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Function/context_tree.ML
+copyrev: c9af99fdb00a4e134372ed7b45659071f21204fa

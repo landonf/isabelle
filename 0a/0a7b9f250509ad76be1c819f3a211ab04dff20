@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/case_translation.ML
+copyrev: 1d2d84dd25967e7b0e79989a3faa6a7aca237808

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/TPTP.thy
+copyrev: 46553d241d24c612d866e9cbb88ae9097c5579e4

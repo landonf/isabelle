@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Set_Integral.thy
+copyrev: adea6c0412603d5efd93cd1e521f81f622535d0f

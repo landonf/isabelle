@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smtlib2_interface.ML
+copyrev: c42ef1ea1a86582b71c7da22206468d5a18fc3b5

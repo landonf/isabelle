@@ -1,0 +1,2 @@
+copy: doc-src/IsarImplementation/Thy/Eq.thy
+copyrev: 51248d7ba817f15d8c4917ff91db3ecadc4f360b

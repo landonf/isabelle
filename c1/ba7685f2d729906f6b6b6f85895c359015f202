@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/output_style.ML
+copyrev: cf92436187f0795697e601fcfa9ceb06d5e5c85b

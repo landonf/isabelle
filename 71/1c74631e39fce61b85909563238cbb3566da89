@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Uniform_Limit.thy
+copyrev: 4ade29f92f21a77b17c48d58f375e7b97eaddaa2

@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Bit_Lists.thy
+copyrev: b3006bce050c54b8f328052141fec4ca244d2536

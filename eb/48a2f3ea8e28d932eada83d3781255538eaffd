@@ -1,0 +1,2 @@
+copy: src/HOL/Number_Theory/Polynomial_Factorial.thy
+copyrev: 42b1068af5b5fab8880b9b9425032a05ddd25a3c

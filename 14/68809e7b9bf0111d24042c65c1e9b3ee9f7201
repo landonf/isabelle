@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_atp_translate.ML
+copyrev: 8ec7c10212f9f76ee0c853b02291651073c199ec

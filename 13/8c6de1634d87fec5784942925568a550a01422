@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Enum.thy
+copyrev: 5ad30ac404f1a279e2d8c420b65c28279c13b5c2

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_preplay.ML
+copyrev: ab707b0e8c6b14d0d76a9435555f3d611967029b

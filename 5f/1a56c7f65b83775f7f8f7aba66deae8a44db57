@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/scripts/spass
+copyrev: bb9817ee9052250c785fc429723d31792a89702b

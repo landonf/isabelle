@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_setup_solvers.ML
+copyrev: 8e581a43b01daa9155348309e11341dd961413d1

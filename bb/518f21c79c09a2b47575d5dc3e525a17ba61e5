@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/Map_by_Ordered.thy
+copyrev: 1e3791b598bcfbfd132a21dc534723aafe20e04e

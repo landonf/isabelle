@@ -1,0 +1,2 @@
+copy: src/HOL/Quickcheck_Examples/Needham_Schroeder_No_Attacker_Example.thy
+copyrev: e68b7635770906a4a3b30015c7b4e4ab594e386c

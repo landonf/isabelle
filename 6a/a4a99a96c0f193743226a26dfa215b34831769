@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Asig.thy
+copyrev: 73c0403d62717fb73a5954c635dd98093bfb30c3

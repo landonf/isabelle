@@ -1,0 +1,2 @@
+copy: src/Pure/Concurrent/simple_thread.scala
+copyrev: 2cd4888dbb32567abde3589fb9491919fc50667e

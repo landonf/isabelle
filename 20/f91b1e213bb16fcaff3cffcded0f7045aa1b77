@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_tptp_format.ML
+copyrev: 98c52b19d95941a769ed1e6f41be0d1c4214496f

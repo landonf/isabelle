@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Interpretation_with_Defs.thy
+copyrev: c41958a176131b69dddcbccb8f581863130639cf

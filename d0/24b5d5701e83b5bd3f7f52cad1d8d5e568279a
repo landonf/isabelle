@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/ListOrder.thy
+copyrev: 84299ec320f70f8f9294e69ab7043d7aa8504154

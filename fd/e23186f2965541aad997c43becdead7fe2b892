@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Weierstrass.thy
+copyrev: 6887d3bedb69ab0e2b53795b326b9dc30ddd1d85

@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype_Examples/IsaFoR.thy
+copyrev: 10fffb6d88f69ed57b6cd83e158de8a1aef82adc

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Misc_Data.thy
+copyrev: 9fb28fb0119ff660349b4a503cf27a00ca98c9f0

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/TreeFI.thy
+copyrev: 1fd9045553014d3fb813059b9900fc178ff8aae3

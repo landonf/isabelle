@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smt2_config.ML
+copyrev: e055b788d30320bd44893678023db2e14f719130

@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/TLS.thy
+copyrev: adac49d1d8c2a2a97e7d12812c60dd4019052dfa

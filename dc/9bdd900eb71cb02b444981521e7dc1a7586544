@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Summation_Tests.thy
+copyrev: 4682fb36053f6c130e117320011e64cef830dc00

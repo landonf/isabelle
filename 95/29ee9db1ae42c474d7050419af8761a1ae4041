@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Probability_Space.thy
+copyrev: 561498e8528decc9be24fe6d76a01e9cbed8137b

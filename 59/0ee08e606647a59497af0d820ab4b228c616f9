@@ -1,0 +1,2 @@
+copy: doc-src/IsarImplementation/Proof.thy
+copyrev: 226daab2d3a402099d2b8b8e34f9f712e8ae4ebe

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/SPASS_TPTP
+copyrev: ea1d39bc4a23764cc23583cf1eb921a9eb8e7d4c

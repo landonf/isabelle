@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Nonnegative_Lebesgue_Integration.thy
+copyrev: f9111704d7b0974f8877dc415d4512dffb7a59c4

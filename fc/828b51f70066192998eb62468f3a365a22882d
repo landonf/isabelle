@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Linear_Algebra.thy
+copyrev: 756d8f02f51623a885753a2db7f47ae4cd1e9222

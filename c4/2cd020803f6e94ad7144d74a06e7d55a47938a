@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Code_Nat.thy
+copyrev: 05eecd567d5813764bc1b4be6677194e147cb4c3

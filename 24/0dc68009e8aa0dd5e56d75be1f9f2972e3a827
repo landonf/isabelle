@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/bnf_fp_n2m_tactics.ML
+copyrev: 8f7ab5f4ab0ef1285b9d97c6c5d28feb3b1f734c

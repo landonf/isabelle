@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Embed_Measure.thy
+copyrev: 2c8424d45a8b1056069de214dac9360813586a9e

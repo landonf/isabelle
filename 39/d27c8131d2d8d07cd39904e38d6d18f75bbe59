@@ -1,0 +1,2 @@
+copy: src/Tools/Haskell/Build.thy
+copyrev: b7d0c59d98eb444dd396504182424fa28a32fb5c

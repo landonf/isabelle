@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/smt_config.ML
+copyrev: be21141ea958cd08de1e697b80b0af191c82422a

@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Automata.thy
+copyrev: 2507a5a8f5a8599a99d231de0ac6b942d0eb1d71

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Nitpick/lib/Tools/nitrox
+copyrev: 962056efd63245100451b3a26f1feab3c4988f6a

@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/HyperNat.thy
+copyrev: bd429005e79545553e940076d59fc5d914470b5d

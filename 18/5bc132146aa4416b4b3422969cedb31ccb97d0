@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Simulations.thy
+copyrev: 618c33dadd00bcc623838ceb4b876e713f7fd3f7

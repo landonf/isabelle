@@ -1,0 +1,2 @@
+copy: src/HOL/Number_Theory/Euclidean_Algorithm.thy
+copyrev: 4211743ffeb7fe736e995523360ae496eeb8060f

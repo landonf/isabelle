@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype_Examples/Derivation_Trees/Parallel.thy
+copyrev: ae5ff1b1aab9910888ea4265c8af196c61302ac1

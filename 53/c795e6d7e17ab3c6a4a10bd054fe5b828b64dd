@@ -1,0 +1,2 @@
+copy: src/HOL/Isar_Examples/Nested_Datatype.thy
+copyrev: 0fb5572334e90395e830d9d98b81f30ccfcbb2ff

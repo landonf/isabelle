@@ -1,0 +1,2 @@
+copy: src/Pure/Tools/update_imports.scala
+copyrev: 65443b2db25945fec335896c129db3fb6c50322a

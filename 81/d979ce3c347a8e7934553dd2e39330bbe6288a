@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Stream.thy
+copyrev: 3f7be046a77b045b4022c85f02c5b749ad7f2398

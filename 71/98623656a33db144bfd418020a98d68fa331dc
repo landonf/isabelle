@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/RefCorrectness.thy
+copyrev: 069bdd4919ea1267f71ca7b944ec9066dc4a6237

@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/spec_check.ML
+copyrev: 5ad1cf4bd3be6fe1377090ae20b40f1a38afc225

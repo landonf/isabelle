@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/clausifier.ML
+copyrev: c292c12699cebbfe67f159926954c71171a043a0

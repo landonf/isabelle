@@ -1,0 +1,2 @@
+copy: src/HOL/Library/AssocList.thy
+copyrev: 1cf86e41424a8906b9dac43de4e2be50f0ae82bb

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Koenig.thy
+copyrev: 03031511ede914911479459e4cf6c23d64db1028

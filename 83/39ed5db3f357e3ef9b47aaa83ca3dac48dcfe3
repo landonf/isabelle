@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/Set_by_Ordered.thy
+copyrev: 4b7d829f73458a7fe13f4c3b78d40b447f2dbbc4

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/z3_interface.ML
+copyrev: b6308cfe583216915a214059566a4b3a1df275a7

@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Abs_Int_Den/Abs_Int0_const.thy
+copyrev: 3dc86c05802048fc5cd397d23dfecebdf2dad9a2

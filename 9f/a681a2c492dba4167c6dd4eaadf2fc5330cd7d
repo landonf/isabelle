@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Finite_Cartesian_Product.thy
+copyrev: 24055e7c103f7b6ab8cae72fb5208f412a334fec

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_prover_waldmeister.ML
+copyrev: 3d6ae32ceaea6ae94fcddea3c9618f5f5879cf4d

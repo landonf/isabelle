@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype.thy
+copyrev: 2307b31e805e147e00165dada338d07f261721d6

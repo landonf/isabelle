@@ -1,0 +1,2 @@
+copy: src/Pure/Thy/thm_deps.ML
+copyrev: 0bc4f70307fea546a1231e4ade1174d9a29fb653

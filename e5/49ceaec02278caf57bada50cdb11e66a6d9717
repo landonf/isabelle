@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Quickcheck_Examples.thy
+copyrev: 7422f2d6b38c6a1680a065a2644f22bef5973f74

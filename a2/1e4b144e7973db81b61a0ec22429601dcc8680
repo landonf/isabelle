@@ -1,0 +1,2 @@
+copy: src/Pure/meta_simplifier.ML
+copyrev: e162cf5aece1752aed5e755ef52ac0e9bb0d20f7

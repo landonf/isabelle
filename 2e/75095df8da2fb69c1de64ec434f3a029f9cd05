@@ -1,0 +1,2 @@
+copy: src/Pure/System/interrupt.scala
+copyrev: a132d5e886291649b2f845bd982db2253f5826f2

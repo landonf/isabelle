@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/bnf_fp_def_sugar_tactics.ML
+copyrev: d38f0443c0ae3a7e64a1e45f1d723d3ba5d4f065

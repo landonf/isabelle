@@ -1,0 +1,2 @@
+copy: src/Pure/System/cygwin.scala
+copyrev: 328fdb5826667e7be4f9400f74ff490333028977

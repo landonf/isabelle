@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Derivation_Trees/Gram_Lang.thy
+copyrev: c0a1608f825c0bf51ad3c87d6a94e6a9b3dbef49

@@ -1,0 +1,2 @@
+copy: src/HOL/Imperative_HOL/Mrec.thy
+copyrev: 69bf66a7775d5819a4fa010b42b73c683feb58f0

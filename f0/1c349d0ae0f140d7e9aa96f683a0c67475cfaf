@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smt2_normalize.ML
+copyrev: e70ef0793bb1238476d00f6ac4525ea61b761ac6

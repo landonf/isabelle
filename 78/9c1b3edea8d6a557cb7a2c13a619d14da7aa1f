@@ -1,0 +1,2 @@
+copy: src/HOL/Proofs/Lambda/Type.thy
+copyrev: 13b228ffdca6d7bc20293e3c7f4a463766749ef0

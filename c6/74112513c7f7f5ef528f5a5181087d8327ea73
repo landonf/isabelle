@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Product_Measure.thy
+copyrev: bf53429daa374d5361f77c0a227f5882d2968a9e

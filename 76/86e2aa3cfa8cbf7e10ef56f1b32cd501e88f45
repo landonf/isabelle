@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Function_Growth.thy
+copyrev: afeba7f1f843a99f6d25139da4971a2debd99273

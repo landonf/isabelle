@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/NormalForm.thy
+copyrev: 3dc9e1c3725da1c589f0563a8248564f1ad1eece

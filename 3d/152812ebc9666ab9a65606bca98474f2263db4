@@ -1,0 +1,2 @@
+copy: src/Tools/jEdit/patches/jedit-4.5.2/memory
+copyrev: 4d81c693befa0fc7046a477f9d54e5b716e0a158

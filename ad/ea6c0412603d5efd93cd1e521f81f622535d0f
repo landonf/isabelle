@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Set_Integral.thy
+copyrev: fb362f1a9a682720f1f31a9c20fb970a6be11b6c

@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Weierstrass_Theorems.thy
+copyrev: fde23186f2965541aad997c43becdead7fe2b892

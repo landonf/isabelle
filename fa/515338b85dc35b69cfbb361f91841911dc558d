@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Function/old_size.ML
+copyrev: 5eb92e6c9474e4cdf1ae36a638a92f1169697274

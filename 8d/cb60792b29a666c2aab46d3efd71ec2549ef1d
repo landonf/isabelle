@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_fp_sugar_tactics.ML
+copyrev: f3b5062b4be13e1125e1b562394df7bf9ae573aa

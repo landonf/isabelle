@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Nested_Environment.thy
+copyrev: 624bc8b414ddad9efb6cf9d16b49c9a62251c45e

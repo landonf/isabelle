@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/BNF/Tools/bnf_fp_n2m_sugar.ML
+copyrev: 7d7e26db3c94bc05a370ea96f8fee38c051e28bb

@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/lib/Tools/tptp_isabelle_demo
+copyrev: bf6a2998442c2bbae7b6a8464ed22b7411678f86

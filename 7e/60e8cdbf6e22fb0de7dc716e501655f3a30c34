@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/atp_systems.ML
+copyrev: e54bd3a0da395febda30eaf9d5732484783e081f

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_translate.ML
+copyrev: 0410f63539dad7dd20d1828cad443bae6924e7b2

@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Bit_Int.thy
+copyrev: 5a304189cf451b51cfe39a04c70b553d7ba39faf

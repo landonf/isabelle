@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/HLog.thy
+copyrev: d651084821a3ec89a385a77bea45676fa7fdc09f

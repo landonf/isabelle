@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_translate.ML
+copyrev: 9fc0fe6880d9ed401d76461d93ae60da61efc24c

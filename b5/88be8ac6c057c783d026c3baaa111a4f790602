@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/NatStar.thy
+copyrev: a92af80f28581ef4328c901f543c95e06f8cc4a9

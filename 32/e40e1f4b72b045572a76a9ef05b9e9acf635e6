@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/ShortExecutions.thy
+copyrev: 89a219abded510e97d566c510d17843950bc5b86

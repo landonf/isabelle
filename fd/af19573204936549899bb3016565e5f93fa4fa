@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/CASC_Setup.thy
+copyrev: 3aa41f3ab6578cb4fd21543d4aaf41087f9d3c4d

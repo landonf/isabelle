@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/verit_isar.ML
+copyrev: 0543ebdad87dd0c5623267de3314756b349dbb2b

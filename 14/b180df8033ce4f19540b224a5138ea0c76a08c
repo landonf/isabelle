@@ -1,0 +1,2 @@
+copy: src/HOL/Quickcheck_Examples/Needham_Schroeder_Unguided_Attacker.thy
+copyrev: 406cae9d368b8f3be1b2501c75ec809fec671053

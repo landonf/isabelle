@@ -1,0 +1,2 @@
+copy: src/HOL/Import/proof_kernel.ML
+copyrev: c7986df0cfb8d8b40a9693301e2dfdc5a57b5852

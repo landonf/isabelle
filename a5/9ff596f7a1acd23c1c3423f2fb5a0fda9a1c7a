@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_builtin.ML
+copyrev: bd11bc36e4fec94d85f1acd0e34470ecfec99206

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Lubs_Glbs.thy
+copyrev: fa546a61d04b524d45799a2a76f57cd44fb5f19d

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ctr_sugar_code.ML
+copyrev: bc56bb5bfe6bc5ac02a0c8bba01c32f5faf36593

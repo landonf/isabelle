@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Wellorder_Relation_Base.thy
+copyrev: 24543c955b2e15155d75a08a4c2b43d7331a605d

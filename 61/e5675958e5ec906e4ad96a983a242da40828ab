@@ -1,0 +1,2 @@
+copy: src/HOL/ex/NormalForm.thy
+copyrev: ff18d5c072cc29d2674040e9d05fd2da11ba72ce

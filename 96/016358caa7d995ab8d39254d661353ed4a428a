@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/Balance_List.thy
+copyrev: 93ab2e854ec22ee56d0770e5119e44754492b727

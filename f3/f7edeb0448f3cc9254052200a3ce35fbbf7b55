@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_sugar.ML
+copyrev: 8d4eae7a5d1890f113f6be9d047f7f643ff4f624

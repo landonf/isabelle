@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/Examples/NSPrimes.thy
+copyrev: bd803613a9b949173b2c5c1fb1e533c940565be7

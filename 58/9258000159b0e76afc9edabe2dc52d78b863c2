@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_minimize_isar.ML
+copyrev: b5c800bb84ff9d8598dffef47efb3149928b55e3

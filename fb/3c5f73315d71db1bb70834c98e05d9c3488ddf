@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/TreeFsetI.thy
+copyrev: f0b1088ad37339d11ecba365d2c3714bc9acc876

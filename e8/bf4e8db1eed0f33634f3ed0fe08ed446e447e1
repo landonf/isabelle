@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Lebesgue_Integration.thy
+copyrev: 23e564bd575da863fc027a317eea771dae10184d

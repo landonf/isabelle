@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/WeakNorm.thy
+copyrev: d3bb8437196ca4042fcf6f33b2ddfec00267180e

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Polynomial_FPS.thy
+copyrev: bdb4caaece5c598d16baa9848ce357bbc22f1b89

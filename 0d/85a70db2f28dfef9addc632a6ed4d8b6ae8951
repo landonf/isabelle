@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_prover_smt2.ML
+copyrev: a64b1c68683163eee1813833a27cce945a11628a

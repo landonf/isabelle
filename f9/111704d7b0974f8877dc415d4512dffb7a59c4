@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Nonnegative_Lebesgue_Integration.thy
+copyrev: 1f7e7dc46793b2b6635e81a41b8d8e2216999737

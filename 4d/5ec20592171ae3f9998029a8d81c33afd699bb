@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/LSC/lazysmallcheck.ML
+copyrev: 7396c052b4181ade9b5832e0b22cf8949f5a5e18

@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Bochner_Integration.thy
+copyrev: cc21dded07401d543fdfe9e8cef9237504b81414

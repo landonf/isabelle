@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/Hyperreal.thy
+copyrev: bd021ddcb5c6c18a2a3f432924c720e4d27819e3

@@ -1,0 +1,2 @@
+copy: src/HOL/RealVector.thy
+copyrev: ccc6043ccb1ac466cb6c0c8fda3003802bcdb347

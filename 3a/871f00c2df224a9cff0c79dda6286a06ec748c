@@ -1,0 +1,2 @@
+copy: src/HOL/Number_Theory/QuadraticReciprocity.thy
+copyrev: 27e582f9897f9ee180cbc69008d27e2ba0a5671d

@@ -1,0 +1,2 @@
+copy: src/Pure/Admin/build_docker.scala
+copyrev: 37c5e74ef31350eb9ad2bf4d45e96d3066daa16a

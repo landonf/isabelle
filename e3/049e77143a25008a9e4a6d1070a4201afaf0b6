@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/SML.thy
+copyrev: f2808b3860f975fa2b2f676f6ee4e5cb41db6780

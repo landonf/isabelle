@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_atp_reconstruct.ML
+copyrev: 1b973e723a306801a4ef89e655aa2ad1d4e21a89

@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/HoareT.thy
+copyrev: b386be7c59225e11f0cb7dfee3128dd04691c0a8

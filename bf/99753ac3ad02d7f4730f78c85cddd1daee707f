@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/CompoExecs.thy
+copyrev: a8c4cd9608ba97efba7e7b44bea15808ed63296a

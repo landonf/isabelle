@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Wellorder_Embedding_LFP.thy
+copyrev: 14ea0ed547493b5d33085645872b970d9a95da7a

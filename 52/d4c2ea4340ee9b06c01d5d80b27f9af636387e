@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/functorial_mappers.ML
+copyrev: dc99fe3980f7e38fca967ca2b3508bd452dc4c11

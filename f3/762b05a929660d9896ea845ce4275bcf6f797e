@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP/scripts/remote_spass_pirate
+copyrev: 6f4f4a22a66e740dc6f281e72fabcbc89f04e2e5

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/verit_proof.ML
+copyrev: b9b0c25fb3a009016c981d5e4bfdac542758c7b5

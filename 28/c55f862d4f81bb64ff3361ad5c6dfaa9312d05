@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Topology_Euclidean_Space.thy
+copyrev: c92c060de4244d105ecaf3639e5b940cf38aef32

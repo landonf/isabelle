@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/AVL_Bal_Set.thy
+copyrev: 52e1f8fbe1c3de24681b112aa4589528a776a5a8

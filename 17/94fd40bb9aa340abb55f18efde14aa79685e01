@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/etc/settings
+copyrev: 83c77e11f67af8d10812de1afc26fad49a9c2447

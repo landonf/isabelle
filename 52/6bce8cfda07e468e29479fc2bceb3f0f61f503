@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Wellfounded_More_LFP.thy
+copyrev: 8fd980f993d1410f19ba5db3402b12e5e97c4b3c

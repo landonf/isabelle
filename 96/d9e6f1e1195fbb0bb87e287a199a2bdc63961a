@@ -1,0 +1,2 @@
+copy: src/HOL/Library/SMT/z3_proof_literals.ML
+copyrev: 8c849083fd8dd55fa2419295d42d0c12ed8fed13

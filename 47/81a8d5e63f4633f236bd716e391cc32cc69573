@@ -1,0 +1,2 @@
+copy: src/HOL/DSequence.thy
+copyrev: 33bd91ea361aa369175f911ea1bd1d56ab0c123e

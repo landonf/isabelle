@@ -1,0 +1,2 @@
+copyrev: f41379ac6a6baad425a7fd22d7703cf085b69afc
+copy: src/HOL/Tools/function_package/induction_scheme.ML

@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/StrongNorm.thy
+copyrev: bc256ae7a97518a3a062b0b5fbce0b796b56f810

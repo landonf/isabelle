@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Complete_Lattice_ix.thy
+copyrev: ef79a24e94db318de9f4f70825c7f820a8090e86

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/IsaFoR_Datatypes.thy
+copyrev: a6f78608987b833127d90eef8de3abb4461a03ce

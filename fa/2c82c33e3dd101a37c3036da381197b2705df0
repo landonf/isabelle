@@ -1,0 +1,2 @@
+copy: src/HOL/Basic_BNF_Least_Fixpoints.thy
+copyrev: 8075517ca0ac7b3dc2010d08ce1fad09df37e042

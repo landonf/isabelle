@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/ComputeNumeral.thy
+copyrev: 660507f23ecd9ccfddaffe6adfaad90e42610d1c

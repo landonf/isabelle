@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Regularity.thy
+copyrev: 37b91ba76ba8a86cfe1c53dbbbe832a8d2774ad6

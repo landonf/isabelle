@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/lib/Tools/nitrox
+copyrev: 3e62f8c5dabff2b595ec03d44cec16e1eff17b69

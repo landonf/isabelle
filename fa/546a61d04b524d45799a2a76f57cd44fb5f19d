@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Glbs.thy
+copyrev: 93935e6af299df73cd012ddd6ab3aec55dfe4430

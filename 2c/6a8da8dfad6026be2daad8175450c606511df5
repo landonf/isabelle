@@ -1,0 +1,2 @@
+copy: src/Pure/Thy/thy_syntax.ML
+copyrev: 51466d1f9f6d7ea0f63494373657acb7cfe6909f

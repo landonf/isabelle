@@ -1,0 +1,2 @@
+copyrev: 1ddc7ce81c5d8a2862033a2a6c73e93a6a11ab4e
+copy: src/HOL/SMT/lib/scripts/run_smt_solver.pl

@@ -1,0 +1,2 @@
+copy: src/Pure/ML/ml_pervasive_initial.ML
+copyrev: 856da46d2ec10d30f3df685a0f8f5edc81ec9bef

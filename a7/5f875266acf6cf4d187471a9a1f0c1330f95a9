@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Ordered_Euclidean_Space.thy
+copyrev: 21c602de944ecc4476f94f2f805687d385a7e6a6

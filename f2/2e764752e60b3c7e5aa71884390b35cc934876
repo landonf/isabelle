@@ -1,0 +1,2 @@
+copy: src/HOL/Extraction/Higman.thy
+copyrev: 0b87162793a7fc15d2266f3a78ef3c2c0b4ff992

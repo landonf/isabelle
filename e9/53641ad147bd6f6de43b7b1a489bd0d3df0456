@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Cartesian_Euclidean_Space.thy
+copyrev: 0e20eb7078a063e4c2a68350b972850b679dc647

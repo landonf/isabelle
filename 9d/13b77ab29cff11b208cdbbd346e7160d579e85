@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Comp_Rev.thy
+copyrev: 8aac5ea49d8b0f98c01542674d4fe5a5f953856d

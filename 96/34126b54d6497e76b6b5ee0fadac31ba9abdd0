@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Interval_Integral.thy
+copyrev: 3ea860ff7cb229244fae8a9fddaed5276b204a54

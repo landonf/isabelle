@@ -1,0 +1,2 @@
+copy: src/HOL/Isar_Examples/First_Order_Logic.thy
+copyrev: 1b3d1e3ae517b17d4ad30dd4b52759af3b68c328

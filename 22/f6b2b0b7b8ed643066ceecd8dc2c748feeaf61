@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/gen_construction.ML
+copyrev: c4df13a1b20cfb8f4503708a4d2621868a0fdb2c

@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/ComputeFloat.thy
+copyrev: aefba8f5394c0cfb794120489d9a999834020fdd

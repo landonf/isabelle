@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/smt_solver.ML
+copyrev: 2ad9fb0ff4ab815915c365b394e84c2ec51b7027

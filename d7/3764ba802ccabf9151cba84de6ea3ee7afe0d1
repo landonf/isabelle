@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Set_Comprehension_Pointfree_Tests.thy
+copyrev: ffa9d7730bf517f4a004294c6cbcec38f081ea68

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smt2_failure.ML
+copyrev: 02942b632b6f8ea238310879008dacdb2db0505f

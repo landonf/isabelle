@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Datatype/datatype_prop.ML
+copyrev: 1a856a0a135534d1338a08173e3f11c052d6d08f

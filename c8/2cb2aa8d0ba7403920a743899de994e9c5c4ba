@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Function/size.ML
+copyrev: 8f751d47404963ea004a9f9f157166e6966efc81

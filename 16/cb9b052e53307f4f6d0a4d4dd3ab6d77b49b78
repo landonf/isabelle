@@ -1,0 +1,2 @@
+copy: src/Pure/RAW/exn_trace_dummy.ML
+copyrev: 8cdcd6e968a5a8a5a4c155cb4c0fbdc068daee68

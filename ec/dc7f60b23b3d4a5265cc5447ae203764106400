@@ -1,0 +1,2 @@
+copy: src/HOL/Number_Theory/Factorial_Ring.thy
+copyrev: a168fd89e58d6056c230d62f54e233abcf88ef37

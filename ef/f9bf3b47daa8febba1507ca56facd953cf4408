@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/Infinite_Derivation_Trees/Gram_Lang.thy
+copyrev: 8e82c6c9be69113acc23381cedc87182d0354896

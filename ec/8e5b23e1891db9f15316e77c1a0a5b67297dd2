@@ -1,0 +1,2 @@
+copy: src/Pure/Tools/build_doc.scala
+copyrev: 18c78228f6d85d67c5d15ec13f0634db10aba647

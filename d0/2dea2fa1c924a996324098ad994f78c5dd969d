@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Denotation.thy
+copyrev: dd14ce17b998e1b385b9f7eab2bef8292d47cdbb

@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/Spec_Check.thy
+copyrev: 430db450e7db34aee63f7083c553f8abed0e250c

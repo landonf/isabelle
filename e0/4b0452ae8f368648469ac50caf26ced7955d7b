@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/BNF/Tools/bnf_lfp_rec_sugar.ML
+copyrev: de93665030f8775b719ca146de4baaeb7978309f

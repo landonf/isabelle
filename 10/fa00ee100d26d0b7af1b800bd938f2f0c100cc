@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Abs_State.thy
+copyrev: 37033e55578000a429ae4b893c26905f2ae6c0dd

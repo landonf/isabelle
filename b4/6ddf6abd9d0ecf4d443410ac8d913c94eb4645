@@ -1,0 +1,2 @@
+copy: src/Pure/Concurrent/bash_windows.ML
+copyrev: 44e84c858a56b208a07c5a120bc23e0a113c315e

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Instructions.thy
+copyrev: 535f1d0fb039e2ac5bac0914193e6c532185f6c9

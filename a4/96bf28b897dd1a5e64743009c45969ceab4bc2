@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Tools/smt_word.ML
+copyrev: 59b617c197da0a91fabde016058d5663ebf10f2f

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/bnf_lfp_countable.ML
+copyrev: e61eb365bb5b84ded0c4d227b0b32c8b4f34f0bd

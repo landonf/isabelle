@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_util.ML
+copyrev: 5bb1dcad0cd7384cf511531349270688749fbb67

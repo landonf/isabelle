@@ -1,0 +1,2 @@
+copy: src/HOL/Import/Importer.thy
+copyrev: 7322c230f1dc71873c0d1fea2cc4929d40f20fb7

@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Cardinal_Arithmetic_LFP.thy
+copyrev: 032d5c68534e8cda7c52fd610d756ed846d25c46

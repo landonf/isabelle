@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Lebesgue_Measure.thy
+copyrev: b3b742cd51c6ba6d23e19dcf9261d4a1f423eacf

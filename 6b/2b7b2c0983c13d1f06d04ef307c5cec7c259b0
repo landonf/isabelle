@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Abstract_Rat.thy
+copyrev: 8d5cbb699e95017672e904bf65f1fc09d2f92977

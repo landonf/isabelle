@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_config.ML
+copyrev: c1c87c6d324d0f941e9a2872a8b8f176b3d7c408

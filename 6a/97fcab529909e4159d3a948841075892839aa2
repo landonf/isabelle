@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/HFset.thy
+copyrev: d661d20da35f8d5528dc06242a8c89c08a43b84c

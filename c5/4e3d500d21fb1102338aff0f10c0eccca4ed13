@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Compat.thy
+copyrev: 647e7bf8ee806c02c51dd58aff253cbe8679ec58

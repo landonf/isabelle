@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Fundamental_Theorem_Algebra.thy
+copyrev: 44e66c18e0cd722f1e4bb872be5cac5a34667b62

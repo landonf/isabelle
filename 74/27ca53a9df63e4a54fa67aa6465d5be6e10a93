@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/metis_clauses.ML
+copyrev: 6abe0f28e33486360dcf05123ba93ef95b5611c5

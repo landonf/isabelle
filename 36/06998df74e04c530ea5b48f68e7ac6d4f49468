@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype_Benchmark/Verilog.thy
+copyrev: 333814f2bd68f6bac859e39d6e5361445594007c

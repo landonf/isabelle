@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Misc_Datatype.thy
+copyrev: 6249d36dd757fd97bbcc020f1c7e0d33fbe7dc77

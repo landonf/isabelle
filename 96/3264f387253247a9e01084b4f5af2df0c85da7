@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/TreeFsetI.thy
+copyrev: 9a4c01278e40844ec458eb05572fb9d800135148

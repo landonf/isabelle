@@ -1,0 +1,2 @@
+copy: src/HOL/Extraction/Pigeonhole.thy
+copyrev: 693854f021201e01f66290b6fb9761166f9793e0

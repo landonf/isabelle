@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Borel_Space.thy
+copyrev: 034436c19f5b5a321d27e2f1c7f4fe3b64a246f0

@@ -1,0 +1,2 @@
+copy: src/HOL/Nunchaku/Tools/nunchaku_tool.ML
+copyrev: e40979e87c41d1170ee076f391b448662c61655f

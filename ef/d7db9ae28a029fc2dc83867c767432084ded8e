@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP/atp_translate.ML
+copyrev: bff1d7e017844fad7cefc6489602bc3af43dacec

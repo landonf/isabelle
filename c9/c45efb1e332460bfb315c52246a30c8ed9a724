@@ -1,0 +1,2 @@
+copy: src/HOL/Nonstandard_Analysis/transfer.ML
+copyrev: e815c90930ccd67cc36eb9c8d5dc2c71e86e822c

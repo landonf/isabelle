@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Formal_Power_Series.thy
+copyrev: 819c12997133d661509d4f97ec912c6910a677f6

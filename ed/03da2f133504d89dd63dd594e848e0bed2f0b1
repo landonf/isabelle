@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Extended_Real_Limits.thy
+copyrev: 58caadb31d6e7e691dc3236fb16db0ebe7bd72dd

@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/InductTermi.thy
+copyrev: 7cc053908b9ee9abea50d5fbdec7c0d1651e8930

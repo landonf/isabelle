@@ -1,0 +1,2 @@
+copy: src/HOL/Quotient_Examples/LarryDatatype.thy
+copyrev: 9991ece7f858972ae1419c4195eb31d3d4603b4c

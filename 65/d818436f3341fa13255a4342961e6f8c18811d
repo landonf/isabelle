@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/MaSh_Import.thy
+copyrev: dac1ff83d4a78997a767273eb2ff11ca329e53ef

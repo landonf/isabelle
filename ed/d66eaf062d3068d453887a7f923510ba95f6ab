@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Datatype/datatype_aux.ML
+copyrev: 65577032670d20c3eaf9234ee4c1960d667d1c43

@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/Infinite_Derivation_Trees/Tree.thy
+copyrev: 1d233a7c6806cdef46b47032f30ef48cb01c9d82

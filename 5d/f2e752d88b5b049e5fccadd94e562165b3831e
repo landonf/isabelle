@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Stream_Processor.thy
+copyrev: 84b2d2beb33e826b2ee3e36fc22f7b589079e255

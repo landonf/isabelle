@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Brouwer_Fixpoint.thy
+copyrev: 206bcc2cc9d486e5b685d1ed0ceafe22814a94c6

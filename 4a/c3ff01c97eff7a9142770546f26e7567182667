@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Seq.thy
+copyrev: 6fc47278fb12d552ffca505d804d1f4248f44869

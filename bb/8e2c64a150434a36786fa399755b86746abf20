@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Sigma_Algebra.thy
+copyrev: edf8d93ccdae60037d7b8c9d12cea591787841ba

@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/ComputeHOL.thy
+copyrev: 2390e7f0fdc4b6f6c983bb487bf9eb324e6046de

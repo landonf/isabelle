@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Binary_Product_Measure.thy
+copyrev: 01f49371493b4259a0c43f47d52154c2875b5f32

@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/BNF.thy
+copyrev: 53ab5d568ec6733023c218cee4f7751a9b33e0be

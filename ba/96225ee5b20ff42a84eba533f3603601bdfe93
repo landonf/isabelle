@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_compress.ML
+copyrev: c7bc47605a0797b649cba75a9bdbfa51dcf50315

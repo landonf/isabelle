@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Nitpick/etc/settings
+copyrev: f87701383c78debc9d227368976ec1d4311d71e3

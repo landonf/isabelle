@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Bit.thy
+copyrev: b9829dfe98e31ed6100de809680a1af15638ffd8

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/try_methods.ML
+copyrev: bd861495f6502c75a0584d9a9883cc42b998ac05

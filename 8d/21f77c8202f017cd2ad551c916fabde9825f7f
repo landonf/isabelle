@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/Priority_Queue.thy
+copyrev: 6a31c81b7ea148d6ba51002a930c80cd295eefb4

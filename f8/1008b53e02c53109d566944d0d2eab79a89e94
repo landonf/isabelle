@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/Matrix.thy
+copyrev: 388e2ccde1da2c7b411ff037a21afdc50a56584b

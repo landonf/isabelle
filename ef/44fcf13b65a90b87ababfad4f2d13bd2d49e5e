@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Sigma_Algebra.thy
+copyrev: bb8e2c64a150434a36786fa399755b86746abf20

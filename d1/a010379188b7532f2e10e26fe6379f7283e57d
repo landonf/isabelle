@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Countable_Type.thy
+copyrev: 700458feea573da75c4f7eaef98f5db7a0fee188

@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Continuous_Extension.thy
+copyrev: 5341fd5c78878cc5c15939d0f74e71261731204b

@@ -1,0 +1,2 @@
+copy: src/Pure/Isar/local_syntax.ML
+copyrev: 26e4e2ffa3761b2610c40bc29020e6d65a4b1256

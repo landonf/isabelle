@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Polynomial.thy
+copyrev: 677bc68520b999386bc78b73802b96f1adb985a4

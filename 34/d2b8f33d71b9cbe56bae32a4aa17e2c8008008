@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Caratheodory.thy
+copyrev: c0d06fb69ba856322d55008518cfb642164cf455

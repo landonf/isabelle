@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_fact_filter.ML
+copyrev: d645e4fb2de1a1edbca6812482b495cf4dccf95e

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smtlib_interface.ML
+copyrev: f8e00fcbee53b09324718b447f49d5de2666adfd

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/enriched_type.ML
+copyrev: f2b15a4c0d926377eb15329183365c7d0c38aee3

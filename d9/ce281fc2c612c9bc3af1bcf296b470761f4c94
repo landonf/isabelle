@@ -1,0 +1,2 @@
+copy: src/Pure/Syntax/syn_trans.ML
+copyrev: d3753037cb28eb1b382ab2fe4df991b7b99ab486

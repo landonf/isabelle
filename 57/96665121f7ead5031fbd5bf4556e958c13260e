@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Ctr_Sugar.thy
+copyrev: 83a0f23adb72ef7ae2be2646a64d7da3ca0ecff8

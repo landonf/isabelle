@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Lambda_Term.thy
+copyrev: c102bb7d962531b151ee426be4382254a9a59862

@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/BNF_Wrap.thy
+copyrev: 215ec2af551795a7c88b8f7eac0295f2699e92ec

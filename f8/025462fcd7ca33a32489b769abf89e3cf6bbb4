@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Quicksort.thy
+copyrev: 760381407bff511b8a3a665fa2d459f0b32e4373

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/SMT/smt_utils.ML
+copyrev: 7b4ca1e5501c7d1c2a452bef4981cd34eac35ca3

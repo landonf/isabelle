@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/LP.thy
+copyrev: e724aeec74e5ae39807eca4164d6045feea90e28

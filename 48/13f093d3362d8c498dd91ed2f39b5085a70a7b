@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/BNF/Tools/bnf_fp_util.ML
+copyrev: 505eb1e3403081073631675d70a6d1072c5a2c2f

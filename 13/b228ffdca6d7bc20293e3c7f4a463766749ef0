@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/Type.thy
+copyrev: e80b1b60024a2451da09f5cc26abd805481c0820

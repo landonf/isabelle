@@ -1,0 +1,2 @@
+copy: src/HOL/Smallcheck.thy
+copyrev: d2d974b77f92bf2d00793d72e8971eb013f9c142

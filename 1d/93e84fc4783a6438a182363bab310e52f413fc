@@ -1,0 +1,2 @@
+copy: src/HOL/SMT2.thy
+copyrev: 7fc4e7ed0af7527e8fd5d97d2ae4db8aae953796

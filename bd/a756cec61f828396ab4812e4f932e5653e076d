@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Tools/word_lib.ML
+copyrev: 25a7f7f7324fde6fbacf47b912c1877fdfe364e5

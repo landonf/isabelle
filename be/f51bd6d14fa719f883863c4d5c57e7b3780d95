@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Abstraction.thy
+copyrev: f6f829b5f817a3833aca0cc666224b162a8843e0

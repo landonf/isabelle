@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Borel.thy
+copyrev: 220d56669c7077e55e91b796cf1c55c35f45faeb

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/z3_new_replay_literals.ML
+copyrev: 6d8c35aed5482059f9311bafda13cf8c93fc1d35

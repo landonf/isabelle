@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Cauchy_Integral_Thm.thy
+copyrev: c9ec0e4327afd7c41a8c5fc03448f293cd158093

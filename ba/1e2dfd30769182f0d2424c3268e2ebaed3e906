@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Lebesgue_Integral_Substitution.thy
+copyrev: 575adcaef26ec7743ab672b48bcc672552feb4a2

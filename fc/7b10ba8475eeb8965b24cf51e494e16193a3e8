@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Nitpick/nitpick_isar.ML
+copyrev: c512a6cdff714cf553ecffd6b510cf0fb008e104

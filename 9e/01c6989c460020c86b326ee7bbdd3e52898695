@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Bounded_Continuous_Function.thy
+copyrev: 9e63b0673aa723c7df1db6335cfb88a79300e25c

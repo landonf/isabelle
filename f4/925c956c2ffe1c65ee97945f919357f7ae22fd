@@ -1,0 +1,2 @@
+copy: src/Tools/VSCode/extension/language-configuration.json
+copyrev: c7c2adda5bfeff1c0382b561d7afac92c0ae9b22

@@ -1,0 +1,2 @@
+copy: src/HOL/Metis_Examples/set.thy
+copyrev: dc6b45e3d25a78b79ddb15ae2c94bd4b1d37eede

@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/ListBeta.thy
+copyrev: 04dca66132411d3a7af20c67e2f39c558b7c9e49

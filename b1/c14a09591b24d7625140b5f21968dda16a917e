@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Abs_Int_Den/Abs_State.thy
+copyrev: 45f4cd5331961cabab53e6070585937fef946038

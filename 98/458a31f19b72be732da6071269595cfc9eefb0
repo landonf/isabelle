@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/z3_proof_parser.ML
+copyrev: 574f44938800d8db10209b5863c43f9dd57e9512

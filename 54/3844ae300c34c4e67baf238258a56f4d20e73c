@@ -1,0 +1,2 @@
+copy: src/Pure/Isar/skip_proof.ML
+copyrev: 32969392b5818725302fc28535d998fd0e375837

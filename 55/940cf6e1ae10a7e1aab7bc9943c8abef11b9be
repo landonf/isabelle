@@ -1,0 +1,2 @@
+copy: src/HOL/Isar_Examples/Higher_Order_Logic.thy
+copyrev: 2166149d029e63dba2b8cfd5d53f7ccacabca9aa

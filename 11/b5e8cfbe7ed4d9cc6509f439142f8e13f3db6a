@@ -1,0 +1,2 @@
+copy: src/HOL/Data_Structures/Set_Interfaces.thy
+copyrev: 8339ed5db3f357e3ef9b47aaa83ca3dac48dcfe3

@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/TreeFI.thy
+copyrev: cc11ae831b768ec6f65d80b91205c4f44d275cc4

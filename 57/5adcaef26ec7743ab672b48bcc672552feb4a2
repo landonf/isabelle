@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Lebesgue_Integral_Substitution.thy
+copyrev: 7f2ac0b00182acb649456dcec6a9987d82923dfb

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Countable_Set.thy
+copyrev: 47d56f786583e1f8fddf3bb2cc93e7a219268897

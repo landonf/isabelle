@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/Compute_Oracle/am_ghc.ML
+copyrev: 501f282540280f73c0910f5ca4b978108bb2ca21

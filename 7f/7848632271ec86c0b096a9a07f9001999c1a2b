@@ -1,0 +1,2 @@
+copy: src/Pure/Admin/ci_api.scala
+copyrev: 80988204379513c03532a2fb1d5bedf2d3fc6f41

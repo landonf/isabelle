@@ -1,0 +1,2 @@
+copy: src/Pure/ProofGeneral/proof_general_emacs.ML
+copyrev: f8af6cb40ef49aa3b6de247016abc796351b5c46

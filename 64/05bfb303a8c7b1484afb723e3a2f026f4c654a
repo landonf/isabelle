@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP/async_manager.ML
+copyrev: daaa1ff8fca5c61951b439ada5356d6626c6ff8e

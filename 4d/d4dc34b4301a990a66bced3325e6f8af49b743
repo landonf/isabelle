@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/etc/settings
+copyrev: 8cab61c4f69ce3d96f3e1bb2caea46a129a308f4

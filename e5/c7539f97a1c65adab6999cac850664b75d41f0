@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Abs_Int0_parity.thy
+copyrev: a43e657382ccfc416bf0599ea2ab7a7f93c66286

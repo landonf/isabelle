@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Collecting.thy
+copyrev: d5a3b35fe5fe78be6267b9cda3b2a1f32ba599d0

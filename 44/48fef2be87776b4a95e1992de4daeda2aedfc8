@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/AbsInt2.thy
+copyrev: 38e58be042afe8d768590c9f707c015710d642ef

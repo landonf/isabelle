@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/smt_translate.ML
+copyrev: daed1b924b66ae9bc525ae38b3c81549e5dccabd

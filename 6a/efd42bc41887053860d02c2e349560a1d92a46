@@ -1,0 +1,2 @@
+copy: src/HOL/Quickcheck_Benchmark/Needham_Schroeder_Base.thy
+copyrev: ff7a47535e1270b94f5e89fecfa0e6775c0efdb3

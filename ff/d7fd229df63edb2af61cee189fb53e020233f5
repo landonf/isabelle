@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP/atp_redirect.ML
+copyrev: 16a2df79ad93c8936dc59657870598132e9a0d19

@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/sledgehammer_tactics.ML
+copyrev: 83dfe28161baaebf277ff9f2d335456534bd7ca6

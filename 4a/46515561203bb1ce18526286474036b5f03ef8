@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Countable_Set.thy
+copyrev: 0bcf1b95f93d2494546d17284e6f49f9c856d5e0

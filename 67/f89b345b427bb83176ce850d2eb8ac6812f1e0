@@ -1,0 +1,2 @@
+copy: src/HOL/Wellorder_Relation_FP.thy
+copyrev: 1c45877121e5fe13cd53b9472e6f06cd7eb73969

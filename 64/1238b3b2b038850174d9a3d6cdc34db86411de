@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smtlib2_isar.ML
+copyrev: 445c91c979477439938fc15022c12002499f72d1

@@ -1,0 +1,2 @@
+copy: src/HOL/Number_Theory/Primes.thy
+copyrev: 8c2002f7792aa18ba2462abc23313f8ad9a64403

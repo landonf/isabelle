@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Path_Connected.thy
+copyrev: bf6a084cacca8f3f24acfa7718e48d57731e8f67

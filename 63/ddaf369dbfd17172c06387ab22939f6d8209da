@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Lebesgue.thy
+copyrev: 79830b680aac495360ae0e66b1596d17e701e69d

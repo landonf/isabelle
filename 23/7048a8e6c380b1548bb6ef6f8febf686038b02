@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/bnf_wrap.ML
+copyrev: b59d8fa3b082002ddd29480c6d5d6a5e695aaa89

@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype_Benchmark/SML.thy
+copyrev: d504cd8272a2abe1ad4f13c13cb2617c31216431

@@ -1,0 +1,2 @@
+copy: src/Doc/IsarImplementation/Syntax.thy
+copyrev: 5162eb650b28171d291a5e68ee06b7f9a3393e0c

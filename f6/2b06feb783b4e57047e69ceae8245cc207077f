@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_failure.ML
+copyrev: 741aaccdc4a0c6838ac287f40a9b59b1168e3a6b

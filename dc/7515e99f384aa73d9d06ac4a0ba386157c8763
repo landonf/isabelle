@@ -1,0 +1,2 @@
+copy: src/Doc/IsarRef/ML_Tactic.thy
+copyrev: 40738c45bf4c9cfc2c91705a8e7d65bb37cbd7f7

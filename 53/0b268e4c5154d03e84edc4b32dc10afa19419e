@@ -1,0 +1,2 @@
+copy: src/HOL/ex/SOS_Cert.thy
+copyrev: c4eb4e99192c88e5b83700bd61e11ed075336379

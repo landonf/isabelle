@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/ListApplication.thy
+copyrev: 74088b4dfdd3d085a3a9eac2cf3602c72c31f4de

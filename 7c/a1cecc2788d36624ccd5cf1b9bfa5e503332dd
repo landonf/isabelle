@@ -1,0 +1,2 @@
+copy: src/HOL/Metis_Examples/Clausify.thy
+copyrev: 11635b88ed56016b86e05d911662c6e73918fb38

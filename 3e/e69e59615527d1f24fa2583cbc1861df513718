@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_fact_preprocessor.ML
+copyrev: 513bb904cf1d7d11f2443e0cea0abfbfb9e3e418

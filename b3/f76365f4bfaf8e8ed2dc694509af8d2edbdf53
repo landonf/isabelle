@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_gfp.ML
+copyrev: e87c5ac919f74808590fa428199b15e170550674

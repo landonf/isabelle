@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Wellorder_Embedding_Base.thy
+copyrev: ffdece7db48bb177fd85c4c4a56482fa5c327162

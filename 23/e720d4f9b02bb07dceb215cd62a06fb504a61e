@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/Eta.thy
+copyrev: 00f093001376a9e524c5dbe4946c61f1ddea3a85

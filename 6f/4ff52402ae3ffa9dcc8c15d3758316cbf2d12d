@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Quickcheck_Types.thy
+copyrev: b550d64ad93780b967f276c028efd24ae9bc1421

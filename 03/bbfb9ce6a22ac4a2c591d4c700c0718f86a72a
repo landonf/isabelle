@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_datatypes.ML
+copyrev: 7a7628a5ad6d4d50b1ea02c4520916e28e81a29e

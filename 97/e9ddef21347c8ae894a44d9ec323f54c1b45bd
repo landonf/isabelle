@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/mash_import.ML
+copyrev: 5aa67f84684dd78f5c1e31b374c11a6d3af3c618

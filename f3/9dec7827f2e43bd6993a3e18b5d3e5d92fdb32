@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/scripts/remote_atp
+copyrev: f506e2f0e27ac380e174ab6fc384c34eb33ecc35

@@ -1,0 +1,2 @@
+copy: src/HOL/Nunchaku/Tools/nunchaku_translate.ML
+copyrev: ba0f85cb75d593ca3077e3f1bb08f426122cc15b

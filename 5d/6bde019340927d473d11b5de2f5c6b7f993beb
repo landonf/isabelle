@@ -1,0 +1,2 @@
+copy: src/HOL/library.ML
+copyrev: 015d0b2be327da40c32f270c56fcee078895c4f9

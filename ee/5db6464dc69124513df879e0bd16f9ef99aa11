@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Normalized_Fraction.thy
+copyrev: 56b9b3df0476220ce31532dc8824b9c1f189be77

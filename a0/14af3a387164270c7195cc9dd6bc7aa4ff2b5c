@@ -1,0 +1,2 @@
+copy: src/HOL/Ordinals_and_Cardinals/Wellorder_Embedding.thy
+copyrev: 64663451c3d926bdf6043635cb279bbcec787b04

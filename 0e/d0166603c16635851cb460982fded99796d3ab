@@ -1,0 +1,2 @@
+copy: src/HOL/FuncSet.thy
+copyrev: 430fc820fefdbb42c14960a6d1043322e7c023e3

@@ -1,0 +1,2 @@
+copy: src/HOL/Quotient_Examples/List_Quotient_Set.thy
+copyrev: aa643c097450d5ffe3f619515da2298f85e8a5d3

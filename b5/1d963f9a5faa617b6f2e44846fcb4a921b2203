@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Borel_Space.thy
+copyrev: 6edb0dfee692d3166d2140b0fc6a2a12b013c9ab

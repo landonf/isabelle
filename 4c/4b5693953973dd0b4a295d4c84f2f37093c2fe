@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Process.thy
+copyrev: 30c920edec9f791a5d5d59717ebf48b7aeef530a

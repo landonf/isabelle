@@ -1,0 +1,2 @@
+copy: src/HOL/SMT_Examples/Boogie_Max.certs2
+copyrev: e6532b319f4d0c2d591015be3e607f5e57c0d4f5

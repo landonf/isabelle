@@ -1,0 +1,2 @@
+copy: doc-src/Codegen/Thy/Inductive_Predicate.thy
+copyrev: a02c6315ec77beac3b23bcf208ec29080a994dbe

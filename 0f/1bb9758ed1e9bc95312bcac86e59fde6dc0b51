@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/Misc_Codata.thy
+copyrev: fe8a42fb708025d54ac29578894d0deeacd031ee

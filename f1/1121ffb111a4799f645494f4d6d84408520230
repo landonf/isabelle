@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/BNF_FP_Basic.thy
+copyrev: 6bed2de5c5082d98743fd9117e9958e79ed2d7ad

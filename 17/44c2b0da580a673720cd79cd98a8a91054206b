@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/coinduction.ML
+copyrev: 68356adeabb908721f13ef16f41443153d4ad64b

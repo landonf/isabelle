@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_fol_clause.ML
+copyrev: 5185fd1e222d6bcd3f003039a7f627e830e596d3

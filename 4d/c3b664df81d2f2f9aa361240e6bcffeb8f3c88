@@ -1,0 +1,2 @@
+copy: src/Tools/jEdit/patches/jedit-4.5.2/chunks
+copyrev: 4ef61dd2f9d002426a4b3064c3cc4d4c83b97b73

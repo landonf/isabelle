@@ -1,0 +1,2 @@
+copy: src/HOL/Matrix/Compute_Oracle/Compute_Oracle.thy
+copyrev: cefd8cf1a0a9a45b09cf681866bbf95ae32ce6f8

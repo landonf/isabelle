@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/BNF/Tools/bnf_lfp_tactics.ML
+copyrev: d84552cbaa2c2dc2112f648c02b5a46016427f00

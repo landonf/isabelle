@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Quickcheck_Narrowing_Examples.thy
+copyrev: db723a7d18fca801e52b9d27f8988e7c60ff9507

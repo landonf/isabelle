@@ -1,0 +1,2 @@
+copy: src/Pure/Syntax/syn_ext.ML
+copyrev: 170a981c83902405485bf83db6e1328c01310860

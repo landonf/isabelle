@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/atp_problem.ML
+copyrev: cd26c9d4f732ff83a0a55a24432f217e7ff2eec2

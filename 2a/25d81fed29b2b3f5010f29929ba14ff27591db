@@ -1,0 +1,2 @@
+copy: src/Tools/jEdit/patches/jedit/numeric_keypad
+copyrev: ee3ae75522f39fff34b89f1357fe4f1f36cd1c55

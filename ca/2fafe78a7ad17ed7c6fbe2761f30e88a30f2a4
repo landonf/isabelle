@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Derivation_Trees/DTree.thy
+copyrev: e0a5886b51fbcb7279be4ab01bfa40ef12c1e758

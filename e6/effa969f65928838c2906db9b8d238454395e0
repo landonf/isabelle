@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/Lambda_Term.thy
+copyrev: 999060d625727676e5b804f6d9f572b949777e6a

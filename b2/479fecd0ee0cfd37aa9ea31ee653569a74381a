@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/value.ML
+copyrev: e9cbc160dca6c83372775f0b4e0e88635bf0952f

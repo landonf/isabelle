@@ -1,0 +1,2 @@
+copy: src/HOL/Spec_Check/generator.ML
+copyrev: 4abd70eb60ca5255472ba65010cd581478aa5e22

@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Lebesgue_Measure.thy
+copyrev: 66e66f7d8b12c8e33d57f059fb1fafded4cb2ac6

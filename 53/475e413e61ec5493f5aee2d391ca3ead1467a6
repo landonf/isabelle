@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/SimCorrectness.thy
+copyrev: b0479ecbbafda59daed8d2f885e7e5904a96cb7a

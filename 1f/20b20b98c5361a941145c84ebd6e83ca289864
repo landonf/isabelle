@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Derivation_Trees/Parallel.thy
+copyrev: 81edbe9bc9a103080fd596aab1647a922484a5f3

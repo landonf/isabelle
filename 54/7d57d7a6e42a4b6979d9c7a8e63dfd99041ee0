@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_reconstructor.ML
+copyrev: 3cd428774e6257bacf797ce2f250dc43c3aff0ce

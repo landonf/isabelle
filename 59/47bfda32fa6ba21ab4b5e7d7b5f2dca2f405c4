@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Measure_Space.thy
+copyrev: 6a4153c456704d840a08ee36c9341faf1c8ecd91

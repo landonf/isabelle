@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Datatype/datatype_codegen.ML
+copyrev: 060e9c0b3339167da5dcda3b1ae7c66da59af056

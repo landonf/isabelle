@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Product_plus.thy
+copyrev: 60a0bd9ae1f9533c9848354b82359769a90451bf

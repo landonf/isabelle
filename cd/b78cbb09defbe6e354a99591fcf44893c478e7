@@ -1,0 +1,2 @@
+copy: src/HOL/Import/import.ML
+copyrev: 2f25e02405f6db10a09bdaaaa045ecf2a5978353

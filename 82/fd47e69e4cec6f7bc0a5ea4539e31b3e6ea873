@@ -1,0 +1,2 @@
+copy: src/HOL/ex/Quickcheck_Lattice_Examples.thy
+copyrev: e9e88043255dbadf1b16dac23b6735f11e13f88a

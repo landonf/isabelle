@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Examples/Misc_Codatatype.thy
+copyrev: d5b3e3d27ee8a76d14e91f77dbe8f2f535d13621

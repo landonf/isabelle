@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Fset.thy
+copyrev: f3bd3299020f39853219d8502976aca14f30694b

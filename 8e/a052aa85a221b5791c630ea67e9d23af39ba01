@@ -1,0 +1,2 @@
+copy: src/HOL/ex/TPTP_Export.thy
+copyrev: 0774ddef691739a3c7f659775daba2775865343d

@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_comp_tactics.ML
+copyrev: 4924ddb97738435d459a3d77ff5af5540616cffa

@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Finite_Product_Measure.thy
+copyrev: e0d77cec709e3dfa74fd3ff7bd417235268a8050

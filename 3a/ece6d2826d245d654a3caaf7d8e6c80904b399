@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/z3_new_isar.ML
+copyrev: 88bb51c748b74205a4fb16ac99a23e7128899076

@@ -1,0 +1,2 @@
+copy: src/HOL/Extraction/Greatest_Common_Divisor.thy
+copyrev: 3e1bcaf6ee7829cfd7deb0600fea90eb10983107

@@ -1,0 +1,2 @@
+copy: src/Pure/Tools/thm_deps.ML
+copyrev: 1fddbb7b283581f0fd241fbfb4c5cf098c92eb4c

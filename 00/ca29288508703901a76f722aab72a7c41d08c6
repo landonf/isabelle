@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/type_mapper.ML
+copyrev: 4282c12b8d42ffbece6088d1b7331ab603bca362

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_proof.ML
+copyrev: 48146ed8091c5bd4ea5440a904dc1136bb213c77

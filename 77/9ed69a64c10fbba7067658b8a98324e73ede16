@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/atp_minimal.ML
+copyrev: 74c9c93af1c32eaca8f32953e68a9b54d5b72f34

@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Convex_Euclidean_Space.thy
+copyrev: b52b6d5b2f8b13dee0e6ff10842db755edb3f44f

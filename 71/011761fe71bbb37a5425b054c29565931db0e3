@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/metis_tactics.ML
+copyrev: 1d4fa36b9db2677e1fdb08356e834a36696a80f9

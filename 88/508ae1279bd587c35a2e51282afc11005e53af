@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Constructions_on_Wellorders.thy
+copyrev: a2cf446f2d2fde66be484eff4e0b5bbe49349178

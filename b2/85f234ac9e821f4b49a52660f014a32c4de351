@@ -1,0 +1,2 @@
+copy: doc-src/ProgProve/Thys/Bool_nat_list.thy
+copyrev: 1e61638974523d54a30b0bbcaaf7ed624b02b28f

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Brackin.thy
+copyrev: d75eb4c53525b8e8d63c7fe8137a1032c20f9b73

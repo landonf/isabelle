@@ -1,0 +1,2 @@
+copy: src/HOL/Codegenerator_Test/Generate_Pretty.thy
+copyrev: 49bbbd2e399e819387d826af1adbe2114efe2345

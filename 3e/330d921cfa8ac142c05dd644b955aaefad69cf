@@ -1,0 +1,2 @@
+copy: src/HOL/Wellorder_Embedding_FP.thy
+copyrev: ca449381cca8e062dcfaab8a2958e51ee51fe4e6

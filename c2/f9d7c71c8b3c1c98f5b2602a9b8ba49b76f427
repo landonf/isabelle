@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Bit_Bit.thy
+copyrev: 07e178ee70e96b807294d39a638489c6dfb668d8

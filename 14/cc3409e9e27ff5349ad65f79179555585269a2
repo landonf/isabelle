@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smt2_util.ML
+copyrev: e6ff9083e539ff37e1f67d55737872b363829f0f

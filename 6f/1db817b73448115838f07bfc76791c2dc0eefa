@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_print.ML
+copyrev: 91311ca873c457bc642367e9e6dd16e11aa020d4

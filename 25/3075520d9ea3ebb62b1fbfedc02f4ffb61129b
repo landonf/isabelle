@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/smt_datatypes.ML
+copyrev: 864f2371e5325953b0192d0ca004b401ce6dad9a

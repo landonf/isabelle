@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Continuity.thy
+copyrev: ffb1922eb8d10db4f85853434113a381d2df5a4a

@@ -1,0 +1,2 @@
+copy: src/HOL/Quotient_Examples/FSet.thy
+copyrev: 00285a38c196662ae29a6b2bdca7266a342df4e6

@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/BNF_Decl.thy
+copyrev: 7630c74603f64c601aebdcf685a78bfa89ab3889

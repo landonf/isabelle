@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/Stream.thy
+copyrev: cd81b77a2b2be2bc68d2d95bf257231820fa05f4

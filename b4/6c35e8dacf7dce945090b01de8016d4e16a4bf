@@ -1,0 +1,2 @@
+copy: src/HOL/Library/bnf_axiomatization.ML
+copyrev: cb5377c02dbba6cc7069178f396a41409bf9de2c

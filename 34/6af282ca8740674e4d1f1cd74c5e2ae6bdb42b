@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Stirling.thy
+copyrev: b08e2a8c9df1343f45667414636491c6f68a4893

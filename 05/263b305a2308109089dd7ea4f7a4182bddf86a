@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Determinants.thy
+copyrev: ced9376bed93a25588d5b52585cfbee0127db965

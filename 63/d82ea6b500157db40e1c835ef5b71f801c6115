@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/bnf_ctr_sugar.ML
+copyrev: 7a635f75bcb8222eed40cb8f86e18bb273d4c479

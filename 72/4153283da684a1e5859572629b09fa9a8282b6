@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_filter_mash.ML
+copyrev: 6d9adaeec4ce0588f41ab45fb259d756ce6b1ebf

@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Cardinal_Order_Relation_Base.thy
+copyrev: c59f1b88b851c1d0dc2626cb07ea0652992e4ad3

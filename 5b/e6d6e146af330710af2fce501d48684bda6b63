@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/ATP_Manager/SystemOnTPTP
+copyrev: abdc2bc8e3de5db28e00c402c449d916a422edb3

@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Type_Length.thy
+copyrev: c4d289d4036803fc6efeb40d49626e6f9989e829

@@ -1,0 +1,2 @@
+copy: src/HOL/Analysis/Simplices.thy
+copyrev: 486ff30b49052742cc76b07daf3f1bf7d59b4d20

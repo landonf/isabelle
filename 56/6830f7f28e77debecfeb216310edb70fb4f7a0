@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/LiveIOA.thy
+copyrev: d3fc31bf6560ee1d5dbaf2dbc421b6f689770818

@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/measurable.ML
+copyrev: 01e5b8e3a7062f9452dcf3050ef091e5b02bcc12

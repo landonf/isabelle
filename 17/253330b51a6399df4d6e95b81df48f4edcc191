@@ -1,0 +1,2 @@
+copy: doc-src/IsarImplementation/Thy/Syntax.thy
+copyrev: 03ae35b9d49a1c8c57a2dbf95f3ff439be9555cc

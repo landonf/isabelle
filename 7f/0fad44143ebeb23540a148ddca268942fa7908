@@ -1,0 +1,2 @@
+copy: src/HOL/SetInterval.thy
+copyrev: fcb5bfb6f2261fbbbab22c1e024fe6164ebedff3

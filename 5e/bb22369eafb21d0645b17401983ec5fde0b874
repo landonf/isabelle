@@ -1,0 +1,2 @@
+copy: src/HOL/Lambda/ParRed.thy
+copyrev: a2afaa14b17d285dc4e3e8ec8d216144b23fa10a

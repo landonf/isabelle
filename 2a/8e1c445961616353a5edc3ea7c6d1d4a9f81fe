@@ -1,0 +1,2 @@
+copy: src/HOL/ex/tptp_export.ML
+copyrev: b00489f8b97e16017ee2c8d6c92405c6e7c34118

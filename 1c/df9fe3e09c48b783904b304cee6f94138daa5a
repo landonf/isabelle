@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_try0.ML
+copyrev: 1f1f37442ce3b5e070cacadca3f6e254fb16d1d7

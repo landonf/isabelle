@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/meson_clausify.ML
+copyrev: f209f87f7b7fec60b80265bc6331bc196a841d54

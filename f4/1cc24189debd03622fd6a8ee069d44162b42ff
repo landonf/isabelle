@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Word.thy
+copyrev: 96a4ce83cb788f2cd060b440d627e791b6b756c8

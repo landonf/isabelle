@@ -1,0 +1,2 @@
+copy: src/Pure/ProofGeneral/proof_general.ML
+copyrev: 842cab5d2af9ec55dcb47d10409f1cc38b8aab20

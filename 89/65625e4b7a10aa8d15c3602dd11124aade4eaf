@@ -1,0 +1,2 @@
+copy: src/Pure/Concurrent/simple_thread.ML
+copyrev: 34297c223ad969dde8f11e5f861ad26264a0b328

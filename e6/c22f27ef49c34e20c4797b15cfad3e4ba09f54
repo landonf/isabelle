@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Compositionality.thy
+copyrev: d75df566ceae005abd75014a3d291c27c2970402

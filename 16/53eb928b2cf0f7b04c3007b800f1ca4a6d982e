@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Tools/bnf_gfp_tactics.ML
+copyrev: b63eef1f1199933d768f90109dedb59cd0eab48f

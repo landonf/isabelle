@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/type_lifting.ML
+copyrev: 3c92d5618df12c788dcc1f59673c430c507f748b

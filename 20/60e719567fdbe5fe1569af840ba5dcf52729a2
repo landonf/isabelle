@@ -1,0 +1,2 @@
+copy: src/HOL/BNF/Tools/bnf_tactics.ML
+copyrev: 209889419b2a560d7534e1ad32b799f5483dc242

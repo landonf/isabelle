@@ -1,0 +1,2 @@
+copy: src/HOL/Codegenerator_Test/Code_Test.thy
+copyrev: d22c256dabc53773208804c52e6d31a6c4b34c11

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_isar_Reconstruct.ML
+copyrev: 6a9f42f4177cf435c228f83573731e7f016a7357

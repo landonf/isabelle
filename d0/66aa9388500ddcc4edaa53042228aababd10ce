@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Extended_Reals.thy
+copyrev: 6a9505ea54a29d21756227da81346d58652457d7

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/async_manager.ML
+copyrev: b27300666bcb4dd5a8dd9f4955eae3b4e0196e0b

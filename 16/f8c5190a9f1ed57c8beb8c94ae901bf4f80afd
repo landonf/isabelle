@@ -1,0 +1,2 @@
+copy: src/HOL/Library/AList.thy
+copyrev: 4be5854654ca17e14d3ee8f55a04e67c614770f6

@@ -1,0 +1,2 @@
+copy: src/Pure/System/swing_thread.scala
+copyrev: 2e27d76ccbe828eef72a2f891736395158d5adb3

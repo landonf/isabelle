@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/CompoTraces.thy
+copyrev: ff4129ca0339d10187b33271bbbad93090013fe6

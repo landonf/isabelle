@@ -1,0 +1,2 @@
+copy: src/HOL/Old_Datatype.thy
+copyrev: fd9d324993e3a0e11e40d9cfc1165aaefee6194c

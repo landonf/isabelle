@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_Examples/Verilog.thy
+copyrev: 3606998df74e04c530ea5b48f68e7ac6d4f49468

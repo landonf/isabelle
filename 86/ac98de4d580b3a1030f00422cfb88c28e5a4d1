@@ -1,0 +1,2 @@
+copy: src/HOL/ex/ATP_Export.thy
+copyrev: 49b807b659dfa15ed76f0a08c951d450d143ff71

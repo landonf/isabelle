@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Nat_Infinity.thy
+copyrev: 8040ee10b3f0643580deef9063d96369d9c064f7

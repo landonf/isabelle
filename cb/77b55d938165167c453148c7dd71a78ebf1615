@@ -1,0 +1,2 @@
+copy: src/HOL/Induct/Tree.thy
+copyrev: 6671f3a2278891a7bc9f20c2ffbeef99d4d36e4a

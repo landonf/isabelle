@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/float_arith.ML
+copyrev: e352a7c3cbbe27c82318f40aaee22d89e4676b3e

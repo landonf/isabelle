@@ -1,0 +1,2 @@
+copy: src/Pure/Isar/rule_insts.ML
+copyrev: a0913efeeaa0c6b432ebc587c7daec132a007240

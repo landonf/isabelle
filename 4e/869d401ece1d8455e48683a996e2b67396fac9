@@ -1,0 +1,2 @@
+copy: src/HOL/Datatype_Examples/LDL.thy
+copyrev: dc6909ee01415e6b4013c718e40fc166bed8a181

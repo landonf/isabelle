@@ -1,0 +1,2 @@
+copy: src/HOL/Probability/Bochner_Integration.thy
+copyrev: 63c5da0f8914dbf18db223361233995cddb315e1

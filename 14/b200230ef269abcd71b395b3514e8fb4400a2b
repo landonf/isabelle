@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/exhaustive_generators.ML
+copyrev: 7357893b5a73a2542a1fdc1e58d5cad4f3a5cf6b

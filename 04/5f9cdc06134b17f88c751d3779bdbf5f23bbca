@@ -1,0 +1,2 @@
+copy: src/HOL/Extraction/Euclid.thy
+copyrev: f00d66a5e386d60b999857648a5d327a7e3e5b96

@@ -1,0 +1,2 @@
+copy: src/HOL/Quickcheck_Benchmark/Needham_Schroeder_Guided_Attacker_Example.thy
+copyrev: 70599d679303f334b58ff84ea9b65d4ef653a31d

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/smallvalue_generators.ML
+copyrev: b07a348785740f3eefd7a00e4c58f16455db06c0

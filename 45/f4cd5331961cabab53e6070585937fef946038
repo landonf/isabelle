@@ -1,0 +1,2 @@
+copy: src/HOL/IMP/Astate.thy
+copyrev: b3258d05a1e900a601b90a0747b6692ae3f75717

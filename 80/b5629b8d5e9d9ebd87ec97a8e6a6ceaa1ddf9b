@@ -1,0 +1,2 @@
+copy: src/HOL/Recdef.thy
+copyrev: 480beabb140b72d5e89ae2f9a5d1ba8b299b7a57

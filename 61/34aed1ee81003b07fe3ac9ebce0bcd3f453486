@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT/smt_setup_solvers.ML
+copyrev: 9500018376f91494d056c4162eda4391fb41f2a2

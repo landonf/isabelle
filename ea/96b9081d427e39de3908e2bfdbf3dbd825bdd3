@@ -1,0 +1,2 @@
+copy: src/HOL/NSA/NSComplex.thy
+copyrev: b411eeaf60d89940da26c62eb3da9236f849d58d

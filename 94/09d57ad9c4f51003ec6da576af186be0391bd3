@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/CompoScheds.thy
+copyrev: c183072cf32d49a4818db2519aae888bab838469

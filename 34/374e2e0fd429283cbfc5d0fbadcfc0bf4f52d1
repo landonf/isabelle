@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Generalised_Binomial_Theorem.thy
+copyrev: f36805fa10f97733b6fa8a78633a2e528a656644

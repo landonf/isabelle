@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Pred.thy
+copyrev: 7e4144e04e437e36385dfd37a512a58c6f1f47c7

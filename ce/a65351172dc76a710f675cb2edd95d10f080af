@@ -1,0 +1,2 @@
+copy: src/HOL/BNF_LFP.thy
+copyrev: bc8d3adebe5394e233e19de8a495e281484f909b

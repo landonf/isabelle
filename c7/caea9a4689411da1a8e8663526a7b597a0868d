@@ -1,0 +1,2 @@
+copy: src/HOL/Cardinals/Cardinal_Order_Relation_LFP.thy
+copyrev: 4207a680c9595129f33a9946748929f7eab8d55a

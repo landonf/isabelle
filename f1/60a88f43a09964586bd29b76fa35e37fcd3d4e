@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/metis_translate.ML
+copyrev: 01937d031adda15cdda6e0a8874532a45608c629

@@ -1,0 +1,2 @@
+copy: src/Pure/Thy/thy_output.ML
+copyrev: 1174ac3c6559bc65dc437b208f773bbf370b0359

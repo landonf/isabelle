@@ -1,0 +1,2 @@
+copy: src/HOL/Ordinals_and_Cardinals/Cardinal_Arithmetic.thy
+copyrev: b7cb5c573cc70f235619c488b80ef6181ae37089

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_annotate.ML
+copyrev: 57e6db502080c64529fb4186ba02ec21c2505d07

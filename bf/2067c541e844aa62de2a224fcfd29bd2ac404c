@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/sledgehammer_minimize.ML
+copyrev: d23822002f47709a0405f17e84f0204bfb8b2d2f

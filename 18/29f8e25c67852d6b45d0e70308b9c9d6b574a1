@@ -1,0 +1,2 @@
+copy: src/HOL/Multivariate_Analysis/Henstock_Kurzweil_Integration.thy
+copyrev: 2581906f721ce66e9e574b1a58d9deed5991f7af

@@ -1,0 +1,2 @@
+copy: src/HOL/Conditional_Complete_Lattices.thy
+copyrev: 4228f41020e9397d09b8e353d35a2384d07c024e

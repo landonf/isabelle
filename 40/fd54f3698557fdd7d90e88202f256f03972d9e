@@ -1,0 +1,2 @@
+copy: src/Pure/Tools/build_log.scala
+copyrev: 5e123db2a65f5569d1adf8fac07b0415bf50b6d4

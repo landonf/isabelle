@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Sledgehammer/async_manager.ML
+copyrev: 0fd200a5014853f7509eea4f7aabfa42e1d0cf57

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/sat_funcs.ML
+copyrev: 6f221e5f18346a73128a9bacc7623de664f44025

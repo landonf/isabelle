@@ -1,0 +1,2 @@
+copy: src/HOL/Mirabelle/Tools/sledgehammer_tactic.ML
+copyrev: 7822f9a2aee2d9f70faab4bae1175a2b15c7afb6

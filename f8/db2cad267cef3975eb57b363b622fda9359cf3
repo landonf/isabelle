@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Multiset_Permutations.thy
+copyrev: f4f337417e4b06c65ff19bea24609f6993ccde6d

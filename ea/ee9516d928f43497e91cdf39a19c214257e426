@@ -1,0 +1,2 @@
+copy: src/HOL/Word/Bit_Operations.thy
+copyrev: 9b84195f37e66cb237e5a3550e6317caa28b8a7f

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/SMT2/smt2_translate.ML
+copyrev: 2f0890b50c8643ef6cec47660ae27c2453298ab4

@@ -1,0 +1,2 @@
+copy: src/HOL/TPTP/atp_export.ML
+copyrev: 6434596037f860c6b8e3421eb3e114dd965b3213

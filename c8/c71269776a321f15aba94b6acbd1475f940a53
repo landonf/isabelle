@@ -1,0 +1,2 @@
+copy: src/HOL/Quickcheck.thy
+copyrev: 6c40bb983222c29158d864595e64ee6f6d7b2ecb

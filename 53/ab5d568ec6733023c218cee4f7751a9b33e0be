@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Codatatype.thy
+copyrev: dd80f1387a65af8254cf7e95cf1525ab34216ca7

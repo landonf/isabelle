@@ -1,0 +1,2 @@
+copy: src/HOL/HOLCF/IOA/meta_theory/Traces.thy
+copyrev: cfb0156baa763ef902e18a94d1639f35aa2f6ef7

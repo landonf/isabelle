@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/smt_normalize.ML
+copyrev: 81515ebcac8beafae60d13ae42c295dcaec6b03e

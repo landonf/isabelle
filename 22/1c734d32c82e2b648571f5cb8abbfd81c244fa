@@ -1,0 +1,2 @@
+copy: src/Pure/GUI/jfx_thread.scala
+copyrev: ef0cc01e5b4a5776ccc737ac905f4f65c4a4ce13

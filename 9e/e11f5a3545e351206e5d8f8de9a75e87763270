@@ -1,0 +1,2 @@
+copy: src/HOL/Word/WordBitwise.thy
+copyrev: cf6f5abeaefc3b5e9844325eb57e180a37edd88f

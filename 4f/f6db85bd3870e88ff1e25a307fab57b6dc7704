@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Old_SMT/z3_proof_methods.ML
+copyrev: 03cc201f939b29bc19d9208ffe43e81a588573bd

@@ -1,0 +1,2 @@
+copy: src/HOL/Tools/Quotient/quotient_typ.ML
+copyrev: e29bd9e828b0d9b5f86c0a8055a74d3365fda278

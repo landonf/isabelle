@@ -1,0 +1,2 @@
+copy: src/Pure/Concurrent/bash.scala
+copyrev: 06e08020241413b27667c4a49b6bca722bd8df5e

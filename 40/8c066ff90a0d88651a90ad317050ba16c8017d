@@ -1,0 +1,2 @@
+copy: src/HOL/Record_Benchmark/Record_Benchmark.thy
+copyrev: b3be00ed8b75adf7657f648b151f0927779d9c0e

@@ -1,0 +1,2 @@
+copy: src/HOL/Word/WordExamples.thy
+copyrev: 640509a10b20fc1b578942f2ed2361b3bf91b7cc

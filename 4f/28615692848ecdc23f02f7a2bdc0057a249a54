@@ -1,0 +1,2 @@
+copy: src/HOL/Codatatype/Examples/ListF.thy
+copyrev: af6f8bf587481a89d45135c959a206e54413ba04

@@ -1,0 +1,2 @@
+copy: src/HOL/Library/Permutation.thy
+copyrev: e7039901b7160a2d19c692d0416e798ad8d54eed
