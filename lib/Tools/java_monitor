@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#
-# Author: Makarius
-#
-# DESCRIPTION: monitor another Java process
-
-isabelle java "-Dapple.awt.application.name=Java Monitor" isabelle.Java_Monitor "$@"

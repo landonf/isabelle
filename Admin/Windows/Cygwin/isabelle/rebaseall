@@ -1,4 +1,0 @@
-#!/bin/dash
-
-export PATH=/bin
-dash /bin/rebaseall
