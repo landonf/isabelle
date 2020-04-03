@@ -15,6 +15,18 @@ case $(uname -s) in
     ISABELLE_PLATFORM32=x86-linux
     ISABELLE_PLATFORM64=x86_64-linux
     ;;
+  FreeBSD)
+    ISABELLE_PLATFORM_FAMILY="freebsd"
+    case $(uname -m) in
+      i386)
+        ISABELLE_PLATFORM32=x86-freebsd
+        ;;
+      amd64)
+        ISABELLE_PLATFORM32=x86-freebsd
+        ISABELLE_PLATFORM64=x86_64-freebsd
+        ;;
+    esac
+    ;;
   Darwin)
     ISABELLE_PLATFORM_FAMILY="macos"
     case $(sw_vers -productVersion) in

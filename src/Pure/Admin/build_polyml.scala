@@ -25,6 +25,12 @@ object Build_PolyML
       Platform_Info(
         options = List("LDFLAGS=-Wl,-rpath,_DUMMY_"),
         ldd_pattern = Some(("ldd", """\s*libgmp.*=>\s*(\S+).*""".r))),
+    "freebsd" ->
+      Platform_Info(
+        options =
+          List("CC=cc", "CXX=c++", "LDFLAGS=-Wl,-rpath,_DUMMY_ -L/usr/local/lib",
+            "CFLAGS=-I/usr/local/include"),
+        ldd_pattern = Some(("ldd", """\s*libgmp.*=>\s*(\S+).*""".r))),
     "darwin" ->
       Platform_Info(
         options =
@@ -154,7 +160,7 @@ object Build_PolyML
 
     /* poly: library path */
 
-    if (Platform.is_linux) {
+    if (Platform.is_linux || Platform.is_freebsd) {
       bash(target, "chrpath -r '$ORIGIN' poly", echo = true).check
     }
     else if (Platform.is_macos) {

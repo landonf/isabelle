@@ -12,18 +12,20 @@ object Platform
   /* platform family */
 
   val is_linux: Boolean = System.getProperty("os.name", "") == "Linux"
+  val is_freebsd: Boolean = System.getProperty("os.name", "") == "FreeBSD"
   val is_macos: Boolean = System.getProperty("os.name", "") == "Mac OS X"
   val is_windows: Boolean = System.getProperty("os.name", "").startsWith("Windows")
 
   def family: Family.Value =
     if (is_linux) Family.linux
+    else if (is_freebsd) Family.freebsd  
     else if (is_macos) Family.macos
     else if (is_windows) Family.windows
     else error("Failed to determine current platform family")
 
   object Family extends Enumeration
   {
-    val linux, macos, windows = Value
+    val linux, freebsd, macos, windows = Value
 
     def unapply(name: String): Option[Value] =
       try { Some(withName(name)) }

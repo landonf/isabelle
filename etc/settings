@@ -116,7 +116,7 @@ ISABELLE_DOCS_EXAMPLES="~~/src/HOL/ex/Seq.thy:~~/src/HOL/ex/ML.thy:~~/src/HOL/Un
 
 # "open" within desktop environment (potentially asynchronous)
 case "$ISABELLE_PLATFORM_FAMILY" in
-  linux)
+  linux|freebsd)
     ISABELLE_OPEN="xdg-open"
     ;;
   macos)

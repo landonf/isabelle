@@ -36,10 +36,10 @@ TARGET="$1"; shift
 mkdir -p "$TARGET"
 
 case "$TARGET" in
-  x86_64-linux | x86_64-darwin)
+  x86_64-linux | x86_64-darwin | x86_64-freebsd)
     cc -Wall -m64 bash_process.c -o "$TARGET/bash_process"
     ;;
-  x86-linux | x86-darwin)
+  x86-linux | x86-darwin | x86-freebsd)
     cc -Wall -m32 bash_process.c -o "$TARGET/bash_process"
     ;;
   x86_64-cygwin | x86-cygwin)

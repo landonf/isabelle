@@ -47,6 +47,7 @@ object Build_JDK
   val jdk_platforms =
     List(
       JDK_Platform("x86_64-linux", ".", "bin/java", """.*ELF 64-bit.*x86[-_]64.*""".r),
+      JDK_Platform("x86_64-freebsd", ".", "bin/java", """.*ELF 64-bit.*x86[-_]64.*""".r),
       JDK_Platform("x86_64-windows", ".", "bin/java.exe", """.*PE32\+ executable.*x86[-_]64.*""".r),
       JDK_Platform("x86_64-darwin", "Contents/Home", "Contents/Home/bin/java",
         """.*Mach-O 64-bit.*x86[-_]64.*""".r))
@@ -72,6 +73,10 @@ platform-specific subdirectories.
 
 case "$ISABELLE_PLATFORM_FAMILY" in
   linux)
+    ISABELLE_JAVA_PLATFORM="$ISABELLE_PLATFORM64"
+    ISABELLE_JDK_HOME="$COMPONENT/$ISABELLE_JAVA_PLATFORM"
+    ;;
+  freebsd)
     ISABELLE_JAVA_PLATFORM="$ISABELLE_PLATFORM64"
     ISABELLE_JDK_HOME="$COMPONENT/$ISABELLE_JAVA_PLATFORM"
     ;;
