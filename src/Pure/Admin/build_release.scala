@@ -39,7 +39,7 @@ object Build_Release
     def bundle_info(platform: Platform.Family.Value): Bundle_Info =
       platform match {
         case Platform.Family.linux => Bundle_Info(platform, "Linux", dist_name + "_linux.tar.gz")
-        case Platform.Family.linux => Bundle_Info(platform, "FreeBSD", dist_name + "_freebsd.tar.gz")
+        case Platform.Family.freebsd => Bundle_Info(platform, "FreeBSD", dist_name + "_freebsd.tar.gz")
         case Platform.Family.macos => Bundle_Info(platform, "macOS", dist_name + "_macos.tar.gz")
         case Platform.Family.windows => Bundle_Info(platform, "Windows", dist_name + ".exe")
       }
@@ -261,7 +261,7 @@ directory individually.
   /* main */
 
   private val default_platform_families: List[Platform.Family.Value] =
-    List(Platform.Family.linux, Platform.Family.windows, Platform.Family.macos)
+    List(Platform.Family.linux, Platform.Family.freebsd, Platform.Family.windows, Platform.Family.macos)
 
   def build_release(base_dir: Path,
     options: Options,
